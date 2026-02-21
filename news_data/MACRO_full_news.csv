@@ -1,0 +1,1201 @@
+date,headline,source,sentiment
+2020-03-27 07:00:00+00:00,Indian stocks see volatile trading after the central bank cuts rates to 'mitigate' coronavirus impact,CNBC,-0.8882686011493206
+2020-03-27 07:00:00+00:00,"India Cuts Rate, Unleashes $50 Billion Stimulus In Virus Fight",Bloomberg,-0.22436533868312836
+2020-01-13 08:00:00+00:00,India’s economy: how the world’s fastest growing nation went off the rails,The Conversation,0.07895273715257645
+2020-01-23 08:00:00+00:00,Pushing through India’s economic slowdown,East Asia Forum,0.027457892894744873
+2020-05-29 22:14:00+00:00,Spotlight on India: Growing Economies Through Gender Parity,Council on Foreign Relations,0.6619840068742633
+2020-05-22 07:00:00+00:00,"RBI cuts repo rate again, down to 4%",The Hindu,-0.918972815386951
+2020-03-22 07:00:00+00:00,The Foundations of India’s Economic Recovery Are in Place,marcellus.in,0.43813110515475273
+2020-03-27 07:00:00+00:00,"Responding to coronavirus crisis, RBI slashes rates",The Economic Times,-0.9313626922667027
+2020-03-28 07:00:00+00:00,"RBI cuts rate by 75 bps, steepest in over 10 years; you can defer EMIs by 3 months",The Times of India,0.26158809661865234
+2020-04-08 07:00:00+00:00,India’s lockdown will further impact its already-slowing economy,The Caravan,-0.9526501409709454
+2020-06-26 07:00:00+00:00,"For India, economic growth is no substitute for Grand Strategy",orfonline.org,0.05904451571404934
+2020-05-06 07:00:00+00:00,Coronavirus lockdown: India jobless numbers cross 120 million in April,BBC,-0.9502147063612938
+2020-05-22 07:00:00+00:00,RBI Cuts Rates to Lowest Ever and Shifts Focus to Economy,Capitalmind,-0.75820417329669
+2020-05-13 07:00:00+00:00,Covid-19: Lockdown upset Modi’s plans for Indian economy,GIS Reports,-0.9464350249618292
+2020-01-16 08:00:00+00:00,Gig Economy – Shaping the Future of Work,Invest India,0.17067010328173637
+2020-03-27 07:00:00+00:00,RBI's 4.4% repo rate lowest ever; here's a look at the historical benchmark rates,CNBC TV18,-0.6381654497236013
+2020-05-22 07:00:00+00:00,India Central Bank Pledges More Easing as Economy Set to Shrink,Bloomberg,0.8231539838016033
+2020-03-17 07:00:00+00:00,"India's central bank is not part of any globally coordinated action from its peers, Citi says",CNBC,0.04387438856065273
+2020-03-27 07:00:00+00:00,RBI reduces repo rate by 75 basis points to 4.4%: Key points,The Times of India,0.044461458921432495
+2020-01-19 08:00:00+00:00,Is the Indian economy staring at stagflation?,The Hindu,-0.7367428913712502
+2020-05-22 07:00:00+00:00,India’s RBI Cuts Policy Rate to Support Economy Hit by Pandemic,The Wall Street Journal,-0.7271550670266151
+2020-03-02 08:00:00+00:00,"Decisive RBI Means India Rates Can Fall More, Citibank Says",Bloomberg,-0.8634084090590477
+2020-02-08 08:00:00+00:00,"SBI, Canara Bank, 2 other public sector banks in India cut deposit, loan interest rates",Zee Business,-0.7545685023069382
+2020-06-10 11:13:00+00:00,Union Bank of India reduces MCLR by 10 bps across all tenors - Check new interest rates,Zee Business,-0.6529320180416107
+2020-03-27 07:00:00+00:00,"EMIs put on hold, big-bang interest rate cut as RBI joins fight against coronavirus",The Times of India,-0.2662464380264282
+2020-05-12 07:00:00+00:00,SBI FD Rates Today: State Bank of India cuts fixed deposit interest rates; know its impact on your money,Zee Business,-0.8067421577870846
+2020-05-22 07:00:00+00:00,RBI cuts interest rates further by 40 bps; extends moratorium on loans,Forbes India,-0.5012849271297455
+2020-02-06 08:00:00+00:00,No cut again: RBI leaves repo rate unchanged at 5.15%,The Times of India,-0.19635048508644104
+2020-03-12 07:00:00+00:00,The Success of India’s Liberalization in 1991,trends.ufm.edu,0.4852283447980881
+2020-05-30 07:00:00+00:00,Worried about falling FD interest rates? Do this to protect your deposits,CNBC TV18,-0.015509184449911118
+2020-04-24 07:00:00+00:00,Should you take loans linked to benchmarks other than repo rate? Which banks offer these?,The Economic Times,0.005046047270298004
+2020-04-14 07:00:00+00:00,"IMF projects India's growth rate at 1.9% in 2020, forecasts global recession due to COVID-19",The Economic Times,-0.9088714849203825
+2020-03-27 07:00:00+00:00,"RBI cuts rates, allows moratorium on auto, home loan EMIs",The Hindu,-0.5279973857104778
+2020-04-20 07:00:00+00:00,IMF says India's growth rate could top 7% in 2021 if the coronavirus outbreak is brought under control,CNBC,0.9255280774086714
+2020-03-27 07:00:00+00:00,"COVID-19 impact: What RBI's emergency rate cut means for your loans, fixed deposit investors",The Economic Times,0.034810882061719894
+2020-03-18 07:00:00+00:00,Repo-linked home loan rates likely to go down,Mint,-0.9423770010471344
+2020-05-23 07:00:00+00:00,"Covid-19: Home loan rates set to dip to 15-year low, EMIs to fall",The Times of India,-0.9437776021659374
+2020-06-28 07:00:00+00:00,"What Banks Have Been Equipped To Do, And What They Can Do, To Aid In An Economic Revival",Swarajyamag,0.1755958152934909
+2020-04-24 07:00:00+00:00,"Explained: To print more money, or not to",The Indian Express,-0.008735239505767822
+2020-06-23 07:00:00+00:00,"India retains position as third largest economy in PPP, global actual Individual consumption, capital form",The Economic Times,0.22963504493236542
+2020-01-07 08:00:00+00:00,India's GDP growth rate for 2019-20 estimated at 5% against 6.8% in FY19,Business Standard,0.7228633612394333
+2020-06-03 07:00:00+00:00,How to understand gilt funds,Morningstar,0.036450063809752464
+2020-03-26 07:00:00+00:00,Gold Rate Trend in India in March 2020 – Week 3,ClearTax Chronicles,-0.06813876330852509
+2020-04-16 07:00:00+00:00,"PPF to fetch 7.1%, NSC 6.8% as govt slashes small savings schemes interest rates",The Economic Times,-0.6621587201952934
+2020-02-21 08:00:00+00:00,India and Bangladesh: Migration claims fact-checked,BBC,-0.07390714436769485
+2020-05-22 07:00:00+00:00,What RBI's repo rate cut means for loan EMIs,CNBC TV18,0.007295381277799606
+2020-05-28 07:00:00+00:00,SBI cuts fixed deposit interest rates across tenors,CNBC TV18,-0.8203697428107262
+2020-01-14 08:00:00+00:00,SBI cuts interest rates on FDs by 15 bps; check latest rates here,Moneycontrol,-0.07750577479600906
+2020-04-15 07:00:00+00:00,Real return on money in SBI saving account is -3% per annum,The Economic Times,0.024332864210009575
+2020-06-27 07:00:00+00:00,Government launches 7.15% floating rate bonds: Here's all you need to know,The Economic Times,0.009535223245620728
+2020-05-24 07:00:00+00:00,"What RBI rate cut means for the borrower, investor, depositor",Mint,-0.007035207003355026
+2020-07-01 07:00:00+00:00,"PPF, NSC and other post office schemes interest rates remain unchanged",The Economic Times,0.0030255094170570374
+2020-05-21 07:00:00+00:00,"Significant scope to bring India's Interest rates down: Sanjeev Sanyal, Principal Economic Advisor to FM",The New Indian Express,0.05289241671562195
+2020-02-17 08:00:00+00:00,Bank savings account interest rate at 7%. Check latest rates here,Mint,-0.042607130482792854
+2020-02-06 08:00:00+00:00,Repo boost to liquidity,Telegraph India,0.9211164899170399
+2020-02-14 08:00:00+00:00,"New Fixed Deposit (FD) rates by SBI, Axis Bank, Bank of Baroda: Compare here",Elets BFSI,0.017153017222881317
+2020-04-17 07:00:00+00:00,"Covid-19 update: RBI cuts reverse repo rate to 3.75%, keeps repo rate unchanged | Business News",Hindustan Times,-0.3611724153161049
+2020-03-25 07:00:00+00:00,India headed for rare quarterly contraction on coronavirus lockdown,The Economic Times,-0.8352140188217163
+2020-03-27 07:00:00+00:00,In Charts I Coronavirus crisis: Magnitude of RBI rate cut and how it compares with peers',Moneycontrol,0.06538153626024723
+2020-05-03 07:00:00+00:00,India Post offers higher interest rate on savings deposit than subsidiary Bank,BusinessLine,0.20466332230716944
+2020-03-23 07:00:00+00:00,Finzy launches personal loan at affordable rate at 7.99%,The Times of India,0.22222157567739487
+2020-02-10 08:00:00+00:00,State Bank Of India (SBI) to offer new returns on these Fixed Deposits From February 10,Elets BFSI,0.15051002521067858
+2020-06-24 07:00:00+00:00,"Nivesh Lakshya Fund is timing and interest-rate agnostic, says Prashant Pimple of Nippon India MF",The Economic Times,-0.5979399420320988
+2020-07-01 07:00:00+00:00,Home loan rates of public sector banks turn attractive,Mint,-0.8740303311496973
+2020-04-14 07:00:00+00:00,What affects the gold price in India?,The Times of India,-0.2639374788850546
+2020-03-28 07:00:00+00:00,"RBI Cuts Rates, Allows 3-Month Pause On EMIs To Offset Coronavirus Impact, Other Top Stories",NDTV,-0.23539046198129654
+2020-01-03 08:00:00+00:00,Home loan interest rate falls below 8% for first time in 15 years – Check SBI offers,The Financial Express,-0.9406474810093641
+2020-05-16 07:00:00+00:00,Latest Post Office Interest Rates – April to June-2020,Myinvestmentideas,-0.004709005355834961
+2020-01-31 08:00:00+00:00,"IMF Offers Glimmer Of Hope To India's Economy, Says Growth Rate Low But It's Far From Recession",Indiatimes,-0.34363603591918945
+2020-03-11 07:00:00+00:00,SBI cuts interest rate on savings accounts; removes minimum balance requirement,The Times of India,-0.7945986837148666
+2020-02-06 08:00:00+00:00,RBI Holds Rates Steady As Expected Amid Accelerating Inflation,TheWire.in,0.08702507615089417
+2020-03-27 07:00:00+00:00,From halt in EMIs to rate cut: Key takeaways from RBI Governor's address,Mint,0.01401929184794426
+2020-04-01 07:00:00+00:00,"COVID-19 Effect: Even as FDs turn dull, stay with safe instruments in current times",The Indian Express,0.09863168187439442
+2020-04-08 07:00:00+00:00,India's economy needs big dose of health spending,Mint,0.2036861889064312
+2020-01-13 08:00:00+00:00,"India’s Inflation Rate Hits A Staggering 7.35%, Highest Since 2014. All Is Clearly Not Well.",Indiatimes,-0.9243288896977901
+2020-05-04 07:00:00+00:00,"In lockdown, India’s manufacturers see their biggest slump yet",Al Jazeera,-0.9548071268945932
+2020-06-10 07:00:00+00:00,Why SFBs are offering higher deposit rates than large commercial banks?,Mint,0.09233429096639156
+2020-02-19 08:00:00+00:00,Explained: India’s ‘imported’ food inflation,The Indian Express,0.10970551520586014
+2020-04-06 07:00:00+00:00,Does it make sense to buy RBI 7.75% bonds in low-rate regime?,Mint,0.020873213186860085
+2020-03-12 07:00:00+00:00,"SBI FD rates below 6%, lowest since ’04",The Times of India,-0.9598285080865026
+2020-02-14 08:00:00+00:00,RBI’s lending push amid inflation to crimp fixed deposit (FD) returns,Mint,0.5947029739618301
+2020-04-29 07:00:00+00:00,SBI's 1-year FD is offering lower interest rate than some banks' savings accounts,The Economic Times,-0.8393455781042576
+2020-04-20 07:00:00+00:00,Explained: How reverse repo rate became benchmark interest rate in the economy,The Indian Express,-0.008214430883526802
+2020-03-27 07:00:00+00:00,RBI moratorium: How does the rate cut help you? 8 questions answered,Moneycontrol,0.020786691457033157
+2020-03-11 07:00:00+00:00,"SBI pares savings account interest rate to 3%, scraps minimum balance fine",Business Standard,-0.5664075836539268
+2020-01-03 08:00:00+00:00,Best FD Interest Rates in Jan-2020 | Highest Bank FD Rates in India,Myinvestmentideas,0.7601655013859272
+2020-04-02 07:00:00+00:00,Interest cut in small-savings: Rates still attractive in many schemes,Moneycontrol,0.8780276998877525
+2020-06-23 07:00:00+00:00,Why floating rate home loans hold an edge over their fixed interest peers,Moneycontrol,0.059371329843997955
+2020-03-28 07:00:00+00:00,SBI new fixed deposit (FD) rates from today. Latest rates here,Mint,0.007406849414110184
+2020-01-14 08:00:00+00:00,SBI FD interest rates slashed! Check all details of fixed deposit rates here as per sbi.co.in,Zee Business,-0.10385677963495255
+2020-05-18 07:00:00+00:00,SBI's new FD rates come into effect. Check the rates here,The Economic Times,0.00010211020708084106
+2020-04-01 07:00:00+00:00,"PPF, Sukanya Yojana to NSC, small saving schemes interest rates cut by government; you will get this much now",Zee Business,0.7134060002863407
+2020-06-02 07:00:00+00:00,SBI cuts savings bank deposit rates by 5 bps to 2.70%,The Times of India,-0.4809657782316208
+2020-05-05 07:00:00+00:00,Yes Bank NRI Deposit Account Interest Rates | Business News,The Times of India,-0.05370793491601944
+2020-02-09 08:00:00+00:00,"RBI to conduct long-term repo operations on Feb 17, 24 for ₹50,000 crore",Mint,0.016513628885149956
+2020-02-14 08:00:00+00:00,"SBI revises fixed deposit (FD) rates. How they compare with Axis Bank, Bank of Baroda",Mint,0.00783548690378666
+2020-02-08 08:00:00+00:00,Bank of India reduces six-month MCLR by 10 basis points,The Statesman,-0.44144442677497864
+2020-02-24 08:00:00+00:00,Bank fixed deposit (FD) interest rates at 9%. Latest rates here,Mint,-0.01140703447163105
+2020-01-02 08:00:00+00:00,Small savings schemes interest rates unchanged for Jan-Mar quarter of FY 2019-20:Fin Min,AffairsCloud.com,-0.051667969673871994
+2020-02-20 08:00:00+00:00,"SBI, Axis Bank, PNB revise FD rates in February",CNBC TV18,-0.03359188511967659
+2020-12-04 08:00:00+00:00,India's central bank keeps interest rates unchanged as inflation remains high,CNBC,-0.08232288807630539
+2020-08-19 07:00:00+00:00,RBI keeps repo rate unchanged: Key things to know,The Times of India,0.034900883212685585
+2020-12-04 08:00:00+00:00,"India's central bank holds rates, says will ensure ample liquidity",Reuters,0.28544600307941437
+2020-09-30 07:00:00+00:00,Coronavirus Crisis Shatters India’s Big Dreams (Published 2020),The New York Times,-0.02585500478744507
+2020-08-26 07:00:00+00:00,India’s turning point: An economic agenda to spur growth and jobs,McKinsey & Company,0.28872003965079784
+2020-10-21 07:00:00+00:00,RBI reinforce liquidity measures while keeping the interest rate constant,Yale School of Management,0.2659718431532383
+2020-07-31 07:00:00+00:00,India coronavirus: Gold rush as pandemic roils country's economy,BBC,-0.6750983074307442
+2020-12-04 08:00:00+00:00,"RBI leaves policy rates unchanged, accommodative stance of monetary policy to continue as long as necessary",PIB,0.05816959589719772
+2020-07-20 07:00:00+00:00,Check out banks with lowest home loan interest rates,Mint,-0.09202293679118156
+2020-08-12 07:00:00+00:00,Understanding the Impact of GSP Withdrawal on India’s Top Exports to the US,orfonline.org,-0.16626903414726257
+2020-08-27 07:00:00+00:00,Coronavirus pain: Exorbitant interest rates hurt India’s farmers,Al Jazeera,-0.9039122462272644
+2020-11-27 08:00:00+00:00,"India’s GDP fell by 7.5% in July-September, economy in technical recession for first time ever",Scroll.in,-0.9678066801279783
+2020-07-20 07:00:00+00:00,ExplainSpeaking: How high real interest rates are holding back investments in Indian economy,The Indian Express,-0.6473274528980255
+2020-12-06 08:00:00+00:00,"The Hindu Explains | What is inflation, and what is the RBI’s role in tackling it?",The Hindu,-0.0361029002815485
+2020-10-05 07:00:00+00:00,India’s Central Bank to Resume Rate Meeting With New Panel,Bloomberg.com,0.0003296881914138794
+2020-11-26 08:00:00+00:00,Short-term rates crash in India with funds overflowing with cash,Mint,-0.9542991137132049
+2020-10-07 07:00:00+00:00,RBI’s MPC panel likely to hold rates,The Times of India,-0.05890272185206413
+2020-08-06 07:00:00+00:00,RBI keeps interest rates on hold,The Times of India,-0.03142964839935303
+2020-08-05 07:00:00+00:00,These banks are offering lowest interest rates on personal loans,Mint,-0.04444326460361481
+2020-09-30 07:00:00+00:00,Chart Of The Day: Bank FD Rates From 1976,Capitalmind,-0.10269267857074738
+2020-12-21 08:00:00+00:00,India’s gold market in November: Indian retail demand continued to improve with Dhanteras and wedding sales,World Gold Council,0.9356936477124691
+2020-12-23 08:00:00+00:00,"Union Bank, Bank of India and Bank of Baroda offer the lowest rates on educations loans",Moneycontrol,-0.3447131644934416
+2020-11-04 08:00:00+00:00,High home loan demand triggers interest rate war,The Times of India,-0.5749026611447334
+2020-08-31 07:00:00+00:00,GDP growth at -23.9% in Q1; first contraction in more than 40 years,The Economic Times,-0.8595162257552147
+2020-08-28 07:00:00+00:00,Home loans that come with the lowest interest rate,Moneycontrol,-0.4728958774358034
+2020-08-09 07:00:00+00:00,The repo rate cut cycles help PSBs shore up capital,Mint,0.9110912848263979
+2020-11-03 08:00:00+00:00,"Top banks offer festive home loan bonanza, check interest rates",India Today,0.05175717920064926
+2020-10-04 07:00:00+00:00,Modi’s Key Reforms Stall as Pandemic Upends India’s Economy,Bloomberg.com,-0.7707575932145119
+2020-11-24 08:00:00+00:00,India Rate-Setter Sees High Inflation Throttling Policy Space,Bloomberg.com,-0.8852312602102757
+2020-10-12 07:00:00+00:00,"Reserve Bank of India revises Monetary Policy Committee, Repo Rate remains Unchanged",LawStreet Journal,-0.07736262679100037
+2020-10-17 07:00:00+00:00,HDFC Bank reduces fixed deposit rates: Things to know,The Times of India,0.02847878448665142
+2020-08-31 07:00:00+00:00,RBI announces steps to ease pressure on liquidity: All you need to know,India TV News,0.07243046537041664
+2020-12-15 08:00:00+00:00,Punjab & Sind Bank and Central Bank of India offer car loans at 7.1 %,Moneycontrol,0.029072376899421215
+2020-11-12 08:00:00+00:00,Moody's raises India's 2020 GDP forecast to -8.9% as Covid cases drop,Business Standard,0.7683525308966637
+2020-07-12 07:00:00+00:00,Covid-19 helped achieve what RBI policy could not,Mint,0.6981739290058613
+2020-12-23 08:00:00+00:00,Dynamics between Interest Rate and Real Estate Investment Trusts (REITs),Colliers,-0.025411318987607956
+2020-12-07 08:00:00+00:00,"Kotak Mahindra, Punjab National Bank offer the lowest rates on home loans",Moneycontrol,-0.33599910140037537
+2020-12-10 08:00:00+00:00,Bulletin – December 2020 Global Economy Economic Developments in India,Reserve Bank of Australia,-0.01844262331724167
+2020-08-19 07:00:00+00:00,India's corp bond market is finally drawing interest,Mint,0.689062237739563
+2020-12-03 08:00:00+00:00,India’s new record-low solar power tariff demonstrates investor confidence despite the pandemic,Institute for Energy Economics and Financial Analysis (IEEFA),0.9267217256128788
+2020-08-07 07:00:00+00:00,Monetary Policy Report: RBI,Drishti IAS,-0.02394566312432289
+2020-08-03 07:00:00+00:00,Union Bank cuts home loan interest rate to 6.7%,The Times of India,-0.6508222073316574
+2020-07-02 07:00:00+00:00,Big News for SBI Customers! Home loan gets cheaper as bank cuts lending rates. Check revised interest rates,India TV News,0.016090966761112213
+2020-10-23 07:00:00+00:00,Future rate cuts possible if inflation evolves as per expectations: RBI Governor Shaktikanta Das,India Today,0.009237408638000488
+2020-07-01 07:00:00+00:00,"PPF, NSC and other post office schemes interest rates remain unchanged",The Economic Times,0.0030255094170570374
+2020-07-24 07:00:00+00:00,Here are fixed deposits that pay up to 8% interest to senior citizens,Moneycontrol,0.0013874154537916183
+2020-10-14 07:00:00+00:00,What Is Stagflation? Is It Coming For India?,Goodreturns,-0.09385596960783005
+2020-10-09 07:00:00+00:00,RBI relief for Covid-19 pain,Fortune India,0.11912277899682522
+2020-10-29 07:00:00+00:00,High food prices at heart of India’s inflation problem,Mint,-0.5649047642946243
+2020-09-02 07:00:00+00:00,RBI looks to tame inflation with a stronger rupee,Mint,0.8292826879769564
+2020-10-31 07:00:00+00:00,Union Bank of India cuts home loan rates by 10 bps,BusinessLine,-0.793037835508585
+2020-12-01 08:00:00+00:00,"LVB customers can continue to avail all banking services, interest rates: DBS Bank India",The Statesman,0.024882757104933262
+2020-08-10 07:00:00+00:00,Union Bank of India reduces MCLR! Check full details of new interest rates,Zee Business,-0.007966544479131699
+2020-07-01 07:00:00+00:00,Home loan rates of public sector banks turn attractive,Mint,-0.8740303311496973
+2020-08-24 07:00:00+00:00,India’s inflation targeting raises tough questions,Mint,-0.21278547495603561
+2020-07-27 07:00:00+00:00,Indian Bank cuts interest rate on agricultural jewel loans,The Times of India,-0.8556187972426414
+2020-09-14 07:00:00+00:00,SBI revises fixed deposit (FD) rates. Latest FD rates here,Mint,-0.040942033752799034
+2020-11-21 08:00:00+00:00,"Monetary Aggregates: Understand the Monetary Statistics M0, M1, M2, M3 etc",ClearIAS,0.0028541628271341324
+2020-11-27 08:00:00+00:00,New Solar Tariff Record of ₹2/kWh: Why Did it Go So Low?,Mercomindia.com,-0.373606875538826
+2020-08-21 07:00:00+00:00,Personal loan interest rates 2022: Comparison of top bank personal loan rates,The Economic Times,0.02509380877017975
+2020-10-27 07:00:00+00:00,Exploring the depth of Asia’s unconventional central bank easing,ING THINK economic and financial analysis | ING THINK,0.051112422719597816
+2020-07-09 07:00:00+00:00,BofA Securities sees RBI cutting interest rate by at least 50bps by Oct; economy to shrink 3%,theweek.in,-0.02633628249168396
+2020-08-27 07:00:00+00:00,Indian farmers driven to debt as banks turn risk-averse during pandemic,Reuters,-0.9335255213081837
+2020-07-26 07:00:00+00:00,Dosa Economics: How Falling Interest Rates on Deposits is not always bad?,getmoneyrich,-0.6165544129908085
+2020-09-01 07:00:00+00:00,Capital Pains — challenges posed by high interest rate regime in Bharat,HinduPost,-0.10907898843288422
+2020-08-18 07:00:00+00:00,Negative real interest rates: A key trigger for gold’s continuing rally,Moneycontrol,-0.3762213736772537
+2020-08-02 07:00:00+00:00,Senior citizens bank fixed deposit (FD) rates above 9%. Check details,Mint,0.01892734318971634
+2020-09-18 07:00:00+00:00,Public sector banks that offer best interest rates on savings accounts,Moneycontrol,0.08068084623664618
+2020-10-15 07:00:00+00:00,SC welcomes relief on interest but wants it to be speeded up,The Times of India,0.7356350459158421
+2020-12-31 08:00:00+00:00,"No cut in PPF, NSC, other post office schemes' interest rates for Q4 of FY 2020-21",The Economic Times,-0.020091835409402847
+2020-07-31 07:00:00+00:00,10 tax-saving fixed deposits that offer the best interest rates,Moneycontrol,0.32858297135680914
+2020-11-17 08:00:00+00:00,"IndusInd, RBL and Yes Banks offer the best interest rates on one-year fixed deposits",Moneycontrol,0.15121673978865147
+2020-12-05 08:00:00+00:00,How to benefit from low home loan interest rates,Housing,0.14681206922978163
+2020-08-09 07:00:00+00:00,Latest bank FD rates: SBI vs ICICI Bank vs HDFC Bank vs Bank of India,Mint,0.2452564239501953
+2020-11-19 08:00:00+00:00,UCO Bank announces cuts on home loan rate by 25 basis points,India Today,-0.6916511654853821
+2020-10-30 07:00:00+00:00,"DCB, RBL and Punjab National banks offer attractive rates on 3-year fixed deposits for senior citizens",Moneycontrol,0.6312792059034109
+2020-10-23 07:00:00+00:00,Here are public sector banks that offer the best interest rates on savings accounts,Moneycontrol,0.054649087600409985
+2020-11-19 08:00:00+00:00,"Union Bank, Central Bank and Bank of Baroda offer the lowest rates on educations loans",Moneycontrol,-0.2678256630897522
+2020-12-18 08:00:00+00:00,IndusInd Bank and RBL Bank offer the best rates on one-year fixed deposits,Moneycontrol,0.2759393472224474
+2020-09-07 07:00:00+00:00,Gold loan gets cheaper as SBI cuts interest rates - here's how to apply,DNA India,0.04375477693974972
+2020-12-11 08:00:00+00:00,Bandhan Bank and IDFC First Bank offer up to 7% on savings accounts,Moneycontrol,0.0810552192851901
+2020-12-10 08:00:00+00:00,Explained: Here is why petrol and diesel prices are rising,The Indian Express,0.016021285206079483
+2020-10-29 07:00:00+00:00,"Bihar's unemployment rate on the rise, much higher than all-India average: CMIE",The Economic Times,0.8243529312312603
+2020-08-09 07:00:00+00:00,How the COVID-19 outbreak has affected the joblessness rate in India -- explained in 4 charts,Times Now,-0.6571325082331896
+2020-07-03 07:00:00+00:00,Don’t just consider the interest rates when taking a home loan,Mint,-0.02145054005086422
+2020-07-25 07:00:00+00:00,Indian Bank trims interest rate on gold loans for farmers,The Times of India,-0.07759349048137665
+2020-11-05 08:00:00+00:00,Reduce EMIs by shifting your home loan to a bank that offers lower interest rate,Moneycontrol,0.08031992800533772
+2020-08-07 07:00:00+00:00,Gold loan interest rates 2022: Top gold loan rates and comparison,The Economic Times,0.047423429787158966
+2020-11-30 08:00:00+00:00,Lakshmi Vilas Bank customers can access all services; no change in interest rates as of now: DBS,The New Indian Express,0.03260686807334423
+2020-12-27 08:00:00+00:00,"Govt shells out Rs 22,087 cr as interest towards recap bonds for banks",Business Standard,0.03955973498523235
+2020-11-18 08:00:00+00:00,Why your personal inflation rate may be much higher than the official number,Moneycontrol,-0.12509266287088394
+2020-07-23 07:00:00+00:00,LICHF cuts home loan rate to 6.9%,The Times of India,-0.5259247347712517
+2020-08-01 07:00:00+00:00,Negative real rates may be a new normal: SBI report,The Financial Express,-0.1665957346558571
+2020-09-21 07:00:00+00:00,Shriram City Union Finance offers highest interest rate on fixed deposits in the market,ANI News,0.11447788681834936
+2020-09-02 07:00:00+00:00,PPF Interest Rate History 1968 to Present,freefincal,-0.016158079728484154
+2020-10-04 07:00:00+00:00,"Latest Post Office interest Rates – Jul, Aug and Sep 2020",Myinvestmentideas,-0.023355847224593163
+2020-09-15 07:00:00+00:00,SBI gives home loan borrowers option of moving to new rate regime,Mint,0.040692972019314766
+2020-11-06 08:00:00+00:00,"Punjab & Sind, Central and Canara banks offer the cheapest car loans",Moneycontrol,0.4801939772441983
+2020-07-29 07:00:00+00:00,Lower rates an opportunity to re-negotiate your home loan interest,Business Standard,0.15597016923129559
+2020-11-12 08:00:00+00:00,"The cheapest home loans: Kotak Mahindra, Union Bank offer the lowest rates",Moneycontrol,-0.5706638172268867
+2021-06-17 07:00:00+00:00,The Response of the Reserve Bank of India to Covid-19: Do Whatever it Takes,CSEP India,0.029298339039087296
+2021-06-30 07:00:00+00:00,How has Covid-19 affected India’s economy?,Economics Observatory,-0.6987377293407917
+2021-05-28 07:00:00+00:00,Inflation in India: Structural or Transitory? - A closer look,Invest India,0.01094091311097145
+2021-02-05 08:00:00+00:00,"RBI leaves policy rates unchanged, accommodative stance of monetary policy to revive growth and mitigate impact of COVID-19",PIB,0.5167634366080165
+2021-06-14 07:00:00+00:00,Should India Print Money to Recover From This Economic Slump?,factchecker.in,-0.029792949557304382
+2021-03-24 07:00:00+00:00,"How do fiscal, monetary policies, and trade openness impact interest rates in India?",Wiley Online Library,-0.24536609277129173
+2021-02-23 08:00:00+00:00,Minimum Interest Rates on loans to foreign WOS – Need for Review,Cyril Amarchand Mangaldas,-0.016885539516806602
+2021-01-18 08:00:00+00:00,Post-Pandemic Economic Recovery: Seven Priorities for India,orfonline.org,0.1421938855201006
+2021-02-24 08:00:00+00:00,India : from loans to credit since 4000 years and the existence banks for 2500 years,CADTM,0.022847408428788185
+2021-06-07 07:00:00+00:00,ExplainSpeaking: The state of Indian economy’s past and future in six charts,The Indian Express,0.0321477297693491
+2021-02-02 08:00:00+00:00,How fast can India’s economy grow?,Schroders,0.21291645430028439
+2021-03-02 08:00:00+00:00,Why fixed depositors investors can expect higher interest rates ahead and what they should do now,The Economic Times,-0.025053396821022034
+2021-04-01 07:00:00+00:00,India rolls back decision to cut interest rates on small savings,Reuters,-0.3084348142147064
+2021-01-07 08:00:00+00:00,India’s economy braces for biggest contraction since 1952,Al Jazeera,-0.8820669092237949
+2021-04-08 07:00:00+00:00,Explained: Benefits and drawbacks of low interest rate regime,India Today,0.05401308834552765
+2021-03-23 07:00:00+00:00,BofA says Covid crisis will delay India overtaking Japan as third-largest economy by 3 years,CNBC,-0.8645394016057253
+2021-02-04 08:00:00+00:00,RBI holds rates steady,Reuters,0.01729411631822586
+2021-05-13 07:00:00+00:00,A transition away from LIBOR – What it means for ECB lending in India,Cyril Amarchand Mangaldas,0.1765813883394003
+2021-05-28 07:00:00+00:00,"COVID-19 toll on Indian economy deepens, jobs crisis to worsen: Reuters poll",Reuters,-0.7036981210112572
+2021-04-01 07:00:00+00:00,4% Inflation Target Retained by Government,Drishti IAS,0.06202923506498337
+2021-01-15 08:00:00+00:00,Home loan interest rates: Check the latest rates of top banks,India Today,-0.016379907727241516
+2021-02-05 08:00:00+00:00,"RBI keeps repo rate unchanged at 4%, pegs GDP growth at 10.5%",The Times of India,0.18511560931801796
+2021-04-07 07:00:00+00:00,"RBI Monetary Policy Highlights: Growth currently not undermined due to rising COVID-19 cases, says RBI Governor",Moneycontrol,-0.39229488372802734
+2021-06-03 07:00:00+00:00,India Central Bank Expands QE as Growth Seen Faltering,Bloomberg.com,-0.919891120865941
+2021-04-06 07:00:00+00:00,"Union Bank, Central Bank of India offer the lowest interest rates on personal loans",Moneycontrol,-0.1083263773471117
+2021-03-25 07:00:00+00:00,"India to be the third largest economy in 10 years: Indranil Sen Gupta, BofA Securities",The Economic Times,0.17817619815468788
+2021-03-20 07:00:00+00:00,How did inflation targeting really impact India?,The Indian Express,-0.16254597157239914
+2021-03-01 08:00:00+00:00,SBI reduces home loan interest rates to 6.70%,The Times of India,0.07065511494874954
+2021-06-04 07:00:00+00:00,RBI Monetary Policy Review: Repo rate remains unchanged at 4%%,Elets BFSI,-0.10070685297250748
+2021-03-31 07:00:00+00:00,"India Retains Inflation Target, Keeps Borrowing as Planned",Bloomberg.com,0.21875320188701153
+2021-03-18 07:00:00+00:00,"Union Bank, State Bank of India offer education loans at 6.8-6.85%",Moneycontrol,0.03454658668488264
+2021-06-30 07:00:00+00:00,Government keeps interest rates on small savings schemes unchanged for Q2,The Times of India,-0.03371370583772659
+2021-04-07 07:00:00+00:00,RBI Monetary Policy: Repo rate remains unchanged for the 5th time in a row,Elets BFSI,-0.41150474548339844
+2021-04-07 07:00:00+00:00,Lower your return expectations from debt funds,Morningstar,-0.07252582907676697
+2021-04-12 07:00:00+00:00,Unemployment rate rises as Covid-19 returns to haunt Indian economy,India Today,-0.08039367198944092
+2021-06-15 07:00:00+00:00,India's jobless rate slides 8.7% in signs economy is turning around,Business Standard,-0.9171611480414867
+2021-06-21 07:00:00+00:00,Can we Compare Bank Nifty with Interest Rate Spread to Find the Cyclical Movement?,Investing.com India,0.038843030110001564
+2021-02-26 08:00:00+00:00,India’s economic recovery on track as COVID crisis slowly ebbs,Al Jazeera,0.5956617444753647
+2021-06-29 07:00:00+00:00,Record high fuel prices put India's economy on slippery track. Here's why,India Today,-0.41152549535036087
+2021-04-09 07:00:00+00:00,DCB Bank and Yes Bank offer the best interest rates on tax-saving deposits,Moneycontrol,0.23983745835721493
+2021-01-26 08:00:00+00:00,"India’s GDP estimated to contract by 9.6% in 2020, may grow by 7.3% in 2021: UN report",Scroll.in,-0.031033337116241455
+2021-05-24 07:00:00+00:00,India's threshold inflation level is 6 per cent: Fromer MPC member,The Economic Times,0.03397911787033081
+2021-06-05 07:00:00+00:00,Is RBI’s Independence Waning?,ClearIAS,-0.5390166789293289
+2021-04-19 07:00:00+00:00,"Punjab & Sind Bank, Central Bank of India offer the lowest rates on car loans",Moneycontrol,-0.2597722876816988
+2021-01-08 08:00:00+00:00,SBI Home Loan: State Bank of India announces huge bonanza for homebuyers! Lowers interest rate up to 30 bps,Zee Business,0.7613055631518364
+2021-06-04 07:00:00+00:00,RBI keeps policy rate unchanged for 6th time in a row,Telegraph India,-0.18837414681911469
+2021-04-28 07:00:00+00:00,Will the Second Wave of COVID-19 and Inflation Turn the Interest Rate Cycle?,PersonalFN,-0.08738087117671967
+2021-01-12 08:00:00+00:00,SBI Fixed Deposit Interest Rates Revised From January 2021,The Quint,-0.20526855438947678
+2021-02-05 08:00:00+00:00,"RBI Monetary Policy Review: Repo Rate remains at 4%, reverse repo rate untouched at 3.35%",Elets BFSI,-0.31733881495893
+2021-02-10 08:00:00+00:00,"How to Make Finance Cheaper, More Accessible for EVs in India",RMI,0.18753005284816027
+2021-01-11 08:00:00+00:00,SBI FD: State Bank of India revises fixed deposit interest rate; check at sbi.co.in for latest update,Zee Business,-0.021548591554164886
+2021-07-01 07:00:00+00:00,Small savings rates left unchanged,The Times of India,-0.17294853180646896
+2021-06-17 07:00:00+00:00,"Union Bank, Central Bank of India offer the lowest interest rates on personal loans",Moneycontrol,-0.1083263773471117
+2021-02-05 08:00:00+00:00,RBI announcements reflect its commitment to take economy on growth path: Industry experts,The Economic Times,0.2767969500273466
+2021-04-04 07:00:00+00:00,Surge in Covid cases may prompt RBI to maintain status quo on rates,Mint,-0.569530539214611
+2021-03-21 07:00:00+00:00,Why lenders no longer offer fixed rate home loan,Deccan Herald,-0.11907656490802765
+2021-03-01 08:00:00+00:00,"India's recovery is 'here to stay,' economic advisor to Prime Minister Narendra Modi says",CNBC,0.7244953196495771
+2021-01-08 08:00:00+00:00,Indian Economy: What Happened with the 3 Premises of Explosive Growth Rates?,Moneylife,-0.6364595368504524
+2021-01-24 08:00:00+00:00,Choosing the frequency of an MCLR reset for your loan,The Hindu,-0.01728556677699089
+2021-04-01 07:00:00+00:00,"Check interest rates on small savings schemes like PPF, NSC",India Today,-0.023779887706041336
+2021-03-26 07:00:00+00:00,EXPLAINED | The 2013 Taper Tantrum and why its spectre is being raised again,Moneycontrol,-0.03227166831493378
+2021-02-23 08:00:00+00:00,"Not SBI, these banks are offering cheapest personal loan - Union Bank, PNB, Central Bank of India and more",Zee Business,0.2730847531929612
+2021-04-05 07:00:00+00:00,"SBI hikes interest rate on home loan, check revised rate",India TV News,-0.17178252339363098
+2021-02-09 08:00:00+00:00,"Consumer price inflation: Compared to India, where do other countries stand?",CNBC TV18,-0.32386884465813637
+2021-06-01 07:00:00+00:00,"Explained: India’s GDP fall, in perspective",The Indian Express,-0.9499535178765655
+2021-04-13 07:00:00+00:00,Get Covid-19 vaccine to get higher interest rate on this scheme of Central Bank of India,India TV News,0.27480968460440636
+2021-06-18 07:00:00+00:00,"Explained: Federal Reserve signals, and Indian markets",The Indian Express,-0.028905393555760384
+2021-05-01 07:00:00+00:00,SBI cuts home loan interest rate to 6.7%,The Times of India,-0.5258843079209328
+2021-04-19 07:00:00+00:00,"S-E Asia turns to India for maize on Myanmar unrest, surging freight rates",BusinessLine,-0.7217816114425659
+2021-06-23 07:00:00+00:00,India’s gold market in May: retail demand collapsed amid COVID-induced lockdowns,World Gold Council,-0.9629423962906003
+2021-04-01 07:00:00+00:00,"Interest rates on small saving schemes cut sharply: PPF to fetch 6.4%, NSC 5.9%",The Indian Express,-0.4549960494041443
+2021-04-07 07:00:00+00:00,SBI Home Loan Interest Rates: IMPORTANT CLARIFICATION from State Bank of India,Zee Business,0.044650593772530556
+2021-04-05 07:00:00+00:00,SBI hikes minimum interest rate on home loans. Check details,India Today,0.029021039605140686
+2021-02-22 08:00:00+00:00,"Union Bank, Punjab National Bank offer the lowest interest rates on personal loans",Moneycontrol,-0.14325741864740849
+2021-04-08 07:00:00+00:00,Looking Forward To Having Your Own House? Check Best Home Loan Interest Rates From These Banks,India.Com,0.03612140379846096
+2021-01-29 08:00:00+00:00,India's GDP growth rate for 2019-20 revised downwards to 4% from 4.2%,Business Standard,0.3344438970088959
+2021-03-10 08:00:00+00:00,Kotak Mahindra Bank and State Bank of India offer the lowest rates on home loans,Moneycontrol,-0.4384329617023468
+2021-03-01 08:00:00+00:00,"Punjab & Sind Bank, Central Bank of India offer the cheapest car loans",Moneycontrol,0.44079675897955894
+2021-02-02 08:00:00+00:00,Budget 2021: What it means for interest rates and debt fund investors,Moneycontrol,0.013003438711166382
+2021-05-31 07:00:00+00:00,India economy seen growing at world's quickest rate despite Covid outbreak,Business Standard,0.9024961180984974
+2021-06-10 07:00:00+00:00,"Kotak Mahindra Bank, Punjab & Sind Bank offer the lowest interest rates on home loans",Moneycontrol,-0.09456809423863888
+2021-04-07 07:00:00+00:00,"SBI clarifies on home loan rates, says original interest rates restored",Mint,-0.005654916167259216
+2021-01-31 08:00:00+00:00,The financial burden of weddings on India’s poorest families,Al Jazeera,-0.8797399364411831
+2021-01-27 08:00:00+00:00,Fix inverted tariff structures to boost industrial growth in India,Mint,0.2299656281247735
+2021-05-25 07:00:00+00:00,"Punjab and Sind Bank, Central Bank of India offer the lowest interest rates on car loans",Moneycontrol,-0.1530579775571823
+2021-05-10 07:00:00+00:00,IndusInd Bank and RBL Bank offer the best interest rates on 1-year fixed deposits,Moneycontrol,0.16217978950589895
+2021-06-07 07:00:00+00:00,Biden reinvigorates tariff war against India with retaliation against digital tax,The Economic Times,0.10064677894115448
+2021-03-04 08:00:00+00:00,EPFO retains interest rate on deposits at 8.5%,The Times of India,0.012178950011730194
+2021-03-02 08:00:00+00:00,State Bank of India reduces interest rates on home loans,Telegraph India,-0.5280930325388908
+2021-01-18 08:00:00+00:00,"Punjab & Sind Bank, Central Bank of India offer the lowest interest rates on car loans",Moneycontrol,-0.09967263601720333
+2021-04-23 07:00:00+00:00,"Bank of India, Punjab and Sind Bank offer the lowest rates on gold loans",Moneycontrol,-0.19059612229466438
+2021-01-08 08:00:00+00:00,SBI Announces Interest Rate Concession on Home Loans Rates,India.Com,-0.0073591358959674835
+2021-02-10 08:00:00+00:00,"Rationalisation in pricing, low interest rates – how will real estate reinvent itself in 2021?",Construction Week India,0.08369973488152027
+2021-02-11 08:00:00+00:00,Should governments in emerging economies worry about their debt?,The Economist,-0.44980553537607193
+2021-03-01 08:00:00+00:00,SBI reduces home loan rates to 6.7%,The Hindu,0.24367376416921616
+2021-06-10 07:00:00+00:00,Gold loans: Bank of India and State Bank of India among those offering the lowest rates,Moneycontrol,-0.8829285390675068
+2021-02-21 08:00:00+00:00,SBI car loans: Bring home your dream car with this State Bank of India offer,Zee Business,0.1915346011519432
+2021-02-17 08:00:00+00:00,Why Indians are paying a bomb for fuel despite cheap crude prices,India Today,-0.09597229585051537
+2021-07-01 07:00:00+00:00,"PPF, other small savings scheme interest rates kept steady for September quarter. Details here",Mint,-0.04030292108654976
+2021-05-30 07:00:00+00:00,"RBI likely to retain benchmark interest rate on Friday, feel experts",India TV News,0.06260060146450996
+2021-08-26 07:00:00+00:00,"India won't surprise markets with sudden rate hike, central bank governor says",CNBC,0.23030267655849457
+2021-08-06 07:00:00+00:00,India cenbank holds rates but raises inflation forecast as taper pressure builds,Reuters,0.05705347657203674
+2021-11-02 07:00:00+00:00,RBI maintains its accommodative stance and keeps its policy rate unchanged,World Gold Council,0.04961562342941761
+2021-08-20 07:00:00+00:00,"[Under Section 45ZL of the Reserve Bank of India Act, 1934]",RBI,-0.020931920036673546
+2021-12-08 08:00:00+00:00,RBI monetary policy | Repo rate remains unchanged at 4%,The Hindu,-0.006477396935224533
+2021-08-09 07:00:00+00:00,RBI's Operation Twist: All You Need to Know about Operation Twist,Groww,0.007529003545641899
+2021-08-06 07:00:00+00:00,"RBI holds repo rate; deposit rates may still go up, here’s what depositors should do",The Economic Times,0.009270425885915756
+2021-07-18 07:00:00+00:00,Uptick in India’s headline inflation: A transitory phase,orfonline.org,-0.03305691480636597
+2021-10-03 07:00:00+00:00,India’s inflation and interest rates through these past 10 years,PGurus,0.07495566457509995
+2021-08-03 07:00:00+00:00,Will Reserve Bank of India's Quantitative Easing approach stimulate economic recovery?,Forbes India,0.7452542269602418
+2021-07-09 07:00:00+00:00,Top 5 states with highest & lowest inflation in India,Yahoo Finance Singapore,-0.2859260216355324
+2021-12-08 08:00:00+00:00,"India c.bank holds rates, sees growth as 'overarching priority'",Reuters,0.6792000755667686
+2021-10-07 07:00:00+00:00,India estimated to grow at 8.3% in the current fiscal: World Bank,The Hindu,0.6053080167621374
+2021-12-29 08:00:00+00:00,India's 2022: Capacity utilisation and economic revival,orfonline.org,0.31762966234236956
+2021-10-08 07:00:00+00:00,India's cenbank holds rates; urges gov't to cut taxes on fuel,Reuters,-0.26126302778720856
+2021-08-17 07:00:00+00:00,"Young Indians distrust China, Pakistan; rate pandemic, economy as big challenges",orfonline.org,-0.26706504821777344
+2021-12-08 08:00:00+00:00,"Analysis | RBI cites 'considerable uncertainty', fragility of recovery in holding rates",The Hindu,-0.7288034595549107
+2021-10-28 07:00:00+00:00,India re-appoints central bank governor Das for 3 more years,Reuters,-0.09204066917300224
+2021-10-13 07:00:00+00:00,Bank FD to fetch negative real interest with elevated inflation,The Hindu,-0.5881765633821487
+2021-09-06 07:00:00+00:00,"Union Bank, Central Bank of India offer the lowest rates on personal loans",Moneycontrol,-0.2535898592323065
+2021-11-30 08:00:00+00:00,"India grows fastest among major economies, Omicron risks seen",Reuters,0.9091221131384373
+2021-08-29 07:00:00+00:00,"India's economy ready for faster growth, says Ashima Goyal",The Economic Times,0.8691855706274509
+2021-12-30 08:00:00+00:00,"Despite hikes, RBI would still be supportive on interest rates in 2022",Moneycontrol,0.8496664529666305
+2021-08-17 07:00:00+00:00,"SBI cuts interest rates on retail loans, waives fees",The Times of India,-0.5897409953176975
+2021-11-11 08:00:00+00:00,Banks allowed to offer interest rate on FCNR (B) deposits linked to ARR,BusinessLine,0.03523485455662012
+2021-11-30 08:00:00+00:00,India’s economic recovery gathers pace as Omicron looms,Al Jazeera,0.6369186043739319
+2021-08-20 07:00:00+00:00,Easy Money Fuels Inflation and World-Beating Stocks in India,Bloomberg.com,-0.29870206117630005
+2021-08-07 07:00:00+00:00,RBI sees inflation rising but holds rates to fuel growth,The Times of India,0.11125157028436661
+2021-12-13 08:00:00+00:00,India’s Wholesale Prices Unexpectedly Rise to Three-Decade High,Bloomberg.com,0.5881836265325546
+2021-12-08 08:00:00+00:00,RBI Monetary Policy: Repo rate unchanged at 4% for the 9th consecutive time,The Indian Express,-0.20240413025021553
+2021-08-10 07:00:00+00:00,What’s The Post-Pandemic New Normal For Interest Rates In India?,NDTV Profit,-0.09412364289164543
+2021-12-09 08:00:00+00:00,RBI decides to play it safe on rates,Telegraph India,0.061052270233631134
+2021-11-13 08:00:00+00:00,Explained: US inflation and its impact on India,The Indian Express,-0.1298201885074377
+2021-09-12 07:00:00+00:00,Oil Bond Falsehood,inc.in,-0.5879749804735184
+2021-11-17 08:00:00+00:00,Inflation  in  about  half of  CPI  items  above  6%,Mint,0.011358052492141724
+2021-07-09 07:00:00+00:00,India’s housing market is recovering. Here's why,Fortune India,0.49817531555891037
+2021-07-10 07:00:00+00:00,Controlling inflation has been one of Modi's biggest successes – but is it faltering now?,Scroll.in,-0.7925808988511562
+2021-11-11 08:00:00+00:00,Explained: US Fed taper and how it may impact India,The Times of India,-0.6912623699754477
+2021-07-18 07:00:00+00:00,India’s economy is suffering from long covid,The Economist,-0.9580378662794828
+2021-10-03 07:00:00+00:00,"RBI may keep interest rates unchanged during next week's policy review, say experts",Telegraph India,-0.13843320682644844
+2021-07-01 07:00:00+00:00,Small savings rates left unchanged,The Times of India,-0.17294853180646896
+2021-10-19 07:00:00+00:00,RBI Needs Longer Policy Support for Economic Recovery,Equitypandit,0.22748740762472153
+2021-10-19 07:00:00+00:00,Housing Loan Rates Are Going Down; Here's Why,India.Com,-0.8739097621291876
+2021-07-06 07:00:00+00:00,Banks can pay less on matured bulk FDs: RBI,The Times of India,-0.01726331189274788
+2021-11-12 08:00:00+00:00,India's retail inflation rate rises marginally to 4.48% in October,Moneycontrol,0.8912926539778709
+2021-07-15 07:00:00+00:00,Which debt funds to invest in now,Morningstar,0.007155401632189751
+2021-11-01 07:00:00+00:00,"Digitisation, GST Drives Rapid Formalisation Of India's Economy; Informal Economy Shrinks To Just 15-20% From 52% In 3 Years",Swarajyamag,-0.9501868076622486
+2021-12-02 08:00:00+00:00,HDFC Bank hikes interest rate on fixed deposits. Check latest FD rates here,India Today,-0.0287514328956604
+2021-09-23 07:00:00+00:00,A flawed calculation of inflation,The Hindu,-0.5380085371434689
+2021-10-29 07:00:00+00:00,Shaktikanta Das reappointed RBI chief for three-year term,The Times of India,0.10462643764913082
+2021-08-24 07:00:00+00:00,Insights into Editorial: Pitfalls of RBI continuing to prioritise economic growth over inflation,INSIGHTS IAS,-0.39287427067756653
+2021-10-25 07:00:00+00:00,Pandemic Inflation: A Menace to Tame for Developing Countries?,The London School of Economics and Political Science,-0.3606123514473438
+2021-10-25 07:00:00+00:00,"Sovereign Gold Bond Scheme: Subscription Date, Price, Interest Rate, Discount, Key Details",India.Com,-0.017076073214411736
+2021-08-03 07:00:00+00:00,"Petrol, diesel prices stable as global crude oil rates weaken",India Today,0.8688619881868362
+2021-12-21 08:00:00+00:00,These banks are offering home loans below 7% interest rate,The Economic Times,-0.018808484077453613
+2021-10-06 07:00:00+00:00,RBI Monetary Policy October 2021: MPC may keep repo rate unchanged for 8th straight meet; stance accommodative,The Financial Express,0.20355593413114548
+2021-12-22 08:00:00+00:00,"FDs on bulk deposits: Here are interest rates offered by SBI, HDFC Bank, ICICI Bank",CNBC TV18,-0.004552971571683884
+2021-11-17 08:00:00+00:00,UBS revises India GDP forecast to 9.5% from 8.9% for FY22,The Economic Times,0.6488405615091324
+2021-10-07 07:00:00+00:00,SBI Home Loan: State Bank of India Offers Low Interest Rate in This City; Details Here,India.Com,0.039697835221886635
+2021-12-07 08:00:00+00:00,Bankers’ expect RBI rate cut in Sept review,BusinessLine,-0.4238881319761276
+2021-10-11 07:00:00+00:00,Peer to Peer (P2P) Lending in India,ClearTax,0.06152941472828388
+2021-12-17 08:00:00+00:00,These banks are offering more than 6% interest rate on these types of savings accounts,The Economic Times,0.09908379707485437
+2021-12-08 08:00:00+00:00,What is RBI Monetary Policy 2021? Repo & Reverse Repo Rate Unchanged- Check GDP & Growth Target for FY22,Jagran Josh,-0.018460122868418694
+2021-12-17 08:00:00+00:00,"SBI hikes base rate, interest rates of certain FDs: Check details",The Economic Times,-0.0025111734867095947
+2021-10-06 07:00:00+00:00,RBI microfinance proposals that are anti-poor,The Hindu,0.004564061760902405
+2021-08-13 07:00:00+00:00,Easynomics 💸 by Vivek Kaul,Mint,0.02222691848874092
+2021-08-01 07:00:00+00:00,RBI likely to maintain status quo on interest rate,The Financial Express,0.09540067985653877
+2021-12-07 08:00:00+00:00,Microfinance for Better Housing: How the Sector Can Serve Low-Income Borrowers in India and Other Emerging Markets,nextbillion.net,0.18874409422278404
+2021-07-22 07:00:00+00:00,"RBL Bank, IndusInd Bank offer the highest interest rates on 1-year fixed deposits",Moneycontrol,0.07271982356905937
+2021-07-05 07:00:00+00:00,Overdue FDs to earn lower interest after this RBI tweak; what you should do,The Economic Times,0.04761282168328762
+2021-11-15 08:00:00+00:00,PM Modi launches RBI Retail Direct: Here’s how it works,The Economic Times,0.03153994679450989
+2021-12-29 08:00:00+00:00,"FD alert! HDFC Bank revises interest rates on these Fixed Deposits, check complete rate table here",Zee News,-0.02273515611886978
+2021-10-27 07:00:00+00:00,Union Bank of India cuts home loan rates to 6.40%,ET Realty,-0.8055850304663181
+2021-12-08 08:00:00+00:00,RBI keeps repo rate on hold; why home loan borrowers should cheer,CNBC TV18,-0.13873984292149544
+2021-07-22 07:00:00+00:00,Best fixed deposit interest rates: Check 5 banks offering up to 7% return on yearly FDs,Zee News,0.746451435610652
+2021-07-08 07:00:00+00:00,RBI asks banks to shift from LIBOR to alternative reference rates by Dec 31,Business Standard,0.02802668698132038
+2021-10-08 07:00:00+00:00,"RBI maintains status quo on rates: What should borrowers of home loan, auto loan and personal loan do now?",The Economic Times,-0.01909320056438446
+2021-08-16 07:00:00+00:00,"SBI launches special deposit scheme: Interest rates, features and other details here",Mint,-0.004493117332458496
+2021-09-24 07:00:00+00:00,Taper warning signs flash to markets from RBI,Mint,-0.3218277543783188
+2021-07-01 07:00:00+00:00,"PPF, other small savings scheme interest rates kept steady for September quarter. Details here",Mint,-0.04030292108654976
+2021-10-14 07:00:00+00:00,Managing the trade-off between growth & inflation,The New Indian Express,-0.01208547130227089
+2021-12-02 08:00:00+00:00,HDFC Bank hikes fixed deposit rates for select tenors: Check details here,The Economic Times,0.04342087171971798
+2021-12-20 08:00:00+00:00,Does investment in Sovereign Gold Bond beat the inflation?,The Times of India,0.22751590237021446
+2021-11-12 08:00:00+00:00,Union Bank cuts EV loan rates to 6.95%,The Times of India,-0.7266973704099655
+2021-08-06 07:00:00+00:00,"Variable rate reverse repo auctions indicate monetary tightening, say analysts",The Hindu,-0.712977834045887
+2021-12-02 08:00:00+00:00,This Government Company Offers Up To 8.77% Interest On Fixed Deposits,Goodreturns,0.041464777663350105
+2021-12-14 08:00:00+00:00,Lowest personal loan interest rates starting from 8.15%: Top 10 banks offering cheapest personal loans,The Economic Times,-0.0030240491032600403
+2021-12-21 08:00:00+00:00,SBI revises interest rates on fixed deposits. Check latest FD rates here,India Today,-0.055036526173353195
+2021-07-09 07:00:00+00:00,Lowest interest rates on home loans under Rs 30 lakh: Here’s what 15 banks are offering,The Financial Express,-0.06696171686053276
+2021-10-09 07:00:00+00:00,Highlights of the Fourth Bi-Monthly Monetary Policy of FY21-22,AffairsCloud.com,-0.05356304533779621
+2021-12-01 08:00:00+00:00,Interest Rate To Pension: Here Are Major Changes In Bank Rules From December 1,India.Com,-0.019640760496258736
+2021-08-13 07:00:00+00:00,"Sovereign Gold Bond Scheme 2021 Series V subscription CLOSES TODAY - Check BENEFITS, DISCOUNTS, INTEREST RATES and other details here",Zee Business,-0.010297024622559547
+2021-07-06 07:00:00+00:00,Will 2021 be a turning point for India’s real estate sector?,Housing,0.10977965593338013
+2021-08-19 07:00:00+00:00,"SBI slashes interest rates on retail loans, waives processing fees| Check details",India Today,-0.7117377500981092
+2021-09-13 07:00:00+00:00,How to take advantage of record-low home loan rates,The New Indian Express,0.09084165655076504
+2021-11-12 08:00:00+00:00,2 Private Sector Banks That Offer 6.5% To 7% Interest On Fixed Deposits,Goodreturns,0.004490863531827927
+2021-07-16 07:00:00+00:00,India Post Payments Bank introduced charges for doorstep banking services,ClearTax Chronicles,-0.29119405150413513
+2021-08-23 07:00:00+00:00,"Post Office Schemes: India Post Offers Assured Returns; Check Interest Rate, Other Details",India.Com,0.017477786168456078
+2021-12-29 08:00:00+00:00,"Some lenders are offering low fixed rate car, personal loans: Here's why this is good deal now",The Economic Times,0.10830870922654867
+2021-09-09 07:00:00+00:00,Unemployment rate in urban India at 10.3% in Q3 of 2020-21: NSO,The Economic Times,-0.683168575167656
+2022-05-04 07:00:00+00:00,RBI repo rate: India central bank hikes interest rates after two years,BBC,-0.3096774220466614
+2022-04-08 07:00:00+00:00,"India central bank holds rates, starts to rein in loose policy as inflation risks rise",Reuters,-0.19579455256462097
+2022-04-06 07:00:00+00:00,Has India’s central bank avoided tackling high inflation?,Al Jazeera,-0.09850502014160156
+2022-03-08 08:00:00+00:00,Understanding India’s Economic Slowdown,The India Forum,-0.0008042417466640472
+2022-06-08 07:00:00+00:00,Reserve Bank of India,RBI,-0.03540977090597153
+2022-06-07 07:00:00+00:00,India Raises Benchmark Rates for Second Straight Month to Tame ‘Steep’ Inflation,Bloomberg.com,0.6224975287914276
+2022-04-06 07:00:00+00:00,Eight Fixed Income instruments that beat the best FD rates in India,Capitalmind,0.8787310812622309
+2022-05-04 07:00:00+00:00,RBI surprises with 40 bps rate increase amid inflation ‘alarm’,The Hindu,0.5690017491579056
+2022-04-15 07:00:00+00:00,'Acche Din' - India's super costly days,inc.in,0.15951129794120789
+2022-03-07 08:00:00+00:00,BFSI Impact Russia – Ukraine Crisis,Invest India,-0.07114946842193604
+2022-06-13 07:00:00+00:00,India’s Economy Is Growing Quickly. Why Can’t It Produce Enough Jobs? (Published 2022),The New York Times,0.051937274634838104
+2022-05-12 07:00:00+00:00,India's retail inflation rises to 8-year high of 7.79% in April,India Today,0.8891689404845238
+2022-04-14 07:00:00+00:00,RBI Monetary Policy 2022-23: Key Highlights,India Briefing,-0.0001950003206729889
+2022-06-02 07:00:00+00:00,The Impact of the War in Ukraine on the Indian Economy,South Asian Voices,-0.5294293090701103
+2022-06-08 07:00:00+00:00,India's RBI hikes rates as inflation pressures build; drops 'accommodative' from stance,Reuters,-0.3770226985216141
+2022-04-04 07:00:00+00:00,India sought probe into ex-RBI gov Rajan for helping ‘white man’,Al Jazeera,-0.5953154265880585
+2022-02-10 08:00:00+00:00,Reserve Bank of India,RBI,-0.03540977090597153
+2022-05-30 07:00:00+00:00,Expert Explains: Who is to blame for inflation in India?,Frontline Magazine,-0.21817160211503506
+2022-04-05 07:00:00+00:00,Indian government helps central bank to circumvent inflation law,Al Jazeera,0.6992124523967505
+2022-03-14 07:00:00+00:00,India’s inflation surges to 8-month high on soaring food prices,Al Jazeera,0.6031592935323715
+2022-06-08 07:00:00+00:00,RBI raises rates to tame inflation,The Hindu,0.14360599964857101
+2022-04-08 07:00:00+00:00,"RBI keeps key policy rates unchanged, accommodative stance to continue;",PIB,0.8922916855663061
+2022-05-12 07:00:00+00:00,"India consumer price inflation hits eight-year high on food, energy costs",Reuters,-0.2657594084739685
+2022-05-04 07:00:00+00:00,India cenbank raises key rate by 40 bps to tame inflation,Reuters,0.7679026089608669
+2022-03-08 08:00:00+00:00,More Evidence of Overestimation of India’s GDP Growth Rates,The India Forum,-0.2072809338569641
+2022-01-04 08:00:00+00:00,"As digital lending explodes in India, the threats mount",Al Jazeera,-0.6344476863741875
+2022-06-02 07:00:00+00:00,"RBI to go fast with rate hikes this year, slow the next: Reuters poll",Reuters,0.21550653874874115
+2022-06-14 07:00:00+00:00,"India's wholesale price inflation runs at 30-year high, makes rate hikes more likely",Reuters,-0.5984385535120964
+2022-06-27 07:00:00+00:00,What are different interest rates RBI regulates as part of its monetary policy,Mint,-0.025028472766280174
+2022-06-10 07:00:00+00:00,Central Bank of India Changes FD Rates | Check Latest Rates Here,India.Com,-0.11398280784487724
+2022-04-14 07:00:00+00:00,A strange Rate Hike and a messy inflation print present a weak macro for India,Capitalmind,-0.9449092224240303
+2022-05-14 07:00:00+00:00,India is likely to be the world’s fastest-growing big economy this year,The Economist,0.8432087730616331
+2022-05-26 07:00:00+00:00,Interest rates on FDs rise but who is paying more?,Mint,-0.023088864982128143
+2022-06-20 07:00:00+00:00,Interest rates on bank fixed deposits on the rise. Should you lock in?,Moneycontrol,-0.005483999848365784
+2022-05-16 07:00:00+00:00,IMF Corrects Itself; Brings Forward India's Tryst With $5 Trillion Economy To 2026-27. Here's Why,Swarajyamag,0.1105361832305789
+2022-04-16 19:05:00+00:00,India’s inflation rate in March 2022 was the highest in 17 months,qz.com,0.3214787095785141
+2022-02-10 08:00:00+00:00,RBI keeps benchmark lending rate unchanged 10th time in a row at 4%. Highlights,Mint,-0.22606048732995987
+2022-05-31 07:00:00+00:00,India's March qtr GDP growth at one-year low as prices hit consumers,Reuters,-0.9479765184223652
+2022-04-12 07:00:00+00:00,"India's March retail inflation nears 7% y/y, at 17-month high",Reuters,0.1414220631122589
+2022-03-06 08:00:00+00:00,Oil Shock Risks Becoming ‘Nightmare’ for Indian Central Bank,Bloomberg.com,-0.9064213875681162
+2022-06-09 07:00:00+00:00,"HDFC Bank, ICICI Bank raise interest rates after RBI repo rate hike",Fortune India,0.12497469037771225
+2022-05-06 07:00:00+00:00,RBI recasts framework for microfinance providers,Law.asia,0.07212546188384295
+2022-05-06 07:00:00+00:00,How to manage your loans and budget when inflation is high and loan rates are going up?,The Times of India,-0.1768307238817215
+2022-05-13 07:00:00+00:00,India’s gold market in April: retail demand improved but imports remained muted,World Gold Council,0.9127614051103592
+2022-04-19 07:00:00+00:00,Inflation rate in India soars: Top factors behind spike,India Today,-0.1613222174346447
+2022-05-09 07:00:00+00:00,RBI Hikes Interest Rate. What Should be your Debt Mutual Fund Strategy Now?,PersonalFN,0.030917655676603317
+2022-05-15 07:00:00+00:00,"After banks increased interest rates, RBI has changed fixed deposit rules",DNA India,-0.04450654610991478
+2022-05-12 07:00:00+00:00,Retail inflation in India surges to 8-year high of 7.79% in April,The Economic Times,0.8976838625967503
+2022-06-17 07:00:00+00:00,Union Bank of India revises FD interest rates,The Economic Times,-0.183100376278162
+2022-05-05 07:00:00+00:00,RBI repo rate hike: What it means for your home and car loans as well as fixed deposits,The Times of India,0.1256089312955737
+2022-04-14 07:00:00+00:00,"As inflation rate soars in India, take a look at situation in US, UK, China, Pakistan",India Today,-0.019081469625234604
+2022-02-10 08:00:00+00:00,India’s retail inflation for FY23 at 4.5%: RBI,PGurus,-0.08869335055351257
+2022-05-30 07:00:00+00:00,"8 years, 8 indicators: How economy fared under Modi government",The Times of India,0.1917969472706318
+2022-05-12 07:00:00+00:00,Containing Rising Inflation,Drishti IAS,0.0813136100769043
+2022-05-05 07:00:00+00:00,From rate hike to inflation: Key takeaways from RBI’s Monetary Policy Committee meeting,dailyo.in,0.07687132619321346
+2022-07-01 07:00:00+00:00,Explained: Why The Devaluation Of Indian Rupee Is Not Alarming,Swarajyamag,-0.08010586351156235
+2022-03-16 07:00:00+00:00,Could Higher Interest Rates Bring Down India's 5 Most Indebted Companies?,Equitymaster,-0.8500661738216877
+2022-01-04 08:00:00+00:00,Women Entrepreneurs Shaping The Future Of India,IBEF,0.07358818501234055
+2022-06-16 07:00:00+00:00,"India's 'natural' interest rate has fallen to 0.8-1% from 1.6-1.8%, say RBI staff",Moneycontrol,-0.9651519381441176
+2022-05-19 07:00:00+00:00,Interest rates on the rise but hope remains for private investment cycle,Moneycontrol,0.8372699469327927
+2022-05-04 07:00:00+00:00,"Inflation finally hits RBI, pushes it to raise key policy rate, sudden and sharp",The Indian Express,-0.1665477454662323
+2022-06-01 07:00:00+00:00,India’s 5th largest private sector bank hikes interest rates on fixed deposits,Mint,-0.6514934934675694
+2022-06-07 07:00:00+00:00,Should you invest in Dynamic Bond Funds to navigate the interest rate cycle?,Morningstar,0.08624977059662342
+2022-04-19 07:00:00+00:00,How to Avail Benefits of the India-UAE CEPA?,Gem & Jewellery Export Promotion Council (GJEPC),0.14610374998301268
+2022-01-06 08:00:00+00:00,India's jobs crisis is more serious than it seems,BBC,-0.8892518524080515
+2022-05-05 07:00:00+00:00,"ICICI, Bank of Baroda revise lending rates after RBI's repo rate hike",The Times of India,-0.17489786446094513
+2022-06-08 07:00:00+00:00,Explained: The RBI rate hike and its impact,The Indian Express,-0.018303697928786278
+2022-05-05 07:00:00+00:00,EMIs to rise as RBI hikes key rate by 40 bps after 4 years,The Times of India,0.9159963615238667
+2022-05-21 07:00:00+00:00,"Indian government trims tax on fuel, essential commodities to fight inflation",Reuters,0.00943666696548462
+2022-06-27 07:00:00+00:00,LIC Housing Finance Increases its Prime Lending Rate by 60 bps,ClearTax Chronicles,0.9162250570952892
+2022-04-21 07:00:00+00:00,HDFC Bank FD interest rates: Check latest fixed deposit rates,India Today,-0.017543217167258263
+2022-05-16 07:00:00+00:00,ExplainSpeaking: Why Govt of India is wrong to claim inflation hit the rich more than the poor,The Indian Express,-0.34800349920988083
+2022-04-08 07:00:00+00:00,RBI Monetary Policy: Repo rate unchanged at 4% for the 11th consecutive time,The Indian Express,-0.21411898732185364
+2022-03-29 07:00:00+00:00,RBI finds 600 illegal lending apps operating in India,India Today,-0.90258629899472
+2022-05-11 07:00:00+00:00,Explained: What led to record fall in rupee and how it may affect economy,The Times of India,-0.8267905749380589
+2022-06-10 07:00:00+00:00,How high inflation brings bagful of miseries?,India Today,-0.30713706836104393
+2022-01-11 08:00:00+00:00,"India GDP 2022: Economy To Grow 9.5 Per Cent In 2021-22, Says Former CEA",India.Com,0.8818406974896789
+2022-04-20 07:00:00+00:00,In India rising fuel prices start to bite,Al Jazeera,-0.4491503983736038
+2022-02-10 08:00:00+00:00,"RBI doesn’t hike policy rates, roots for durable broad-based economic recovery",The Indian Express,0.08091551810503006
+2022-02-01 08:00:00+00:00,Reverse Repo Normalisation,Drishti IAS,0.003621205687522888
+2022-06-23 07:00:00+00:00,Bank of India Revises Interest Rates on Fixed Deposits For Various Tenures: Check New Rates Here,India.Com,-0.005346328020095825
+2022-02-03 08:00:00+00:00,"Long after COVID lockdowns, India’s youth struggle to find work",Al Jazeera,-0.576590022072196
+2022-02-25 08:00:00+00:00,Does Spike in Brent Crude Oil Prices Impact Indians?,ClearTax Chronicles,-0.7689461037516594
+2022-06-10 07:00:00+00:00,"Central Bank of India, ICICI, Yes, IDFC First Bank and PNB latest FD rates",Zee News,0.05352071300148964
+2022-05-05 07:00:00+00:00,"ICICI, BoB, BoI, Central Bank revise lending rates after RBI's repo rate increase",The Hindu,0.014617078006267548
+2022-03-31 07:00:00+00:00,"PPF, NSC, small savings schemes interest rates announced | Check full list",India Today,-0.015150398015975952
+2022-05-13 07:00:00+00:00,"Explained: India's Retail Inflation, Its Upswing & What the RBI Has Said",The Quint,-0.03173685446381569
+2022-06-10 07:00:00+00:00,Central Bank of India revises fixed deposit (FD) interest rates: Check new rates,Mint,0.013125456869602203
+2022-06-15 07:00:00+00:00,SBI hikes home loan interest rate; EMIs set to go up,India TV News,0.7299833968281746
+2022-01-31 08:00:00+00:00,India Post Payments Bank cuts interest rates on savings accounts,CNBC TV18,-0.8793527949601412
+2022-06-01 07:00:00+00:00,India Post Payments Bank reduces savings account interest rates by 25 bps w.e.f June 1,The Economic Times,-0.15153183788061142
+2022-04-18 07:00:00+00:00,CPI may not accurately reflect your inflation burden; find out your personal inflation,The Economic Times,-0.011724531650543213
+2022-02-24 08:00:00+00:00,These 10 charts explain how Russia-Ukraine conflict will impact India,Forbes India,-0.02320009097456932
+2022-05-25 07:00:00+00:00,These banks are offering the best home loan interest rates,CNBC TV18,0.5150651521980762
+2022-06-23 07:00:00+00:00,Bank of India revises FD rates for select tenors: Check latest rates,The Economic Times,-0.015138141810894012
+2022-06-15 07:00:00+00:00,"India looks to rains, not just rates, to cool hot inflation",Reuters,0.26320828683674335
+2022-03-14 07:00:00+00:00,CPI inflation rises to 8-month high of 6.07% in February 2022,The Economic Times,0.890284825116396
+2022-05-25 07:00:00+00:00,Brace for 10% hike in home loan EMIs if repo rate rises back to pre-covid levels,The Economic Times,0.8709273710846901
+2022-06-01 07:00:00+00:00,India’s GDP growth: The devil is in the details | Stock Market News,Mint,0.00771738588809967
+2022-05-05 07:00:00+00:00,Gold price: Will rate go up in India after US central bank's move?,India Today,0.46008821576833725
+2022-09-19 07:00:00+00:00,India’s central bank could unveil 0.5% hike: Morgan Stanley,Al Jazeera,0.1232279110699892
+2022-12-07 08:00:00+00:00,"India central bank says inflation battle not over, raises rates again",Reuters,0.22347812354564667
+2022-10-11 07:00:00+00:00,India Interest Rate Forecast For Next 5 Years,Capital.com,0.005716290324926376
+2022-08-25 07:00:00+00:00,Indian economy by 2050: In pursuit to achieve the $30 trillion mark,EY,0.7018809048458934
+2022-07-28 07:00:00+00:00,Explained: How the US Fed rate hike will impact the Indian economy,The Times of India,-0.07623755745589733
+2022-08-13 07:00:00+00:00,11% growth over next decade could make India world’s second largest economy by 2031: RBI Deputy Governor,The Hindu,0.22189213521778584
+2022-12-05 08:00:00+00:00,ExplainSpeaking | What the RBI will do this week and why,The Indian Express,-0.024150557816028595
+2022-09-20 07:00:00+00:00,India’s economy has outpaced Pakistan’s handily since Partition in 1947 – politics explains why,The Conversation,0.4220407158136368
+2022-09-22 07:00:00+00:00,"How global interest rate hike may put price pressure on Indian govt, people",India Today,-0.7014108207076788
+2022-12-20 08:00:00+00:00,Demand will sustain India’s real estate in spite of interest rate hike,Construction Week India,0.9300243128091097
+2022-07-25 07:00:00+00:00,India’s economy after Covid,Lowy Institute,0.28836082480847836
+2022-12-27 08:00:00+00:00,India to become US$10 billion economy by 2035: CEBR,Economic Diplomacy Division,0.3401408055797219
+2022-08-10 07:00:00+00:00,Investment Update: Gold amid higher inflation and rising bond yields in India,World Gold Council,0.2757565379142761
+2022-11-11 08:00:00+00:00,"Interest rates in India will peak by March, three months ahead of earlier estimate, says Macquarie",CNBC TV18,0.8578898552805185
+2022-09-30 07:00:00+00:00,India’s central bank hikes interest rates to tame inflation,Al Jazeera,-0.06964981555938721
+2022-09-27 07:00:00+00:00,Hawkish Fed may prompt India's RBI to deliver a 50-basis-point hike,Reuters,-0.12485772371292114
+2022-09-30 07:00:00+00:00,RBI hikes repo rate by 50 basis points,The Hindu,0.23043745756149292
+2022-09-29 07:00:00+00:00,India central bank raises key policy rate by 50 basis points,Reuters,0.479495607316494
+2022-08-31 07:00:00+00:00,2 - India's economy grows 13.5% y/y in April-June qtr,Reuters,0.9190711621195078
+2022-11-15 08:00:00+00:00,"India's Oct retail inflation eases, spurs smaller rate hike views",Reuters,0.8815861120820045
+2022-09-01 07:00:00+00:00,India’s economy grows by 13.5 percent but misses target,Al Jazeera,0.8726339861750603
+2022-10-06 07:00:00+00:00,World Bank pares India FY23 growth projection to 6.5%,The Hindu,0.8775798920542002
+2022-10-13 07:00:00+00:00,"Amid geopolitical disruptions and economic slowdowns, India leads global growth",orfonline.org,0.23783590644598007
+2022-07-12 07:00:00+00:00,India sees fastest interest rate hikes among its Asian peers | Stock Market News,Mint,0.7384454384446144
+2022-12-06 08:00:00+00:00,"India's c.bank set to raise rates; outlook on growth, inflation in focus",Reuters,0.6882337406277657
+2022-10-11 07:00:00+00:00,"India's geospatial economy is expected to cross Rs 63,000 crore by 2025 at a growth rate of 12.8% and to provide employment to more than 10 lakh people",PIB,0.9004762815311551
+2022-09-23 07:00:00+00:00,Trends in Economic Inequality in India,The India Forum,-0.7164683863520622
+2022-10-31 07:00:00+00:00,RBI's emergency meeting: Central bank in tight spot over steep interest rates and rising inflation,India Today,-0.9385853605344892
+2022-09-21 07:00:00+00:00,Explainer: What if US economy goes into recession? How it may impact India,The Times of India,-0.6306601390242577
+2022-12-20 08:00:00+00:00,22 for 2022: Ukraine war and the India impact,Forbes India,-0.011376786977052689
+2022-11-02 07:00:00+00:00,Bank of India revises FD interest rate: Know the latest rates here,The Economic Times,-0.011989105492830276
+2022-10-19 07:00:00+00:00,"India's economic growth outlook stagnates, stuck in lower gear - Reuters poll",Reuters,-0.9225099999457598
+2022-09-15 07:00:00+00:00,Central Bank of India hikes interest rates on fixed deposits (FDs): Details here,Mint,-0.000529993325471878
+2022-09-23 07:00:00+00:00,India achieves significant landmarks in reduction of Child Mortality,PIB,0.9191476684063673
+2022-12-24 08:00:00+00:00,"India growth may moderate to 6.1% in FY24, IMF says",Mint,0.6616228967905045
+2022-10-29 07:00:00+00:00,Fight against inflation and interest rates: India v/s US,The Financial Express,0.07255196943879128
+2022-08-30 07:00:00+00:00,India’s economy faces resilience test amid rising interest rates,The Economic Times,0.7147052958607674
+2022-09-07 10:27:00+00:00,Decoding India’s credit card market,PwC India,0.08242844603955746
+2022-09-30 07:00:00+00:00,Reserve Bank of India raises repo rate by 50 bps; continues with withdrawal of ‘accommodative’ stance,The Economic Times,0.5153805240988731
+2022-08-08 07:00:00+00:00,ExplainSpeaking: What RBI’s surveys tell about India’s economy,The Indian Express,0.02259981259703636
+2022-11-11 08:00:00+00:00,"Central Bank of India hikes FD interest rates, revises savings account interest rate",The Economic Times,-0.2352917268872261
+2022-09-14 07:00:00+00:00,"Soft landing for India means fast, if not fastest, growth",ET CIO,0.45569019205868244
+2022-09-17 07:00:00+00:00,Union Bank of India revises FD interest rates: Check latest rates,The Economic Times,-0.09085662849247456
+2022-09-02 07:00:00+00:00,India surpasses UK to become world’s fifth biggest economy,The Economic Times,0.8680237308144569
+2022-08-10 07:00:00+00:00,Monetary Policy Review: RBI,Drishti IAS,-0.024841399863362312
+2022-11-10 08:00:00+00:00,"This govt bank hikes FD rates by up to 75 bps, launches special FD schemes",Mint,0.26243262737989426
+2022-12-21 08:00:00+00:00,India's Digital Economy Grew 2.4 Times Faster Than Indian Economy Between 2014 And 2019: RBI Article,Swarajyamag,0.3357755206525326
+2022-12-15 08:00:00+00:00,Bank deposits will earn more interest: Why is competition for retail money intensifying?,The Indian Express,-0.32142263650894165
+2022-12-13 08:00:00+00:00,India's CPI Inflation Lowers: Will it Impact the Pace of RBI Rate Hikes?,INDmoney,-0.17641142010688782
+2022-10-17 07:00:00+00:00,Union Bank of India hikes FD interest rates: Check latest rates,The Economic Times,-0.12663841992616653
+2022-08-11 07:00:00+00:00,Strict Norms For Digital Lending Space Issued By RBI,Entrepreneur India,0.018637506291270256
+2022-07-12 07:00:00+00:00,"With rising interest rates, inflation, RBI’s lens, India’s BNPL players may face speed breakers ahead",Moneycontrol,-0.8449067957699299
+2022-07-28 07:00:00+00:00,"Explained: Fed Reserve rate hike, US recession and impact on India",The Indian Express,-0.17139842361211777
+2022-10-01 07:00:00+00:00,"Bank of Baroda, Bank of India hike home loan interest rates: Check details here",The Economic Times,0.009179741144180298
+2022-07-25 07:00:00+00:00,Explained: What a falling rupee means for India's economy and your finances,The Times of India,-0.6859422139823437
+2022-08-27 07:00:00+00:00,HSBC Bank revises interest rates on fixed deposits: Details inside,Mint,-0.03254532068967819
+2022-10-04 07:00:00+00:00,Indian Bank hikes FD interest rates by 5-50 bps from 4th Oct. Check new rates here,Mint,0.007617473602294922
+2022-09-30 07:00:00+00:00,Fourth Time's the Charm? RBI Hikes Repo Rate To Take On Inflation: What To Know,The Quint,-0.007348477840423584
+2022-12-16 08:00:00+00:00,India’s gold market in November: retail demand soft and imports declined | Post by Mukesh Kumar | Gold Focus blog,World Gold Council,-0.8447692058980465
+2022-07-12 07:00:00+00:00,Gold shines amid rout in equities,Morningstar,0.7549841105937958
+2022-12-26 08:00:00+00:00,India to become $10-trillion economy by 2035: CEBR,The Economic Times,0.2628529304638505
+2022-11-23 08:00:00+00:00,In charts: India second-fastest growing economy this year but its GDP will slow in FY23 : OECD,The Times of India,-0.92648059502244
+2022-11-24 08:00:00+00:00,Fixed deposit interest rates back to 2019-20 level? Check if its right time to park your money,CNBC TV18,0.03109038434922695
+2022-09-01 07:00:00+00:00,India's GDP to slow from 8.3% in 2021 to 7.7% in 2022: Moody's,The Economic Times,-0.9339379547163844
+2022-11-11 08:00:00+00:00,"Bank of Baroda, Union Bank of India hike loan interest rates: Check new rates",The Economic Times,0.02519286423921585
+2022-09-30 07:00:00+00:00,RBI Announces 50 bps Hike In Repo Rate,Entrepreneur India,0.7309525907039642
+2022-09-03 07:00:00+00:00,"India set to become 3rd largest economy in the world, report says",The Economic Times,0.8000533618032932
+2022-09-18 07:00:00+00:00,"RBI policy: MPC may raise repo rate 35-50 bps, shows Business Standard poll",Business Standard,0.1969977654516697
+2022-08-08 07:00:00+00:00,Bank of India hikes home loan interest rates,The Economic Times,-0.6628085449337959
+2022-09-30 07:00:00+00:00,"Middle Class To Be Hit Most As Home, Car Loans Get Costlier Ahead of Diwali. Why You Should Expect To Pay Mor",India.Com,-0.34905310720205307
+2022-08-16 07:00:00+00:00,"SBI, Central Bank, Karur Vyasa Bank, IndusInd Bank Hike FD Interest Rates: Check New Rates Here",India.Com,0.00987260788679123
+2022-12-24 08:00:00+00:00,"Comparison Of Latest Interest Rates Offered On Fixed Deposits By ICICI Bank, HDFC Bank, And PNB",India.Com,0.0386709813028574
+2022-08-08 07:00:00+00:00,Economists expect India’s Q1 GDP growth at 12.5-15%,Mint,0.7464441154152155
+2022-11-10 08:00:00+00:00,India inflation likely cooled below 7% in October thanks to base effect: poll,Mint,-0.4475802406668663
+2022-11-16 08:00:00+00:00,Attention Homebuyers: Check List of Banks That Offer Low Interest Rates on Home Loans,India.Com,-0.007975813001394272
+2022-10-08 07:00:00+00:00,Central Bank of India hikes interest rates on fixed deposits (FDs): Details here,Mint,-0.000529993325471878
+2022-07-26 07:00:00+00:00,MC Explains | Has the relationship between inflation differentials and exchange rate movement broken down?,Moneycontrol,-0.017934806644916534
+2022-10-01 07:00:00+00:00,Bank of India (BOI) hikes interest rates on fixed deposits: Details here,Mint,0.0020376332104206085
+2022-10-03 07:00:00+00:00,"India’s economy to grow 5.7% in 2022, 4.7% in 2023: UNCTAD",The Economic Times,0.23823016323149204
+2022-11-02 07:00:00+00:00,Bank of India alters interest rates on FDs: Now offers up to 7.75% on this tenor,Mint,0.07725172862410545
+2022-11-01 07:00:00+00:00,"ICICI Bank, PNB, Bank of India Raise MCLR Home Loan Interest Rate",Equitypandit,0.006055993959307671
+2022-09-23 07:00:00+00:00,India achieves significant landmarks in reduction of Child Mortality,PIB,0.9191476684063673
+2022-08-06 07:00:00+00:00,RBI Rise Rates After Loan EMI Set,Equitypandit,-0.06435805559158325
+2022-09-20 07:00:00+00:00,Interest Rate Hikes: Will FD Rates Surpass the 7% Mark?,Zee News,0.6509882770478725
+2022-07-05 07:00:00+00:00,58% of India's citizens who used an instant loan app in the last 2 years were charged 25% interest: Surve,The Times of India,0.01445036567747593
+2022-12-29 08:00:00+00:00,"ICICI Bank Hikes Fixed Deposit Interest Rates, Senior Citizens Can Avail Up To 7.50%. Check Details",India.Com,0.02101018838584423
+2022-12-13 08:00:00+00:00,Evolution of Micro Finance in India,IBEF,0.05982692167162895
+2022-07-28 07:00:00+00:00,Social media ‘gurus’ prey on India’s small retail investors,Al Jazeera,-0.45343415439128876
+2022-08-31 07:00:00+00:00,India's economy probably grew at its fastest pace in a year in June quarter,The Economic Times,0.8911563064903021
+2022-09-07 07:00:00+00:00,Union Bank hikes home loan interest rate to 7.70%,Housing,-0.23482254147529602
+2022-10-25 07:00:00+00:00,Banks Offering the Best Interest Rates for 1-Year FD,The Hans India,0.31006355956196785
+2022-10-12 07:00:00+00:00,Union Bank of India increases loan interest rates,The Economic Times,0.12137636542320251
+2022-10-19 07:00:00+00:00,Bank of India (BOI) cuts home loan interest rates to 8.30%,Mint,-0.7824776321649551
+2022-12-08 08:00:00+00:00,RBI repo hike — Home loan EMIs set to rise as these banks increase interest rates,CNBC TV18,0.858377393335104
+2022-11-27 16:14:00+00:00,Rbi's function in administering India's banking industry's monetary policy,Legal Service India,0.020774977281689644
+2022-12-30 08:00:00+00:00,"Government hikes interest rates on NSC, post office term deposits, senior citizen savings scheme from Jan",The Times of India,0.1294146031141281
+2022-12-07 08:00:00+00:00,2 banks promising over 9% interest rates to senior citizens on fixed deposits,Mint,0.2677865931764245
+2022-10-01 07:00:00+00:00,"Bank of India, RBL Bank revise FD interest rates: Check latest rates",The Economic Times,-0.045203106477856636
+2022-07-05 07:00:00+00:00,The link between rising interest rates and optimism about economy,Mint,0.5872213840484619
+2022-12-12 08:00:00+00:00,"IOB hikes interest rates on fixed deposits by up to 20 bps, check new rates here",Mint,0.21596477925777435
+2023-03-10 08:00:00+00:00,India: Another solid year ahead for the economy,ING THINK economic and financial analysis | ING THINK,0.9219722114503384
+2023-03-28 07:00:00+00:00,RBI to raise rates once more on April 6 but leave door open for more - Reuters poll,Reuters,0.07678261771798134
+2023-03-03 08:00:00+00:00,India Derailed: A Falling Investment Rate and Deindustrialisation,The India Forum,-0.9586769109591842
+2023-04-04 07:00:00+00:00,Indian Economy Continues to Show Resilience Amid Global Uncertainties,World Bank,0.9284867867827415
+2023-02-06 08:00:00+00:00,Indian Central Bank Seen Delivering Final Rate Increase of Cycle,Bloomberg.com,0.7087454497814178
+2023-05-05 07:00:00+00:00,India’s economy continues to expand as inflation moderates,S&P Global,0.9308313019573689
+2023-05-31 07:00:00+00:00,India’s economy picks up speed amid global slowdown,Al Jazeera,0.8893252275884151
+2023-03-13 07:00:00+00:00,ExplainSpeaking: Why February’s retail inflation matters for India’s growth prospects,The Indian Express,0.011311192065477371
+2023-02-08 08:00:00+00:00,RBI hikes interest rates in India to the highest in four years,CNBC TV18,0.7235332131385803
+2023-05-16 07:00:00+00:00,Navigating the latest RBI guidelines on Interest Rate Risk in the Banking Book,EY,0.08081213477998972
+2023-02-08 08:00:00+00:00,"India cenbank hikes rates 25 bps as expected, hints more could come",Reuters,-0.009492337703704834
+2023-04-06 07:00:00+00:00,"India Central Bank Surprises By Rate Hold, Sticks to Stance",Bloomberg.com,-0.18226951360702515
+2023-04-11 07:00:00+00:00,ExplainSpeaking: Is inflation-targeting the right policy mandate for India?,The Indian Express,0.083293991163373
+2023-02-22 08:00:00+00:00,Real interest rate of about 1% appropriate for Indian economy - rate panel's Goyal,Reuters,0.06267048604786396
+2023-05-31 07:00:00+00:00,Services Sector Shields Indian Economy From Still-High Rates,Bloomberg.com,0.8665882647037506
+2023-04-06 07:00:00+00:00,"India pauses rate hikes in surprise decision, but door open for more",Reuters,0.1593942642211914
+2023-02-27 08:00:00+00:00,India Rate-Setter Says Core Inflation Must Ease Towards 4%,Bloomberg.com,0.7477042227983475
+2023-03-06 08:00:00+00:00,India housing market to remain resilient despite higher interest rates: Reuters poll,Reuters,0.7552316300570965
+2023-05-30 07:00:00+00:00,"India's RBI to hold rates through year-end, cut in early 2024, Reuters poll shows",Reuters,-0.07855751365423203
+2023-02-13 08:00:00+00:00,India's retail inflation breaches RBI's tolerance level first time since October,Reuters,-0.923375241458416
+2023-03-03 08:00:00+00:00,India's economy stutters & other top economy news for March 2023,The World Economic Forum,-0.09315621480345726
+2023-04-12 07:00:00+00:00,"POLL RBI to extend rate pause through year-end, likely done hiking",Reuters,-0.14637143909931183
+2023-02-08 08:00:00+00:00,India's economy - and emissions - primed for big jumps in 2023,Reuters,0.7989934552460909
+2023-03-05 08:00:00+00:00,"India is ‘dangerously close’ to Hindu rate of growth, says Raghuram Rajan",The Hindu,-0.862180408090353
+2023-01-06 08:00:00+00:00,"India’s economic growth to slow to 7%, government forecasts",Al Jazeera,-0.950196361169219
+2023-03-10 08:00:00+00:00,India's industrial output grows 5.2% year/year in January,Reuters,0.9168424773961306
+2023-05-11 07:00:00+00:00,MC Explains: How RBI's definition of real interest rate has evolved over the years,Moneycontrol,0.0521415825933218
+2023-02-08 08:00:00+00:00,"RBI increases repo rate, keeps door open for possible hike in April",Forbes India,0.8168387189507484
+2023-06-01 07:00:00+00:00,India's GDP Grows At 7.2 Per Cent In FY23 After Q4 Growth Accelerates To 6.1 Per Cent,Swarajyamag,0.912268890067935
+2023-03-07 08:00:00+00:00,Explainer: What is 'Hindu rate of growth' and why Raghuram Rajan's remarks may be 'premature',The Times of India,-0.1718899942934513
+2023-01-10 08:00:00+00:00,Bank of India hikes interest rates on these special fixed deposits (FDs). Latest FD rates,Mint,-0.2494361475110054
+2023-06-08 07:00:00+00:00,Reserve Bank of India keeps Repo Rate unchanged at 6.5% - Business & Economy News,WION,-0.02965540811419487
+2023-05-26 07:00:00+00:00,"Bank of India FD interest rates 2023: BoI raises rates up to 7.65 % - Check new rate for fixed deposits, NRE accounts, maturity period, tenure",Zee Business,0.8162778709083796
+2023-01-12 08:00:00+00:00,India retail inflation within RBI target zone for 2nd month,Reuters,0.5660354122519493
+2023-02-09 08:00:00+00:00,Reading RBI’s policy review,The Indian Express,0.00586991012096405
+2023-02-06 08:00:00+00:00,Jana Small Finance Bank raises fixed deposit interest rates,Elets BFSI,0.08485144376754761
+2023-02-08 08:00:00+00:00,"RBI hikes repo rate by 25 bps in Monetary Policy 2023: What is repo rate, reverse repo rate & monetary policy? - India News News",WION,0.012959945946931839
+2023-03-09 08:00:00+00:00,RBI’s regulation of interest rates and penal charges: Next financial regulatory hot topic in India? [Part II],Bar and Bench,0.00623609684407711
+2023-06-07 07:00:00+00:00,Does the RBI have any real say in controlling inflation in India?,The Indian Express,0.013469014316797256
+2023-04-28 07:00:00+00:00,Latest RBI guidelines to help mobilise domestic capital towards green activities,Mongabay-India,0.43086427357047796
+2023-03-01 08:00:00+00:00,"If small finance banks offer higher FD rates than big banks, where should you lock your money?",The Times of India,0.007003340870141983
+2023-06-08 07:00:00+00:00,"India's central bank may not cut rate before February unless inflation skids, global crisis hits, Axis Bank treasurer says",Reuters,-0.6862458437681198
+2023-01-13 08:00:00+00:00,Latest Bank Fixed Deposit (FD) Interest Rates in India for 2023,The Economic Times,0.018801968544721603
+2023-04-26 07:00:00+00:00,Decreasing inflation rate in India promises a positive financial future,ChiniMandi,0.9237398616969585
+2023-05-05 07:00:00+00:00,DBS Bank India increased interest rate on Savings Accounts to 7% p.a. and Fixed Deposit rates for senior citizens to 8% p.a.,Elets BFSI,0.7244894709438086
+2023-01-31 08:00:00+00:00,GOVERNMENT ON TRACK TO ACHIEVE FISCAL DEFICIT TARGET OF 6.4%,PIB,0.8860739674419165
+2023-04-07 14:07:00+00:00,SUMMARY OF THE ECONOMIC SURVEY 2022-23,PIB,-0.059208035469055176
+2023-03-03 08:00:00+00:00,India commercial paper rates may rise further as liquidity dries up: Analysts,The Economic Times,0.23789387941360474
+2023-05-23 07:00:00+00:00,India's pre-pandemic long-term inflation rate seen at 4.3%: RBI staff analysis,Moneycontrol,-0.15253204107284546
+2023-03-06 08:00:00+00:00,What is the 'Hindu rate of growth' that Raghuram Rajan is warning about,India Today,-0.13717291876673698
+2023-04-21 07:00:00+00:00,India central bank cautions banks on unsecured lending as risks loom,Reuters,-0.42968636751174927
+2023-06-26 07:00:00+00:00,India to be fastest-growing economy for next three years: S&P Global Ratings,The Economic Times,0.523650212213397
+2023-04-06 07:00:00+00:00,India Inc Cheers Reserve Bank Of India Stance To Hold Interest Rate,outlookbusiness.com,-0.09349633008241653
+2023-02-17 08:00:00+00:00,"Fuel, power costs in India rose five times faster than overall consumer prices from January 2021-August 2022: RBI",Down To Earth,0.8420643359422684
+2023-02-15 08:00:00+00:00,SBI FD interest rates 2023: India's largest bank hikes fixed deposit interest rate,Zee Business,-0.5469808951020241
+2023-02-08 08:00:00+00:00,RBI raises repo rate by 25 basis points to 6.5% from 6.25%,Business Today,0.8776184506714344
+2023-03-07 08:00:00+00:00,Sure-footed India's economic potential outpaces 'ill-conceived' notion of Hindu rate of growth,The Economic Times,0.5077544301748276
+2023-02-28 08:00:00+00:00,RBI likely to raise repo rate by another 25bps to tame inflation,The Times of India,0.8003621362149715
+2023-02-24 08:00:00+00:00,One year of Russia-Ukraine war: How the conflict impacted Indian economy,The Times of India,-0.09511109068989754
+2023-03-06 08:00:00+00:00,RBI’s home price index increases across India despite rate hikes,The Indian Express,0.8887695819139481
+2023-03-31 07:00:00+00:00,Dollar/rupee premiums to rise as US-India interest rate gap seen widening - analysts,Reuters,0.9182187877595425
+2023-02-07 08:00:00+00:00,Top 15 banks giving highest interest rate on FDs to senior citizens; check them out,Business Today,0.032027946785092354
+2023-02-24 08:00:00+00:00,India's economic growth likely slowed further to 4.6% in October-December,The Economic Times,-0.9579781042411923
+2023-03-05 08:00:00+00:00,How India can truly reap benefits of its demographic dividend in the next 25 years,The Economic Times,0.623579447157681
+2023-03-08 08:00:00+00:00,Raghuram Rajan Did Not Say India’s Economy Is Becoming Like Sri Lanka’s,FACTLY,0.059778355062007904
+2023-03-12 08:00:00+00:00,India Inflation Seen Staying Above RBI’s Target in February,Bloomberg.com,0.3901941627264023
+2023-02-08 08:00:00+00:00,"RBI Monetary Policy: Repo rate hiked by 25 bps to 6.5%, no change in stance",India Today,0.9187205992639065
+2023-02-05 08:00:00+00:00,DBS Bank India hikes FD rates offers up to 7.25% on 376 to 600 days tenor,Mint,0.618960827589035
+2023-01-09 08:00:00+00:00,How Inflation in India Threatens Poverty Gains,The Borgen Project,-0.5077084898948669
+2023-02-23 08:00:00+00:00,"High interest rates a challenge for the global economy, says World Bank chief David Malpass",The Economic Times,-0.6444638669490814
+2023-03-03 08:00:00+00:00,"Scorching summer may derail rural recovery, lead to a spike in inflation and interest rates",Forbes India,-0.9562529129907489
+2023-06-22 07:00:00+00:00,Bank FD rates in India 2023: List of banks with revised interest rates,Times Now,-0.07766599394381046
+2023-06-08 07:00:00+00:00,"Worst over for home loan borrowers, but when will interest rates start going down",CNBC TV18,-0.41489464044570923
+2023-06-28 07:00:00+00:00,"India's average growth rate likely to be 6.7% till FY27, consumer activity to be lead driver: S&P",The Economic Times,0.09060040209442377
+2023-02-08 08:00:00+00:00,"Demystifying Monetary Policy, Repo Rate and Reverse Repo Rate",ClearTax Chronicles,-0.04032929055392742
+2023-01-12 08:00:00+00:00,"India's Retail Inflation Rate Lowest In A Year, Falls To 5.72 Per Cent In December",India.Com,-0.961772033944726
+2023-01-14 08:00:00+00:00,Post Office Schemes latest Interest Rates in India for 2023,The Economic Times,-0.021715816110372543
+2023-01-02 08:00:00+00:00,Unemployment in India rose to 8.3% in December; crossed 10% in urban areas: CMIE,Down To Earth,0.21716508269309998
+2023-05-20 07:00:00+00:00,How will withdrawal of ₹2000 banknotes impact interest rates of bank deposits ahead?,Mint,-0.3165471274405718
+2023-05-12 07:00:00+00:00,RBI imposes Rs 2.92 cr penalty on Canara Bank,The Times of India,-0.8643734771758318
+2023-02-11 08:00:00+00:00,"Home, car loan EMIs: Bank of Baroda, Union Bank of India hike loan interest rates",The Economic Times,-0.021108731627464294
+2023-04-12 07:00:00+00:00,"RBI issues draft rules on penal charges on loans, says lenders can’t use them as revenue enhancement tools",CNBC TV18,-0.46045530401170254
+2023-05-26 07:00:00+00:00,Bank of India increases FD interest rates by 100 bps; offers up to 7.5% interest,The Economic Times,0.9084253534674644
+2023-01-31 08:00:00+00:00,IMF retains India’s GDP growth outlook for next fiscal at 6.1%,Mint,0.1618903987109661
+2023-05-26 07:00:00+00:00,India Q4 GDP data expected next week; economy likely to grow at 5.5% in Q4,Mint,0.9201612640172243
+2023-05-16 07:00:00+00:00,WPI Inflation rate,Vajiram & Ravi,-0.1073334626853466
+2023-07-01 07:00:00+00:00,"Interest rate hike for post-office plans, five-year recurring deposits",The Times of India,0.2748512588441372
+2023-05-23 07:00:00+00:00,Union Bank of India revises FD interest rates: Check latest rates,The Economic Times,-0.09085662849247456
+2023-02-28 08:00:00+00:00,India's economy to expand at 7% in FY23; FY22 GDP growth rate revised to 9.1%,Mint,0.9209310784935951
+2023-03-29 07:00:00+00:00,EPFO marginally raises PF interest rate to 8.15%,The Times of India,0.8361755199730396
+2023-02-13 08:00:00+00:00,"Consumer Price Index: CPI inflation spikes to 6.52 % in January, after hitting 1-year low in December",Zee Business,0.11378362774848938
+2023-06-07 07:00:00+00:00,"RBI MPC decision today: A look at the existing key rates, repo rate trends & other figures | Watch video",Zee Business,-7.701292634010315e-05
+2023-03-02 08:00:00+00:00,RBI’s regulation of interest rates and penal charges: Next financial regulatory hot topic in India? [Part I],Bar and Bench,0.006508667021989822
+2023-01-14 08:00:00+00:00,India's retail inflation expected to come down to 5% by March,The Economic Times,-0.9404898444190621
+2023-02-24 08:00:00+00:00,The Benefits of Formalizing India’s Economy,The Borgen Project,0.5163152907043695
+2023-06-27 07:00:00+00:00,Education Loan Interest Rates of Top 10 Banks in India,The Times of India,0.0013050995767116547
+2023-03-16 07:00:00+00:00,Banks with Lowest Home Loan Interest Rates,The Times of India,-0.7160665951669216
+2023-01-25 08:00:00+00:00,Budget 2023: How Can Rising Rates Of Interest On Home Loans Be Spurred? Basic Home Loan Founder Opines,India.Com,0.1122916154563427
+2023-04-04 07:00:00+00:00,RBI Announces 7.88% Interest On Floating Rate Bond 2028: Should You Buy?,outlookbusiness.com,0.05746078118681908
+2023-04-29 07:00:00+00:00,"At 8.05% interest, RBI Floating Rate Savings Bonds could be a better investment than bank FDs, NSC",The Economic Times,0.6996721876785159
+2023-10-03 07:00:00+00:00,India’s Growth to Remain Resilient Despite Global Challenges,World Bank,0.9231573566794395
+2023-12-08 08:00:00+00:00,RBI Repo Rate Unchanged: RBI keeps repo rate steady at 6.5% fifth time in a row amid robust economic growth - The Hindu,The Hindu,0.28073176741600037
+2023-08-18 07:00:00+00:00,India's economy continues to show strong growth in mid-2023,S&P Global,0.9316748660057783
+2023-07-13 07:00:00+00:00,Monetary policy transmission in India under the base rate and MCLR regimes: a comparative study,Nature,0.04495391063392162
+2023-10-06 07:00:00+00:00,India's RBI holds rates; signals tight policy on inflation worries,Reuters,-0.6445457227528095
+2023-07-27 07:00:00+00:00,What is the Effect of Changes of US Fed rates on Indian stock market,Groww,-0.09072507172822952
+2023-07-06 07:00:00+00:00,How India could rise to the world’s second-biggest economy,Goldman Sachs,0.30776771903038025
+2023-08-25 07:00:00+00:00,India — towards becoming the third largest economy in the world,EY,0.8751445449888706
+2023-09-25 07:00:00+00:00,Why India is bucking the global slowdown trend,ING THINK economic and financial analysis | ING THINK,-0.10956871137022972
+2023-12-11 08:00:00+00:00,RBI continues holding policy rate at 6.5%,Central Banking,0.017097797244787216
+2023-08-18 07:00:00+00:00,Indian inflation at 15-month high and other economics news to read this week,The World Economic Forum,0.001470312476158142
+2023-10-24 07:00:00+00:00,Globalization Has Propelled India to Prosperity,Cato Institute,0.76938930246979
+2023-12-08 08:00:00+00:00,India seizes crown of fastest growing G20 economy,S&P Global,0.48727918788790703
+2023-08-10 07:00:00+00:00,India's RBI holds rates steady but eyes food price spike; signals tighter policy,Reuters,-0.7461041733622551
+2023-12-21 08:00:00+00:00,India’s election-year economy will likely be a tale of two halves,Goldman Sachs,-0.4280537739396095
+2023-09-07 07:00:00+00:00,ECONOMIC PERSPECTIVES | Why India is unable to curb inflation,Frontline Magazine,-0.08996141701936722
+2023-08-09 07:00:00+00:00,Reaction as India's central bank holds key rate steady as expected,Reuters,0.29182422161102295
+2023-12-08 08:00:00+00:00,"India holds rates amid buoyant growth, to monitor inflation",Reuters,0.03652266040444374
+2023-10-23 07:00:00+00:00,"India 4% inflation focus may not signal 'higher for longer' rates -rate panel's Varma, Goyal",Reuters,-0.03512243926525116
+2023-11-30 08:00:00+00:00,"RBI to hold rates at 6.50% through mid-2024, cut seen in Q3: Reuters poll",Reuters,0.26178593933582306
+2023-07-31 07:00:00+00:00,"RBI to hold rates at 6.50% through Q1 2024, cut in April-June: Reuters poll",Reuters,0.1464633345603943
+2023-10-26 07:00:00+00:00,Impact of Education Policy on India's GDP Growth: Strengthenin...,Invest India,0.726794769987464
+2023-12-17 08:00:00+00:00,"Growth rate at 6%, India will remain lower middle economy by 2047, says Raghuram Rajan",The Hindu,0.13621987774968147
+2023-12-12 08:00:00+00:00,"India’s Inflation Accelerates, Fueled by Rising Food Prices",Bloomberg.com,0.8435423485934734
+2024-01-01 08:00:00+00:00,Year in Review | How India’s economic indicators fared in 2023,The Hindu,-0.044739410281181335
+2023-12-31 08:00:00+00:00,India to remain fastest-growing major economy in 2024,The Economic Times,0.8253091359511018
+2023-08-31 07:00:00+00:00,"India's economy grows at fastest pace in a year in June quarter, monsoon risk seen",Reuters,0.8633974529802799
+2023-12-08 08:00:00+00:00,India: RBI Policy (Dec 2023) - Keeping a watchful eye,MUFG Research,0.05462341569364071
+2023-07-28 07:00:00+00:00,How India’s Economy Will Overtake the U.S.’s,Time Magazine,0.0809303279966116
+2023-10-14 07:00:00+00:00,"India’s Economy Grows, but 74% Can’t Afford Healthy Food",FairPlanet,0.37392929941415787
+2023-07-24 07:00:00+00:00,India rate-cut bets pushed to mid-2024 amid inflation jump,Reuters,-0.34155309200286865
+2023-08-17 07:00:00+00:00,A case for interest to be ‘compensatory’ under India’s GST law – part one,International Tax Review,0.10599301382899284
+2023-12-19 08:00:00+00:00,Cash rules in India despite digital payment boom,BBC,0.03541786968708038
+2023-07-24 07:00:00+00:00,India's economy to hold top spot for GDP but not so much for jobs growth,Reuters,0.761728910729289
+2023-08-07 07:00:00+00:00,India rate panel to dial up hawkishness even as it holds policy steady,Reuters,0.5266239792108536
+2023-07-12 07:00:00+00:00,Gold investment market and financialisation: India gold market series,World Gold Council,0.02945665270090103
+2023-07-28 07:00:00+00:00,How the RBI Shaped India’s Multi-Pronged Reforms (1997–2008),The India Forum,0.0076215267181396484
+2023-08-11 07:00:00+00:00,RBI To Reset Floating Rate Loans: How It Impacts Home Loan Borrowers,NDTV,-0.10751924477517605
+2023-07-13 07:00:00+00:00,Economists’ take: Inflation in India to remain higher on monsoon disturbances,The Economic Times,0.128160297870636
+2023-08-17 07:00:00+00:00,A case for interest to be ‘compensatory’ under India’s GST law – part two,International Tax Review,0.11062273848801851
+2023-08-30 07:00:00+00:00,Why India's soaring food inflation is a global problem,BBC,-0.6268821060657501
+2023-12-12 08:00:00+00:00,India's retail inflation hits 3-month high in November on food prices,Reuters,0.6311918199062347
+2023-10-04 07:00:00+00:00,"India must grow at 8% to be 'developed' by 2047, says World Bank's Kouame",The Economic Times,0.8228387609124184
+2023-08-10 07:00:00+00:00,RBI MPC Meeting Highlights: RBI keeps interest rates unchanged in hawkish policy,Moneycontrol,-0.4171666130423546
+2023-11-07 08:00:00+00:00,Israel-Hamas war: What could it mean for India’s economy?,Frontline Magazine,-0.3158051483333111
+2023-10-06 07:00:00+00:00,Our inflation target is 4 percent and not 2 to 6 percent: RBI Governor Shaktikanta Das,Forbes India,-0.005227167159318924
+2023-12-08 08:00:00+00:00,We do not wait for the house to catch fire and then act: RBI Governor Shaktikanta Das,Forbes India,0.010822279378771782
+2023-10-01 07:00:00+00:00,The Top Indicators for India's Economy,Investopedia,0.26175666972994804
+2023-12-07 08:00:00+00:00,Can India's central bank be a lone wolf on policy measures as US mulls rate cut?,The Economic Times,0.0310569629073143
+2023-09-21 07:00:00+00:00,Tracking India’s growth trajectory,The Hindu,0.03709532506763935
+2023-08-29 07:00:00+00:00,"Interest rates will have a mild upward bias because growth is strong, along with inflation: SBI Mutual Fund...",Forbes India,0.18019801564514637
+2023-08-29 07:00:00+00:00,Inflation And Current Outlook of Indian Economy,Drishti IAS,-0.0961077194660902
+2023-08-16 07:00:00+00:00,Floating Rate Loans,Drishti IAS,-0.012205410748720169
+2023-08-09 07:00:00+00:00,India’s Trade Liberalization Era Seems to Have Ended,The Diplomat – Asia-Pacific Current Affairs Magazine,0.22437670826911926
+2023-12-08 08:00:00+00:00,"RBI Monetary Policy: Rate pause may continue on GDP print, CPI inflation; Key indicators to watch",Mint,-0.09140070341527462
+2023-12-18 08:00:00+00:00,Banks want norm barring penal interest rate deferred by three months,The Economic Times,-0.08467067778110504
+2023-12-19 08:00:00+00:00,IMF reclassifies India's exchange rate regime to 'stabilized arrangement',The Economic Times,0.44310735538601875
+2023-12-08 08:00:00+00:00,Supply Chain and Inflation: Issues and Impacts,Oracle,-0.06343717500567436
+2023-07-31 07:00:00+00:00,"Rupee under threat from rising interest rates in U.S., Europe? There may be a way out",India Today,0.2544766329228878
+2023-12-25 08:00:00+00:00,The dark world of illegal loan apps in India,Al Jazeera,-0.2907621096819639
+2023-12-28 08:00:00+00:00,India likely to remain fastest growing major economy in 2024: Assocham,The Economic Times,0.2401493415236473
+2023-08-09 07:00:00+00:00,"RBI policy today, experts expect MPC to keep rates unchanged: All you need to know",The Indian Express,0.06537552922964096
+2023-10-20 07:00:00+00:00,"India's monetary policy must remain 'actively disinflationary', RBI governor says",Reuters,-0.32489747181534767
+2024-01-01 08:00:00+00:00,"India's economy burns bright, but watch out for these 4 risks in 2024",The Economic Times,0.24644906260073185
+2023-12-07 08:00:00+00:00,"India generates 26,000 tonnes of plastic waste every day. This is how we reduce that number.",CSIRO,-0.35380633920431137
+2023-10-13 07:00:00+00:00,Food Inflation in India,Drishti IAS,-0.6055710017681122
+2023-11-21 08:00:00+00:00,"India’s GDP likely grew 7% in September quarter, surpassing RBI’s projections: ICRA estimates",Mint,0.9206622820347548
+2023-07-03 07:00:00+00:00,Latest senior citizen bank fixed deposit (FD) interest rates in India for 2023,The Economic Times,0.029699327424168587
+2023-08-16 07:00:00+00:00,"Rajasthan, Manipur had highest inflation rates in July; is relief near?",India Today,-0.05977723002433777
+2023-08-14 07:00:00+00:00,India's retail inflation surges on food prices in challenge to Modi government (Aug 14),Reuters,-0.8480375744402409
+2023-12-08 08:00:00+00:00,Monetary policy: Why RBI’s policy panel has kept repo rate unchanged while revising growth upwards,The Indian Express,-0.0719783566892147
+2023-08-16 07:00:00+00:00,India Losing Its Steep Discount on Russian Crude Oil,The Jamestown Foundation,-0.783482514321804
+2023-08-25 07:00:00+00:00,'Obsession to use interest rates…': Nirmala Sitharaman on tackling inflation,India Today,0.11966103687882423
+2023-11-01 07:00:00+00:00,"India jobless rate rises to more than two-year high, CMIE says",The Economic Times,0.8355023041367531
+2023-11-02 07:00:00+00:00,These two banks raise lending rates days after RBI hints at incomplete transmission of repo rate hike,CNBC TV18,-0.4488135129213333
+2023-09-04 07:00:00+00:00,MC Analysis | How RBI managed the liquidity situation since last year,Moneycontrol,0.017060719430446625
+2023-08-31 07:00:00+00:00,India Q1 GDP data today: This is how other major economies fared in June quarter,Mint,-0.10750098526477814
+2023-10-11 07:00:00+00:00,India to become a USD 30-trillion economy by 2050; country's inflation rate to be about 6 percent,Storyboard18,0.65984399151057
+2023-11-22 08:00:00+00:00,"Medical inflation in India reaches alarming rate of 14%, reveals report",Mint,-0.8794862255454063
+2023-07-01 07:00:00+00:00,"Interest rate hike for post-office plans, five-year recurring deposits",The Times of India,0.2748512588441372
+2023-07-29 07:00:00+00:00,Bank of India introduces new FD tenure with highest interest rate of 7.25%,The Economic Times,0.1703574936836958
+2023-08-10 07:00:00+00:00,RBI’s status quo: What it means and why MPC has kept interest rate unchanged,The Indian Express,-0.026368096470832825
+2023-11-08 08:00:00+00:00,Employment enigma: India’s high rate of self-employment gets reflected as a decrease in unemployment rate,Down To Earth,-0.772592581808567
+2023-08-14 07:00:00+00:00,Food price spike pushes India's retail inflation to near 15-month high of 7.44% in July,The Economic Times,0.17819195985794067
+2023-07-12 07:00:00+00:00,Vehicle loans outstanding rise 22 pc in May despite high interest rates,The Economic Times,0.8795160613954067
+2023-10-06 07:00:00+00:00,India's central bank holds rates despite inflation,Bangladesh Sangbad Sangstha (BSS),0.04426798224449158
+2023-07-15 07:00:00+00:00,SBI Rate Hike: Check Latest Loan Interest Rates,India.Com,-0.035037603229284286
+2023-12-25 08:00:00+00:00,India’s economy is growing at fastest rate: Dhankhar,Garhwal Post,0.5321776624768972
+2023-10-06 02:08:00+00:00,RBI MPC Meet October 2023: Will This Pause Button Control Inflation?,News18,0.006958901882171631
+2023-12-29 08:00:00+00:00,"Small savings schemes: India hikes interest rate on SSY, 3-year time deposit for Jan-March 2024",CNBC TV18,0.08912539854645729
+2023-08-10 07:00:00+00:00,RBI Policy Meeting Highlights: RBI Governor Shaktikanta Das delivers ‘hawkish pause’; remains cautious on inflation,Mint,-0.2555581033229828
+2023-08-01 07:00:00+00:00,"ICICI Bank, PNB, Bank of India revise home loan, other loan interest rates",The Economic Times,-0.0336699653416872
+2023-12-19 08:00:00+00:00,IMF reclassifies India's exchange rate regime to 'stabilised arrangement' due to RBI's forex interventions,Mint,0.1992788203060627
+2023-08-18 07:00:00+00:00,"RBI issues fresh guidelines asking banks, NBFCs not to levy penal interest on borrowers in case of default",The Hindu,-0.00633997842669487
+2023-08-31 07:00:00+00:00,India Q1 GDP Growth Highlights: India’s Q1 GDP growth rises to one-year high of 7.8%; RBI to maintain FY24 projection,Mint,0.9193826653063297
+2023-12-13 08:00:00+00:00,Spike in food prices take India's retail inflation to 3-month high; here's what experts have to say,The Economic Times,-0.21768765896558762
+2023-08-25 17:07:00+00:00,How The Rising Interest Rates Impact The Stock Market [India],getmoneyrich,-0.13534366711974144
+2023-10-26 07:00:00+00:00,"India's festival season to bring some cheer to economy, say economists - Reuters Poll",The Economic Times,0.8794007711112499
+2023-10-20 07:00:00+00:00,"India central bank to conduct open-market bond sales to absorb durable liquidity, sources say",Reuters,0.24934487976133823
+2023-12-27 08:00:00+00:00,Earn up to 8% FD interest rate: Union Bank of India hikes fixed deposit rates by 25 bps,The Economic Times,0.6802565976977348
+2024-04-05 07:00:00+00:00,"India's central bank holds rate, looking for inflation ""elephant"" to vanish",Reuters,-0.3382140100002289
+2024-02-29 08:00:00+00:00,"SECOND ADVANCE ESTIMATES OF NATIONAL INCOME, 2023-24, QUARTERLY ESTIMATES OF GROSS DOMESTIC PRODUCT FOR THE THIRD QUARTER (OCTOBER-DECEMBER), 2023-24 AND FIRST REVISED ESTIMATES OF NATIONAL INCOME,",PIB,-0.03591734543442726
+2024-04-05 07:00:00+00:00,"RBI Monetary Policy | MPC holds rate at 6.5% to tame inflation, FY25 real GDP growth projected at 7%, CPI inflation at 4.5%",The Hindu,0.18441757932305336
+2024-04-18 07:00:00+00:00,Will Interest Rates in India Fall Soon? Know Here,PersonalFN,-0.19263599812984467
+2024-06-15 07:00:00+00:00,Sticky Inflation and RBI's Monetary Policy,Drishti IAS,-0.014277791604399681
+2024-04-11 07:00:00+00:00,How fast is India’s economy really growing?,The Economist,0.17460651136934757
+2024-02-08 08:00:00+00:00,India: RBI Policy (Feb 2024) - Only Time Will Tell,MUFG Research,0.021851634606719017
+2024-02-07 08:00:00+00:00,"India Central Bank Holds Key Rate, Sticks With Hawkish Stance",Bloomberg.com,0.04718393832445145
+2024-06-08 07:00:00+00:00,Sticky inflation: Why is RBI refusing to cut interest rates?,The Indian Express,-0.6415614075958729
+2024-06-27 07:00:00+00:00,CNBC's Inside India newsletter: The humble onion could be holding India's economy hostage,CNBC,0.022068962454795837
+2024-01-04 08:00:00+00:00,The Truth About Inflation – in India and Around the World,TheWire.in,-0.045033469796180725
+2024-05-31 07:00:00+00:00,Reserve Bank of India to delay interest rate cut to late this year: Reuters poll,Reuters,-0.22820330038666725
+2024-02-12 08:00:00+00:00,India retail inflation eases to 3-month low but no rate cuts expected yet,Reuters,-0.04370027780532837
+2024-02-08 08:00:00+00:00,"India's c.bank holds rates, keeps focus on 'last mile of disinflation'",Reuters,-0.2024054378271103
+2024-02-07 08:00:00+00:00,"VIEW India's c.bank leaves rates unchanged, as expected",Reuters,0.005616970360279083
+2024-03-25 07:00:00+00:00,India's central bank likely to hold rates steady until at least July- Reuters poll,Reuters,-0.045443978160619736
+2024-06-05 07:00:00+00:00,India central bank seen holding rates on Friday as economic growth stays robust,Reuters,0.09182483702898026
+2024-04-03 07:00:00+00:00,India's 'Goldilocks' economy to prompt cenbank to keep rates on hold,Reuters,-0.6280669793486595
+2024-04-21 07:00:00+00:00,"India needs rate cuts to reach potential growth, say MPC members Varma, Goyal",Reuters,0.7587091960012913
+2024-06-12 07:00:00+00:00,India's May retail inflation eases slightly to 4.75%,Reuters,0.7516544684767723
+2024-04-03 07:00:00+00:00,Hopes for Early Interest Rate Cut in India Dim as Inflation Threat Lingers,Bloomberg.com,-0.5489213615655899
+2024-02-01 08:00:00+00:00,Unveiling Insights: Indian Economy Overview,IBEF,0.07549285888671875
+2024-03-11 07:00:00+00:00,India to transition to middle-income economy by FY36; hit $15 trillion mark by FY47,The Economic Times,0.8841589717194438
+2024-01-29 08:00:00+00:00,India to become third largest economy with GDP of $5 trillion in three years: Finance Ministry,The Hindu,0.4838666459545493
+2024-03-23 07:00:00+00:00,Bond Yield,Drishti IAS,-0.0004163254052400589
+2024-04-12 07:00:00+00:00,Poverty in India Over the Last Decade,The India Forum,-0.7363562807440758
+2024-02-02 08:00:00+00:00,"RBI likely to hold rates until mid-year, first cut in Q3 2024: Reuters poll",Reuters,-0.10417897999286652
+2024-04-16 07:00:00+00:00,"Inequality, unemployment, inflation in India are at all time high, says Parakala Prabhakar",The Hindu,-0.5193000361323357
+2024-05-08 07:00:00+00:00,World's Highest And Lowest Inflation Rates 2024,Global Finance Magazine,-0.26517731696367264
+2024-02-21 08:00:00+00:00,India needs to grow at rapid rates to become $35 trillion economy: Amitabh Kant,The Economic Times,0.33658682834357023
+2024-01-16 08:00:00+00:00,Personal loan interest rate likely to rise up to 1.5%; loan eligibility norms to get tighter in 2024 with,The Economic Times,0.9297414142638445
+2024-02-08 08:00:00+00:00,"RBI’s MPC keeps repo rate unchanged at 6.5% to bring down inflation, support growth",The Hindu,0.03112688660621643
+2024-04-12 07:00:00+00:00,"India & China inflation readings are worlds apart, India is playing catch-up after Covid: Moody's Analytic",The Economic Times,0.06190824881196022
+2024-05-09 07:00:00+00:00,India inflation likely slipped in April: Reuters poll,Reuters,-0.9289839640259743
+2024-07-01 07:00:00+00:00,Budget 2024: A look at how India’s inflation panned out within a year before Sitharaman’s key announcement,The Economic Times,0.05760854296386242
+2024-06-10 07:00:00+00:00,RBI keeps REPO RATE unchanged,INSIGHTS IAS,-0.010214906185865402
+2024-03-20 07:00:00+00:00,Bank of India gives lowest home loan with 8.3% interest rate,Elets BFSI,-0.07462547719478607
+2024-04-16 07:00:00+00:00,"Interest rate cuts in India 'off the table' in FY24-25, says Morgan Stanley",Business Standard,-0.9226557072252035
+2024-01-07 08:00:00+00:00,"Banks quietly raise interest rates on car, personal loans",The Times of India,-0.1000252440571785
+2024-02-08 08:00:00+00:00,Historical trend of repo rate in India: How Indian economy gets impacted,Siasat.com,0.009942997246980667
+2024-04-24 07:00:00+00:00,How India’s Economy Has Really Fared Under Modi,Time Magazine,0.1602104753255844
+2024-05-31 07:00:00+00:00,Earn up to 7.95% FD interest rate: Bank of India launches new special fixed deposit with higher interest r,The Economic Times,0.7060264470055699
+2024-02-05 08:00:00+00:00,RBI monetary policy: Why repo rate is likely to remain unchanged for the sixth time,The Indian Express,-0.21005991101264954
+2024-01-02 08:00:00+00:00,Earn up to 7.5% FD interest rate: Bank of India introduces new special fixed deposit with higher interest,The Economic Times,0.6427577175199986
+2024-02-22 08:00:00+00:00,How Does Inflation Impact the Stock Market?,Groww,-0.09642177261412144
+2024-01-03 08:00:00+00:00,"India's economic outlook for 2024: Experts weigh in on growth, interest rates, and rupee",CNBC TV18,0.018950827419757843
+2024-07-01 07:00:00+00:00,Budget 2024: A look at India’s GDP growth rate before Sitharaman sets the ball rolling in Lok Sabha,The Economic Times,0.1835362622514367
+2024-02-08 08:00:00+00:00,"Loan borrowers take note! Now, know all-inclusive interest cost for your loan, RBI announces new measures",The Times of India,0.08946852572262287
+2024-02-23 08:00:00+00:00,"Even 2% Interest Rate Won’t Boost Private Investment When There Is Weak Demand, Says India Ratings Economist Devendra Kumar Pant",outlookbusiness.com,0.40322084724903107
+2024-01-23 08:00:00+00:00,"RBI 'mute spectator', allowing banks to charge high interest rates: Allahabad HC",The Economic Times,0.13882296439260244
+2024-05-24 07:00:00+00:00,"Foreign investing in India: trends, opportunities and forecasts",Deloitte,0.02549881301820278
+2024-01-16 08:00:00+00:00,Personal loans to get costlier? Interest rates likely to rise by up to 1.5% in 2024 with new RBI rules,The Times of India,0.9124437589198351
+2024-04-23 07:00:00+00:00,Data Reveals PM Modi Has Best Record On Inflation Among All Prime Ministers,Swarajyamag,0.5966236963868141
+2024-02-09 08:00:00+00:00,Chambers Applaud RBI's Move To Keep Benchmark Interest Rates Stable,KNN India,0.7701606750488281
+2024-01-11 08:00:00+00:00,"Stand-Up India Scheme: Eligibility, Loan Interest Rate, Benefits",ClearTax,-0.006758971139788628
+2024-06-27 07:00:00+00:00,India allows imports of corn under tariff-rate quota,ChiniMandi,0.03632635250687599
+2024-01-01 08:00:00+00:00,"India's economy burns bright, but watch out for these 4 risks in 2024",The Economic Times,0.24644906260073185
+2024-04-30 07:00:00+00:00,April 2024 home loan interest rates: Banks with most affordable rates for home loans over Rs 75 lakh,The Times of India,0.16309109423309565
+2024-01-31 08:00:00+00:00,Green FD interest rates up to 8%: These 3 banks offer green deposits in India,The Economic Times,0.16156623605638742
+2024-06-30 07:00:00+00:00,Top 5 tax-saving bank FDs: Which banks offer high interest rates & how much will your money grow? Check l,The Times of India,0.04614619165658951
+2024-03-13 07:00:00+00:00,What does 12-year-low core inflation say about India's growth story?,Moneycontrol,-0.055093470960855484
+2024-04-22 07:00:00+00:00,"High Interest Rates Affect Subsidies, Capital Costs of Renewables: Report",Mercomindia.com,-0.11898085847496986
+2024-03-26 07:00:00+00:00,"MPC Poll: RBI to leave key interest rates unchanged at April monetary policy, say economists, bankers",Moneycontrol,-0.445633701980114
+2024-06-12 07:00:00+00:00,"FD interest rate up to 9.1%: 9 banks have revised fixed deposit terms, rates after new RBI rule",The Economic Times,-0.12325478345155716
+2024-03-01 08:00:00+00:00,Have a home loan? Know the latest RBI rules to understand how you can save on interest costs in rising ra,The Times of India,0.03839579038321972
+2024-01-19 08:00:00+00:00,State Bank of India’s green deposits: Are the interest rates attractive enough?,BusinessLine,0.23994878306984901
+2024-02-08 08:00:00+00:00,RBI repo rate in February 2024,Housing,-0.02835768088698387
+2024-04-19 07:00:00+00:00,"Banks revise FD interest rates in April: IDBI, Federal Bank and more - these 5 banks have changed fixed d",The Times of India,-0.2385471872985363
+2024-03-12 07:00:00+00:00,India’s inflation almost flat at 5.1% in February; food inflation rises,The Economic Times,0.048684388399124146
+2024-05-15 07:00:00+00:00,SBI FD rate hike: State Bank of India raises fixed deposit interest rates on these tenors. Check latest FD rates here,Mint,0.03448428586125374
+2024-06-28 07:00:00+00:00,Small savings schemes: India keeps interest rate unchanged for July-September quarter,CNBC TV18,-0.013520646840333939
+2024-04-01 07:00:00+00:00,Up to 7.75% FD interest rate: Bank of India revises fixed deposit rates,The Economic Times,0.030408747494220734
+2024-01-12 08:00:00+00:00,India's retail inflation surges to a four-month high of 5.69 per cent in December,The Economic Times,0.8785974979400635
+2024-03-20 07:00:00+00:00,"RBI fines Tamilnad Mercantile Bank, DCB Bank for breach of norms",ETLegalWorld.com,-0.9076329041272402
+2024-05-27 07:00:00+00:00,RBI Hikes Repo Rate By 35 Bps; Sets Reining Inflation Top Agenda For 2023-24,Forbes,0.691793005913496
+2024-05-21 07:00:00+00:00,"Cashless Economy: Objectives, Importance, Impact on Indian Economy, Advantages and Disadvantages",ClearTax,0.045219168066978455
+2024-01-16 08:00:00+00:00,"Home loan, other loan interest rates revised: List of 8 banks with new rates in January 2024",The Times of India,-0.04741893522441387
+2024-02-06 08:00:00+00:00,India's Economic Potential: Can It Surpass the US Economy?,Deccan Herald,0.6684936126694083
+2024-03-29 07:00:00+00:00,Is India’s growth rate overestimated?,The Indian Express,-0.016471512615680695
+2024-06-07 07:00:00+00:00,"RBI Flags Issue Of High Rates On Small Loans, Says Hidden Charges Must Be Revealed In KFS",Outlook Money,-0.026903532445430756
+2024-06-20 07:00:00+00:00,"9.75% FD interest rate: This bank hikes fixed deposit rates by up to 50 bps, now offers 'highest' FD rate",The Economic Times,0.8408676208928227
+2024-02-29 08:00:00+00:00,WTO’s deadlock: EU’s trade duty dispute with India,orfonline.org,-0.8640511110424995
+2024-03-19 07:00:00+00:00,"India unlikely to reach China's 8-10% growth rate, says Morgan Stanley, sees growth around 6.5-7%",Mint,0.8621167913079262
+2024-05-27 07:00:00+00:00,"MPC Poll: RBI to leave key interest rates unchanged in June monetary policy, say economists, bankers",Moneycontrol,-0.4514141008257866
+2024-03-11 07:00:00+00:00,SBI FD interest rate up to 7.9%: 5 State Bank of India special fixed deposits offering higher rates,The Economic Times,0.6449249358847737
+2024-06-10 07:00:00+00:00,"Which bank offers up to 7.75% savings account interest rate: SBI, ICICI Bank, HDFC Bank, RBL Bank, PNB or Union Bank of India? - Savings account interest rates",The Economic Times,0.018154731020331383
+2024-04-02 07:00:00+00:00,SBI forecasts 15% growth in deposits for FY25; expects RBI rate cut only in Q3FY25,The Economic Times,0.5539272129535675
+2024-05-11 07:00:00+00:00,"Some banks revise fixed deposit interest rates in May 2024, offering rates up to 9.1%",The Times of India,0.11872902140021324
+2024-05-31 07:00:00+00:00,India's productivity growth rate more than doubled post-2014: Ex-CEA decodes GDP print ahead of election results,Mint,-0.031857073307037354
+2024-06-06 07:00:00+00:00,"Fixed Deposit: From SBI to PNB, interest rates offered by banks in India",Business Standard,0.007242035120725632
+2024-01-02 08:00:00+00:00,Bank of India launches 'Super Special Fixed Deposit' scheme with 7.5% interest rate,CNBC TV18,0.18401147983968258
+2024-05-24 07:00:00+00:00,Kisan Credit Card Interest Rate For All Banks,Airtel,-0.00038942694664001465
+2024-06-15 07:00:00+00:00,Latest SBI loan interest rates June 2024: State Bank of India hikes interest rates on these loans,The Economic Times,-0.249152272939682
+2024-04-10 07:00:00+00:00,RBI Floating Rate Savings Bonds at over 8%: Is it the right time to invest? Key features to know,The Times of India,0.06284731905907393
+2024-05-15 07:00:00+00:00,Latest SBI FD interest rates: State Bank of India hikes fixed deposit rates by up to 75 bps,The Economic Times,0.40100470185279846
+2024-02-08 08:00:00+00:00,RBI MPC Maintains Unchanged Repo Rate: What It Means For Homebuyers And Home Loan Borrowers?,Outlook Money,-0.006054356694221497
+2024-06-01 07:00:00+00:00,Bank of India Floats 666 Days Term Deposits At 7.3% Interest Rate,BW Businessworld,0.006690729409456253
+2024-03-27 07:00:00+00:00,Investing in productivity growth,McKinsey & Company,0.11406526807695627
+2024-02-09 08:00:00+00:00,"HDFC Bank raises FD interest rates, now earn up to 7.75%; know the latest FD rates here",The Times of India,0.26288930978626013
+2024-03-18 07:00:00+00:00,"Banks like Bank of India, HDFC offer lowest home loan interest rates",Business Standard,0.01894456520676613
+2024-12-05 08:00:00+00:00,"India's central bank revises down economic growth forecast for 2025, keeps interest rate steady",CNBC,-0.3489255756139755
+2024-11-29 08:00:00+00:00,"India's economy slows sharply, adding pressure on central bank to cut rates",Reuters,-0.9583360711112618
+2024-12-10 08:00:00+00:00,India: Is the world's fastest-growing big economy losing steam?,BBC,-0.9379496583715081
+2024-10-02 04:10:00+00:00,India: From low inflation to low rates; the RBI is set to pivot,Nomura Connects,0.18187759071588516
+2024-09-03 07:00:00+00:00,India’s Economy to Remain Strong Despite Subdued Global Growth,World Bank,0.9328607358038425
+2024-11-25 08:00:00+00:00,India’s central bank governor says economy ‘well placed’ to handle shocks,Financial Times,0.6081601269543171
+2024-12-10 08:00:00+00:00,India’s economy is likely to stand firm in an uncertain world,Goldman Sachs,0.8799193017184734
+2024-11-29 08:00:00+00:00,"India's GDP growth slows to 2-year low of 5.4% in Q2, adding pressure on RBI to cut rates",The Times of India,-0.9640670958906412
+2024-10-09 07:00:00+00:00,India: RBI Policy (Oct 2024) - Opening the door towards rate cuts,MUFG Research,0.8091419851407409
+2024-07-22 07:00:00+00:00,GOVERNMENT'S PRUDENT MONETARY & TRADE POLICY SUPPORTED BY STRONG OUTPUT GROWTH REDUCES RETAIL INFLATION TO A FOUR-YEAR LOW OF 5.4% IN FY24,PIB,-0.9324372336268425
+2024-12-31 08:00:00+00:00,"India Economy 2024: GDP, FDI, Trade Trends",India Briefing,-0.013909656554460526
+2024-12-06 08:00:00+00:00,"India’s central bank reduces CRR, leaves repo rate unchanged",ING THINK economic and financial analysis | ING THINK,-0.595755361020565
+2024-12-12 08:00:00+00:00,"India's inflation slows from 14-month high, raising hopes of interest rate cut under new governor",CNBC,-0.6683449596166611
+2024-08-25 07:00:00+00:00,"India should retain headline inflation as target, external rate panel members say",Reuters,0.19097993336617947
+2024-12-10 08:00:00+00:00,"Surprise RBI governor pick could pave the way for India rate cut as soon as February, economists say",CNBC,-0.004490464925765991
+2024-08-08 07:00:00+00:00,India's central bank holds rates again despite global market volatility,Reuters,0.6314962357282639
+2024-07-30 07:00:00+00:00,"Reserve Bank of India to hold rates in August, first cut in Q4: Reuters poll",Reuters,-0.1488407626748085
+2024-10-29 07:00:00+00:00,"RBI to cut rates in December to 6.25%, say narrow majority of economists: Reuters poll",Reuters,-0.6325070783495903
+2024-11-27 08:00:00+00:00,Indian central bank to delay cutting rates to early 2025 amid inflation concerns: Reuters poll,Reuters,-0.716406574472785
+2024-12-06 08:00:00+00:00,India's RBI supports growth with liquidity boost but holds rates amid high inflation,Reuters,-0.25454089045524597
+2024-10-08 07:00:00+00:00,"India cenbank holds rates, shifts stance to 'neutral' signalling rate cuts ahead",Reuters,-0.37127698957920074
+2024-08-09 07:00:00+00:00,RBI Hikes Repo Rate to 6.50% : How Will It Impact You?,Groww,0.05440439283847809
+2024-07-18 07:00:00+00:00,RBI report says India’s neutral interest rate has risen after pandemic,The Economic Times,0.9007140509784222
+2024-10-14 07:00:00+00:00,"India rate cuts seen delayed to 2025 after Sept inflation spike, say economists",Reuters,-0.32223647832870483
+2024-12-20 08:00:00+00:00,"High prices impinging on India's growth, central bank minutes show",Reuters,-0.7574237994849682
+2024-09-26 07:00:00+00:00,"RBI to keep repo rate at 6.50% in October, cut by 25bps in December - Reuters poll",Reuters,-0.0875135213136673
+2024-07-22 07:00:00+00:00,"SERVICES SECTOR CONTINUES TO CONTRIBUTE SIGNIFICANTLY TO INDIA'S GROWTH, ACCOUNTS FOR ABOUT 55 PER CENT OF TOTAL SIZE OF THE ECONOMY IN FY24",PIB,0.6866709068417549
+2024-07-03 07:00:00+00:00,What does the future hold for India?,McKinsey & Company,-0.014453064650297165
+2024-11-21 08:00:00+00:00,"Goldman Sachs forecasts shallow RBI rate cut starting March 2025, lowers India's FY25 growth outlook to 6.",The Economic Times,-0.9375554034486413
+2024-08-20 07:00:00+00:00,India’s RBI Hikes Interest Rates For The Third Time This Year,Forbes,-0.02029705047607422
+2024-07-04 07:00:00+00:00,"Not politics, not interest rates: India's surging economy at risk from water",Reuters,-0.4253486506640911
+2024-12-05 08:00:00+00:00,India’s RBI Keeps Rates on Hold Despite Weak Economic Growth,Bloomberg.com,-0.65080276876688
+2024-11-29 08:00:00+00:00,"India's quarterly growth slumps to a near two-year low, well below expectations",CNBC,-0.9650817196816206
+2024-08-28 07:00:00+00:00,"Is 7% Growth Rate Enough For India To Achieve ""Developed"" Economy Status By 2047?",Centre for Public Policy Research (CPPR),0.49424765445291996
+2024-12-06 08:00:00+00:00,"Amid high inflation, RBI keeps repo rate unchanged at 6.5%",The Hindu,-0.10086233913898468
+2024-12-04 08:00:00+00:00,"India RBI Will Likely Hold Rates, Boost Liquidity: Day Guide",Bloomberg.com,0.7233589254319668
+2024-09-15 07:00:00+00:00,"India can achieve sustainable growth of up to 8% in the coming years, central bank chief says",CNBC,0.9087842060253024
+2024-07-18 07:00:00+00:00,"India cenbank pegs natural rate higher, analysts caution on policy easing",Reuters,0.3103258013725281
+2024-09-18 07:00:00+00:00,How the Fed rate cut will shake up India's economy?,The Daily Brief by Zerodha,-0.1190321072936058
+2024-10-01 07:00:00+00:00,India's government picks three new members to join RBI's rate-setting panel,Reuters,0.043966082856059074
+2024-12-12 08:00:00+00:00,CNBC's Inside India newsletter: India's central bank has a new governor. Three experts reveal what they'd do in his shoes,CNBC,-0.012556284666061401
+2024-10-09 07:00:00+00:00,India's short-term rates curve inverts further as rate cuts loom,The Economic Times,-0.930171387270093
+2024-10-09 07:00:00+00:00,"India’s Central Bank Eases Policy Stance, Signaling Rate Cut",Bloomberg.com,-0.2779761105775833
+2024-11-29 08:00:00+00:00,India economy grows 5.4% in July-Sept quarter,Reuters,0.9205000773072243
+2024-12-02 08:00:00+00:00,India's economic slowdown: Which way are the gears shifting?,The Economic Times,-0.30618633329868317
+2024-12-06 08:00:00+00:00,Experts react to RBI decision,Reuters,0.02422492206096649
+2024-12-04 08:00:00+00:00,"If the RBI Keeps Cutting Interest Rates, These 5 Stocks Could be Big Winners",Equitymaster,-0.30029553920030594
+2024-12-20 08:00:00+00:00,RBI's MPC: India Rate-Setting Panel Differs on Growth-Inflation Balance,Bloomberg.com,-0.0039064884185791016
+2024-08-07 07:00:00+00:00,Inflation target evades India cenbank's rate panel as rejig looms,Reuters,-0.6107413470745087
+2024-12-06 08:00:00+00:00,"RBI Monetary Policy Meeting Highlights: Shaktikanta Das-led MPC keeps repo rate unchanged, cuts CRR to 4%; GDP FY25 outlook revised down to 6.6%",The Times of India,-0.9393931869417429
+2024-12-05 08:00:00+00:00,CNBC's Inside India newsletter: What lies ahead for India after a big GDP growth miss?,CNBC,-0.267392061650753
+2024-11-20 08:00:00+00:00,"Food prices in focus amid inflation, interest rate call",The Times of India,-0.010059453547000885
+2024-12-27 08:00:00+00:00,India’s government cites RBI policy for slowdown,The Economic Times,-0.6642951667308807
+2024-10-07 07:00:00+00:00,"India central bank seen on hold, but may open door to easing",Reuters,-0.09661509096622467
+2024-12-23 08:00:00+00:00,What 2025 Holds for India’s Economy and Markets,The Daily Brief by Zerodha,0.05928078666329384
+2024-09-20 07:00:00+00:00,"Why US Fed cut interest rates, how India could be impacted",The Indian Express,-0.07341815903782845
+2024-12-06 08:00:00+00:00,RBI MPC: Reserve Bank of India projects real GDP growth in 2024 at 6.6%,The Hindu,0.3663374073803425
+2024-09-20 07:00:00+00:00,Why should you care about the US Fed rate cut?,Finshots,-0.21527330204844475
+2024-10-10 07:00:00+00:00,Is India’s economy slowing down?,The Economist,-0.8796654380857944
+2024-12-12 08:00:00+00:00,"India's November retail inflation eases, boosts rate cut hopes",Reuters,0.8886080607771873
+2024-10-14 07:00:00+00:00,"India CPI: Retail Inflation Quickens to 9-Month High, Keeping RBI on Guard",Bloomberg.com,0.864086739718914
+2024-12-07 08:00:00+00:00,RBI move to make foreign currency deposits more attractive for non-residents,The Times of India,0.7827408341690898
+2024-09-09 07:00:00+00:00,Unemployed Youth Are Still the Achilles Heel of India’s Buoyant Economy,International Banker,-0.6514814905822277
+2024-11-19 08:00:00+00:00,Nirmala Sitharaman calls for 'affordable' interest rates after Piyush Goyal,India Today,0.20617303624749184
+2024-10-09 07:00:00+00:00,"RBI keeps repo rate unchanged at 6.5%, GDP for FY25 projected at 7.2%",India Today,-0.10626564919948578
+2024-12-02 08:00:00+00:00,"India's weak Q2 growth widens divide between government, Reserve Bank priorities",The Economic Times,-0.9352678684517741
+2024-09-19 07:00:00+00:00,Fed cuts rates for first time since 2020: What happens to inflows and rates in India?,The Economic Times,-0.8590492587536573
+2024-08-13 07:00:00+00:00,No freedom from the core price problem keeps celebrations muted,The Economic Times,0.12400265038013458
+2024-11-20 08:00:00+00:00,"Why Nirmala Sitharaman, Piyush Goyal would like RBI to slash interest rates",India Today,-0.21334301307797432
+2024-11-19 08:00:00+00:00,Interest rates need to be 'far more affordable': FM Nirmala Sitharaman,The Times of India,0.11187274102121592
+2024-08-08 07:00:00+00:00,India Keeps Benchmark Rate Steady as Inflation Risks Persist,Bloomberg.com,0.07168076932430267
+2024-09-19 07:00:00+00:00,US Fed cuts interest rates by 50 bps in a first since 2020: Why it matters for India,The Times of India,-0.40831509232521057
+2024-12-09 08:00:00+00:00,RBI cuts CRR: Will bank fixed deposit rates come down soon?,The Times of India,-0.8972373940050602
+2024-11-13 08:00:00+00:00,Inflation Rate In India: February 2026 Data,Forbes,-0.07452641054987907
+2024-09-20 07:00:00+00:00,"Recap: India’s economy, US rate cut, Quick commerce clash and Trade deficit",The Daily Brief by Zerodha,0.26474652625620365
+2024-12-06 08:00:00+00:00,RBI MPC Meeting Key Takeaways: Central bank leaves repo rate unchanged; a look at key decisions,The Economic Times,-0.019311323761940002
+2024-12-06 08:00:00+00:00,RBI Monetary Policy Meeting December 2024: Key Highlights & Updates from Shaktikanta Das,BusinessLine,0.011479079723358154
+2024-10-10 07:00:00+00:00,"As China Perks Up, India Slows Down",Bloomberg.com,0.4699354004114866
+2024-10-03 07:00:00+00:00,India-EFTA Trade and Economic Partnership Agreement: Tariff concessions for fisheries and aquaculture products,Food and Agriculture Organization,0.5436280993744731
+2024-10-09 07:00:00+00:00,RBI MPC meeting: Policy rate unchanged at 6.5%,The Hindu,-0.08852554112672806
+2024-08-13 07:00:00+00:00,India's interest rate derivatives to get boost as top insurer LIC enters market,Reuters,0.9248012807220221
+2024-08-08 07:00:00+00:00,Changes to India's repo rate since June 2000,Reuters,-0.04636373370885849
+2024-10-15 07:00:00+00:00,India’s rate-cut calls at risk after inflation picks up sharply,The Economic Times,-0.5155097097158432
+2024-10-09 07:00:00+00:00,"RBI projects 7.2% GDP growth for FY25, CPI inflation to moderate at 4.5%",The Hindu,0.8949457537382841
+2024-12-06 08:00:00+00:00,RBI MPC meeting: NRIs can now earn more money from their savings in India,The Economic Times,0.8104819050058722
+2024-11-22 08:00:00+00:00,"India’s GDP growth estimated to decelerate to 6.3% in 2025, says Goldman Sachs; sees shallow RBI rate cut from Q1CY25",Mint,-0.037060707807540894
+2024-08-08 07:00:00+00:00,"RBI MPC Meeting 2024 Highlights: RBI keeps repo rate unchanged at 6.5%, FY25 GDP growth projected at 7.2%",BusinessLine,-0.0355926975607872
+2024-12-06 08:00:00+00:00,What is Cash Reserve Ratio? Understanding RBI's liquidity management tool,India Today,0.01617320254445076
+2024-11-15 08:00:00+00:00,Will Trump really act on tariff threats against India?,360info.org,-0.023496001958847046
+2024-10-22 07:00:00+00:00,Retail Inflation in India Hits 9 Month High in September 2024,ICICI Direct,0.8174800649285316
+2024-11-15 08:00:00+00:00,Targeting food inflation with rates is ‘flawed theory’: Piyush Goyal,The Times of India,-0.1676773801445961
+2024-12-06 08:00:00+00:00,Can RBI’s Monetary policy drive a manufacturing boom in India?,Manufacturing Today India,0.17248385027050972
+2024-12-12 08:00:00+00:00,"RRR mode for new RBI gov: Sanjay Malhotra's focus should be rates, rupee, and regulation",Forbes India,0.013985292986035347
+2024-10-02 07:00:00+00:00,Centre reconstitutes Monetary Policy Committee ahead of RBI rate review,The Indian Express,-0.02452670969069004
+2024-11-15 08:00:00+00:00,Shaktikanta Das to stay or leave RBI? His future and your wallets are connected,The Economic Times,-0.04386332258582115
+2024-10-16 07:00:00+00:00,Top 10 Best Bank Loan Interest Rates in India 2024,Airtel,0.05438821017742157
+2024-08-13 07:00:00+00:00,FD interest rates set to fall? Why investing in long-term fixed deposits may make sense right now,The Times of India,-0.19801487773656845
+2024-10-02 07:00:00+00:00,India Names New External Members in RBI’s Rate-Setting Panel,Bloomberg.com,0.05889291409403086
+2024-12-30 08:00:00+00:00,India's economic growth slumps to 5.4%: What it means for future policy changes,The Economic Times,-0.4258032198995352
+2024-07-29 07:00:00+00:00,"India’s RBI Must Retain Focus on Food Inflation, Economists Say",Bloomberg.com,-0.16035054624080658
+2025-06-06 07:00:00+00:00,"RBI: India central bank delivers sharp rate cut as growth, inflation fall",BBC,-0.5825100243091583
+2025-04-09 07:00:00+00:00,RBI Issues April 2025 Policy Update,PIB,-0.007325548678636551
+2025-02-06 08:00:00+00:00,"India’s central bank cuts rates for the first time in nearly five years, forecasts faster growth next year",CNBC,-0.8853361010551453
+2025-02-07 08:00:00+00:00,India cuts key interest rate for first time since 2020 amid slowing growth,Al Jazeera,-0.8446609824895859
+2025-06-11 07:00:00+00:00,"India slashes interest rates, but who will borrow?",Reuters,-0.3831660710275173
+2025-06-05 07:00:00+00:00,India cuts rates more than expected to boost economy,Financial Times,0.0731346607208252
+2025-02-07 08:00:00+00:00,India central bank cuts interest rates amid easing inflation,DW.com,-0.8774659521877766
+2025-02-07 08:00:00+00:00,RBI's rate cut sets stage for further easing of interest rates in near term: India Inc,The Hindu,0.15814578905701637
+2025-06-06 07:00:00+00:00,"India’s Central Bank Surprises With Big Rate Cut, Cash Boost",Bloomberg.com,0.8411031328141689
+2025-03-17 07:00:00+00:00,Will India remain the fastest growing economy?,GIS Reports,0.22038749139755964
+2025-02-05 08:00:00+00:00,"India likely to cut benchmark rates for the first time in nearly five years as economy slows, inflation eases",CNBC,-0.8776854202151299
+2025-06-03 07:00:00+00:00,India cenbank may deliver third straight rate cut as inflation undershoots,Reuters,-0.47875261306762695
+2025-02-06 08:00:00+00:00,RBI: India's central bank slashes rates after five years,BBC,-0.9159245416522026
+2025-06-12 07:00:00+00:00,"CONSUMER PRICE INDEX NUMBERS ON BASE 2012=100 FOR RURAL, URBAN AND COMBINED FOR THE MONTH OF MAY, 2025",PIB,-0.022871460765600204
+2025-02-07 08:00:00+00:00,India cuts interest rates for first time in 5 years to combat slowing growth,Financial Times,-0.6668976247310638
+2025-04-09 07:00:00+00:00,"India’s central bank cuts policy rate to 6% to boost slowing growth, signals further easing ahead",CNBC,0.5345981121063232
+2025-04-08 07:00:00+00:00,RBI: India cuts rates as Trump's tariffs put growth at risk,BBC,-0.9408076545223594
+2025-06-06 07:00:00+00:00,India bets on growth with steepest rate cut in five years,Reuters,0.6569618880748749
+2025-06-06 07:00:00+00:00,India's central bank beats market expectations to deliver outsized rate cut of 50 points,CNBC,0.8797493856400251
+2025-02-12 08:00:00+00:00,"India's inflation falls for third straight month to 4.31% in January, making case for further monetary easing",CNBC,-0.8393692672252655
+2025-04-09 07:00:00+00:00,RBI Signals More Rate Cuts to Come in India as Tariffs Hit,Bloomberg.com,0.6761400252580643
+2025-01-13 08:00:00+00:00,"India's inflation slows to lower-than-expected 5.22% in December, boosting case for rate cuts",CNBC,-0.5183050334453583
+2025-05-13 07:00:00+00:00,"India Inflation Eases Further, Giving RBI Room for More Cuts",Bloomberg.com,0.9138033203780651
+2025-04-23 07:00:00+00:00,India's interest rate setters back growth-supportive monetary policy,Reuters,0.646936072036624
+2025-06-20 07:00:00+00:00,What is the Impact of RBI's Repo Rate Cut on Economy?,ICICI Direct,-0.2621440663933754
+2025-02-07 08:00:00+00:00,India cuts rates for first time in nearly 5 years to boost growth as inflation eases,Reuters,-0.6389899700880051
+2025-04-16 07:00:00+00:00,India's Retail Inflation Hits Six-Year Low,PIB,-0.2629987299442291
+2025-03-28 07:00:00+00:00,"RBI to cut rates again on April 9, then just once more in August: Reuters poll",Reuters,-0.5484603755176067
+2025-05-29 07:00:00+00:00,"RBI to cut rates by 25 bps on June 6, then once more in August - Reuters poll",Reuters,-0.0748932808637619
+2025-03-07 08:00:00+00:00,"India’s growth outlook strong, RBI likely to cut rates again in April: HSBC report",ddnews.gov.in,-0.7965222895145416
+2025-02-07 08:00:00+00:00,"Amid RBI rate cut cheers, did you miss RBI's alert that could threaten India’s economy?",The Economic Times,-0.8485504761338234
+2025-06-06 07:00:00+00:00,"RBI's bigger-than-expected rate cut is its last move for the year, economists say",Reuters,-0.9285892499610782
+2025-04-09 07:00:00+00:00,"India central bank cuts rates, changes stance to 'accommodative' as US tariffs add to growth risks",Reuters,-0.88988296687603
+2025-04-08 07:00:00+00:00,India central bank set to cut rates a second time as US tariffs add to risks,Reuters,-0.8154728747904301
+2025-01-28 08:00:00+00:00,Future Ready: India’s Digital Economy to Contribute One-Fifth of National Income by 2029-30,PIB,0.7359212059527636
+2025-05-30 07:00:00+00:00,India's economy grew by faster-than-expected 7.4% in the March quarter,CNBC,0.9288104809820652
+2025-02-12 08:00:00+00:00,"India’s Inflation Eases in January, Justifying RBI Rate Cut",Bloomberg.com,0.8637039810419083
+2025-02-07 08:00:00+00:00,India's central bank to cut rates to boost economy as inflation slows,Reuters,-0.4346208870410919
+2025-01-31 08:00:00+00:00,"RBI to cut rates to 6.25% in February, followed by one more cut next quarter - Reuters poll",Reuters,-0.743898119777441
+2025-06-06 07:00:00+00:00,RBI slashes repo rate by 0.5% to boost growth,The Hindu,-0.4781314730644226
+2025-06-02 07:00:00+00:00,RBI set to cut rates 3rd time in row,The Times of India,-0.7130154892802238
+2025-06-11 07:00:00+00:00,India File: RBI goes for broke on growth,Reuters,-0.004938304424285889
+2025-04-15 07:00:00+00:00,Emerging Economies and the Tariff Taper: India’s Subtle Leadership,orfonline.org,0.11347247660160065
+2025-02-19 08:00:00+00:00,"Indian economy to get boost from budget tax relief, rate cut, central bank report says",Reuters,0.9176035523414612
+2025-02-07 08:00:00+00:00,RBI Cuts Interest Rates For First Time In Nearly 5 Years To Boost Economy,NDTV,-0.4636995494365692
+2025-02-26 08:00:00+00:00,India’s economic growth engine begins to stall,East Asia Forum,0.888811782002449
+2025-02-28 08:00:00+00:00,"SECOND ADVANCE ESTIMATES OF ANNUAL GROSS DOMESTIC PRODUCT FOR 2024-25, QUARTERLY ESTIMATES OF GROSS DOMESTIC PRODUCT FOR THE THIRD QUARTER (OCTOBER-DECEMBER) OF 2024-25 AND FIRST REVISED & FINAL",PIB,-0.023432468995451927
+2025-06-11 07:00:00+00:00,India Central Bank Sends Conflicting Signals With Surprise Moves,Bloomberg.com,-0.7528632655739784
+2025-06-09 07:00:00+00:00,Breakingviews - Rate cut signals India's discontent with growth,Reuters,-0.9086804781109095
+2025-04-09 07:00:00+00:00,RBI MPC Meeting GDP Forecast: Reserve Bank of India cuts India’s growth forecast amid Trump tariff tension,The Economic Times,-0.9589257072657347
+2025-05-25 07:00:00+00:00,"India Becomes World’s 4th Largest Economy, Surpasses Japan: NITI Aayog",News On AIR,0.8536754623055458
+2025-02-07 08:00:00+00:00,RBI MPC Meeting 2025: RBI cuts lending rate by 25 basis points to 6.25%,The Hindu,-0.7333778291940689
+2025-04-09 07:00:00+00:00,"India's central bank cuts rates, shifts stance to 'accommodative' | Daily Sabah",Daily Sabah,-0.8251511380076408
+2025-06-18 07:00:00+00:00,"What is repo rate, current repo rate, and history of RBI repo rates in India (2000 to 2025)",Forbes India,-0.03312690369784832
+2025-04-09 07:00:00+00:00,RBI MPC meeting: Governor Sanjay Malhotra announces repo rate cut to 6% amid Trump’s tariffs,The Hindu,0.1378653347492218
+2025-02-05 08:00:00+00:00,India’s New RBI Governor Set to Begin Interest Rate Cuts,Bloomberg.com,0.001635827124118805
+2025-06-26 07:00:00+00:00,"India Rate Cuts Still on Table, Says Hawkish Policy-Setter",Bloomberg.com,-0.19941872358322144
+2025-06-06 07:00:00+00:00,"RBI's 'bold' 50 bps cut to reduce interest rates, improve credit access: India Inc",The Economic Times,0.9076824802905321
+2025-05-30 07:00:00+00:00,PROVISIONAL ESTIMATES OF ANNUAL GROSS DOMESTIC PRODUCT FOR 2024-25 AND QUARTERLY ESTIMATES OF GROSS DOMESTIC PRODUCT FOR THE FOURTH QUARTER (JANUARY-MARCH) OF 2024-25,PIB,-0.06502342969179153
+2025-05-13 07:00:00+00:00,"India's inflation rate slows to 3.16% in April, marking six straight months of decline",CNBC,-0.959254895336926
+2025-06-23 07:00:00+00:00,"Impact of India's large rate cut may be limited, says rate panel member",Reuters,-0.1448889821767807
+2025-01-31 08:00:00+00:00,"INDIAN ECONOMY RECORDS STEADY CREDIT GROWTH; BANKS POST HIGHER PROFITABILITY, LOWER NPAs: ECONOMIC SURVEY 2024-25",PIB,0.6718987002968788
+2025-01-26 08:00:00+00:00,"India central bank's bond purchases raise bets of February rate cut, investors say",Reuters,0.6136303097009659
+2025-02-06 08:00:00+00:00,Rate-sensitive sectors drag Indian equities lower day ahead of RBI policy,Reuters,-0.8899792358279228
+2025-06-04 07:00:00+00:00,RBI rate cut: Not a question of 'if' but 'how much',Forbes India,0.024514589458703995
+2025-05-18 07:00:00+00:00,Why low inflation raises hopes of more RBI rate cuts,India Today,0.20070892572402954
+2025-04-17 07:00:00+00:00,CPI Inflation Falls To 3.40% In March 2025. What It Means for Interest Rates and Debt Investors,PersonalFN,-0.15716231986880302
+2025-06-12 07:00:00+00:00,The role of regulatory bodies in India's financial sector: Wha...,Invest India,0.00986299104988575
+2025-04-09 07:00:00+00:00,"Bank of India, UCO Bank cut lending rates after RBI repo rate slash",ddnews.gov.in,-0.9209206737577915
+2025-04-14 07:00:00+00:00,"Major banks cut lending, deposit rates following RBI’s repo rate cut",The Hindu,-0.9238107670098543
+2025-02-21 08:00:00+00:00,"India's rate panel shifts focus to growth as inflation seen easing, minutes show",Reuters,0.037537455558776855
+2025-04-09 07:00:00+00:00,"RBI Cuts Key Rate To 6% As Trump Tariffs Kick In, Home Loans To Be Cheaper",NDTV,0.08051494508981705
+2025-06-12 07:00:00+00:00,"India Inflation Cools Further, Supporting RBI’s Deep Rate Cut",Bloomberg.com,0.891549477353692
+2025-04-07 07:00:00+00:00,"RBI likely to cut rates by 25 bps in MPC meeting, say experts",The Times of India,-0.8836399894207716
+2025-02-17 08:00:00+00:00,India’s Inflation is Cooling Down… But There’s a Catch!,LinkedIn,-0.007375672459602356
+2025-04-09 07:00:00+00:00,ADB Forecasts India’s Economy to Grow 6.7% in FY2025 | Asian Development Bank,Asian Development Bank,0.9207790708169341
+2025-06-05 07:00:00+00:00,"Instant View: India central bank delivers outsized 50 bps rate easing, slashes reserve ratio",Reuters,-0.8013462200760841
+2025-06-18 07:00:00+00:00,Inflation Rate in India 2025: A closer look at economic trends,Forbes India,0.05979520082473755
+2025-04-07 07:00:00+00:00,Interest rates in India may be heading to a three-year low,CNBC TV18,-0.9335309406742454
+2025-04-04 07:00:00+00:00,"US tariffs to hit India's GDP growth, prompt more rate cuts",The Economic Times,-0.4485604166984558
+2025-06-08 07:00:00+00:00,RBI Cuts Repo Rate To 5.50%: What This Means,NDTV,-0.18702605739235878
+2025-05-30 07:00:00+00:00,"India’s GDP growth outpaces forecasts, easing pressure on Modi",Financial Times,0.46702438592910767
+2025-06-12 07:00:00+00:00,India's headline inflation eases to cooler-than-expected 2.82% in May as food prices slide,CNBC,0.4540642499923706
+2025-06-06 07:00:00+00:00,RBI pegs India’s GDP growth at 6.5% for 2025-26,ddnews.gov.in,0.18746904283761978
+2025-02-06 08:00:00+00:00,India's central bank seen cutting rates for first time since May 2020,Reuters,-0.8158123455941677
+2025-06-20 07:00:00+00:00,"India rate panel hopes to boost consumption, investment with large rate cut, minutes show",Reuters,0.8206016598269343
+2025-03-20 07:00:00+00:00,Will US Fed's rate pause derail RBI's liquidity easing plans?,India Today,-0.9096777150407434
+2025-06-06 07:00:00+00:00,RBI rate cut may hurt FDs. Here's what investors should do now,India Today,-0.12472960352897644
+2025-01-13 08:00:00+00:00,"India’s Inflation Slide, Rupee Slump Complicate Rate Outlook",Bloomberg.com,-0.9074572175741196
+2025-05-22 07:00:00+00:00,RBI might go for a deeper rate cuts amid sluggish growth: Morgan Stanley,The Times of India,-0.16691596060991287
+2025-05-30 07:00:00+00:00,India's economy outperforms peers as it surges 7.4% in January-March,Reuters,0.8871061205863953
+2025-02-07 08:00:00+00:00,RBI Monetary Policy Meeting 2025: Repo Rate Cut by 25 Basis Points to 6.25%,PersonalFN,0.4447760432958603
+2025-04-21 07:00:00+00:00,Union Bank of India Recurring Deposit (RD) Interest Rates 2026,ClearTax,0.0013457909226417542
+2025-04-08 07:00:00+00:00,Is it Good for the Stock Market When the RBI Cuts the Repo Rate?,Equitymaster,-0.20690377429127693
+2025-06-14 07:00:00+00:00,RBI may cut rates further after brief pause; more liquidity requirement in second half of FY26: Report,The Times of India,-0.8569181188941002
+2025-06-04 07:00:00+00:00,RBI policy meet begins today: These stocks could rally if rate cut happens,India Today,0.6548600792884827
+2025-04-21 07:00:00+00:00,Central Bank of India Recurring Deposit (RD) Interest Rates 2026,ClearTax,-0.0013666599988937378
+2025-05-30 07:00:00+00:00,US Imposes 26% Tariff on India,India Briefing,-0.144974984228611
+2025-06-17 07:00:00+00:00,Read all about RBI’s revised Monetary Policy Statement and New Repo Rate,SCC Online,0.005032222718000412
+2025-02-07 08:00:00+00:00,New RBI Governor Delivers India’s First Rate Cut Since 2020,Bloomberg.com,-0.37257905304431915
+2025-10-01 07:00:00+00:00,"RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens",PIB,0.8721353225409985
+2025-12-05 08:00:00+00:00,Reserve Bank of India cuts rates and injects liquidity amid benign inflation,ING THINK economic and financial analysis | ING THINK,-0.9240725953131914
+2025-10-01 07:00:00+00:00,India holds rates steady at 5.5% in line with forecast as central bank assesses earlier cuts,CNBC,0.31229500472545624
+2025-12-05 08:00:00+00:00,"India central bank cuts key rate, boosts liquidity to support 'goldilocks' economy",Reuters,0.3325282335281372
+2025-12-01 08:00:00+00:00,"India Strong Growth Lowers RBI Rate-Cut Odds, Economists Say",Bloomberg.com,0.9128434062004089
+2025-11-19 08:00:00+00:00,What's the story behind India's near-zero inflation rates?,LinkedIn,-0.2168271169066429
+2025-12-04 08:00:00+00:00,India cuts rates to 5.25% as expected as central bank flags ‘weakness in some key economic indicators’,CNBC,-0.8992546647787094
+2025-11-28 08:00:00+00:00,8.2% GDP: India's Growth Story Strengthens,PIB,0.9343719352036715
+2025-10-01 07:00:00+00:00,"India central bank holds rates, leaves room for December cut",Reuters,-0.5881554074585438
+2025-10-01 07:00:00+00:00,India’s Central Bank Holds Interest Rates Despite Tariff Blow,Bloomberg.com,-0.0008583515882492065
+2025-10-01 07:00:00+00:00,"India rate cut deferred, not dismissed",ING THINK economic and financial analysis | ING THINK,-0.07551446184515953
+2025-08-06 07:00:00+00:00,India's central bank keeps rates steady at 5.5% as Trump ratchets up tariff threats,CNBC,-0.057180002331733704
+2025-07-06 07:00:00+00:00,Press Note Details: Press Information Bureau,PIB,-0.0005542915314435959
+2025-10-15 07:00:00+00:00,India central bank minutes show room for rate cuts as inflation outlook softens,Reuters,0.07922312617301941
+2025-08-12 07:00:00+00:00,India’s Inflation Eases to 8-Year Low as Food Prices Fall,Bloomberg.com,-0.1506316363811493
+2025-11-12 08:00:00+00:00,"India inflation cools more than expected in October, boosting hopes for further rate cuts",CNBC,0.9150398261845112
+2025-12-29 08:00:00+00:00,Press Note Details: Press Information Bureau,PIB,-0.0005542915314435959
+2025-08-05 07:00:00+00:00,India holds rates as expected but flags risks from US tariffs,Reuters,-0.0064789652824401855
+2025-08-30 07:00:00+00:00,Press Note Details: Press Information Bureau,PIB,-0.0005542915314435959
+2025-12-16 08:00:00+00:00,"RBI governor signals rates to stay low for 'long period', FT reports",Reuters,-0.2494797669351101
+2025-12-09 08:00:00+00:00,​Prudent action: On RBI interest rate cuts,The Hindu,0.08322246372699738
+2025-12-04 08:00:00+00:00,Soaring growth puts India’s central bank in tough spot,Financial Times,-0.8271406106650829
+2025-08-06 07:00:00+00:00,India’s central bank holds rates amid rising tariff tensions with Donald Trump,Financial Times,-0.7727775499224663
+2025-09-24 07:00:00+00:00,RBI likely to hold rates at 5.50% on October 1 and through 2025 - Reuters poll,Reuters,0.007074568420648575
+2025-09-28 07:00:00+00:00,"RBI expected to hold policy rate, but surprise cut possible",Reuters,-0.23323658853769302
+2025-08-05 07:00:00+00:00,Trump’s tariff to test Reserve Bank of India's rate decision,The Economic Times,0.15305711328983307
+2025-12-05 08:00:00+00:00,Industry bodies welcome RBI’s decision to cut policy repo rate by 25 basis points to 5.25%,News On AIR,-0.4120774269104004
+2025-12-05 08:00:00+00:00,India’s Central Bank Cuts Rate After Inflation Hits Record Low,Bloomberg.com,-0.8448246046900749
+2025-07-24 07:00:00+00:00,"RBI to hold rates in August, expected to cut again later this year: Reuters poll",Reuters,-0.28344153612852097
+2025-11-27 08:00:00+00:00,India's central bank expected to cut rates to 5.25% on December 5: Reuters poll,Reuters,-0.8473903331905603
+2025-08-06 07:00:00+00:00,India’s Central Bank Holds Rates Amid Tariff Uncertainty,Bloomberg.com,-0.5327624306082726
+2025-09-30 07:00:00+00:00,India interest rate cut back in play after tariffs,The Economic Times,-0.20579305291175842
+2025-08-05 07:00:00+00:00,"Instant View: India central bank holds rates as expected, flags US tariff risks",Reuters,-0.016456238925457
+2025-12-05 08:00:00+00:00,"Instant View: India central bank cuts key rate, boosts liquidity",Reuters,0.3065741956233978
+2025-09-11 07:00:00+00:00,India’s GDP faces large tariff hit,ING THINK economic and financial analysis | ING THINK,-0.8631886020302773
+2025-11-24 08:00:00+00:00,"RBI chief says room for more interest rate cuts in India, timing up to panel",The Economic Times,0.7607794068753719
+2025-12-03 08:00:00+00:00,"RBI's MPC begins deliberations, to take call on key interest rate on Friday",ETLegalWorld.com,-0.015722647309303284
+2025-11-12 08:00:00+00:00,"India's inflation tanks to record low, boosting December rate-cut hopes",Reuters,0.7663127928972244
+2025-07-30 07:00:00+00:00,India Interest Rate Cut Hopes Dim as Trump Talks High Tariffs,Bloomberg.com,-0.2433890700340271
+2025-08-27 07:00:00+00:00,"Trump’s India tariffs take effect: Which sector will be hit, what’s exempt?",Al Jazeera,-0.06586433947086334
+2025-11-24 08:00:00+00:00,"India's fiscal, monetary measures to boost investment and growth, RBI report says",Reuters,0.8445244431495667
+2025-12-06 08:00:00+00:00,RBI Rate Cut Explained: Why India Is in a Rare Goldilocks Phase,Vajiram & Ravi,-0.54811717197299
+2025-11-28 08:00:00+00:00,India economy grows at faster-than-expected 8.2% in September quarter even as tariffs bite,CNBC,0.92833954654634
+2025-08-27 07:00:00+00:00,US Tariff on India: Navigating 50% Tariff Rate and Trade Rules,India Briefing,0.04408133216202259
+2025-12-05 08:00:00+00:00,RBI goes back to cutting interest rates,FocusEconomics,-0.18418356776237488
+2025-11-30 08:00:00+00:00,"India's stellar growth, low inflation raise questions over rate cuts",Reuters,0.23161695897579193
+2025-12-05 08:00:00+00:00,India Central Bank Delivers Rate Cut to Boost Economy,The Wall Street Journal,0.5082247853279114
+2025-08-20 07:00:00+00:00,Reserve Bank of India Says It Paused to Assess Tariff Impact on Economy,Bloomberg.com,0.006493996828794479
+2025-12-05 08:00:00+00:00,India: RBI (Dec 2025) - No free lunch. USD/INR to rise modestly from here,MUFG Research,0.9272893201559782
+2025-09-17 07:00:00+00:00,Indian economic growth outlook,S&P Global,0.2342798449099064
+2025-10-13 07:00:00+00:00,"India Inflation Below RBI Target Again, Boosts Rate Cut Bets",Bloomberg.com,0.6579980850219727
+2025-08-27 07:00:00+00:00,Where India stands in the group of five largest economies,EY,0.1684788428246975
+2025-08-08 07:00:00+00:00,​Time for action: On the RBI pausing rate cuts,The Hindu,0.053219862282276154
+2025-08-07 07:00:00+00:00,US-India relations at their ‘worst’ as Trump slaps 50 percent tariff,Al Jazeera,-0.8668805807828903
+2025-08-12 07:00:00+00:00,"CONSUMER PRICE INDEX NUMBERS ON BASE 2012=100 FOR RURAL, URBAN AND COMBINED FOR THE MONTH OF JULY, 2025",PIB,-0.022128479555249214
+2025-07-04 07:00:00+00:00,"India central bank's operations to keep overnight rates within policy corridor, analysts say",The Economic Times,0.1862064190208912
+2025-09-30 07:00:00+00:00,VIEW India central bank keeps repo rate steady as widely expected,Reuters,0.0571548230946064
+2025-12-05 08:00:00+00:00,"Rare goldilocks period: RBI Governor points to India’s high economic growth, low inflation phase",ddnews.gov.in,0.6965711135417223
+2025-12-12 08:00:00+00:00,"India's inflation rises from record low, but economists see scope for another rate cut",Reuters,0.8514129370450974
+2025-09-12 07:00:00+00:00,India’s Inflation Quickens for First Time in 10 Months,Bloomberg.com,0.8799983356148005
+2025-12-05 08:00:00+00:00,RBI MPC meeting: Repo rate cut by 25 basis points to 5.25%,The Hindu,0.4841167777776718
+2025-12-11 08:00:00+00:00,Is India’s 8.2% growth rate sustainable?,The Hindu,0.26933143101632595
+2025-11-28 08:00:00+00:00,"India posts fastest growth in six quarters, cushions against trade strains",Reuters,0.9022240284830332
+2025-12-12 08:00:00+00:00,What's behind India's low inflation rate?,India Today,-0.29917915910482407
+2025-11-12 08:00:00+00:00,"CONSUMER PRICE INDEX NUMBERS ON BASE 2012=100 FOR RURAL, URBAN AND COMBINED FOR THE MONTH OF OCTOBER, 2025",PIB,-0.020812638103961945
+2025-08-04 07:00:00+00:00,Will RBI cut rates? Most economists expect pause,The Times of India,-0.1860296130180359
+2025-10-13 07:00:00+00:00,"India's retail inflation slows to eight-year low in September, leaving room for rate cut",Reuters,-0.9465791042894125
+2025-12-12 08:00:00+00:00,"CONSUMER PRICE INDEX NUMBERS ON BASE 2012=100 FOR RURAL, URBAN AND COMBINED FOR THE MONTH OF NOVEMBER, 2025",PIB,-0.021441001445055008
+2025-12-03 08:00:00+00:00,RBI monetary policy: Opinion split on lowering rates,Forbes India,-0.24911660701036453
+2025-10-26 07:00:00+00:00,India Is Withstanding Tariffs To Remain The World’s Fastest-Growing Major Economy,Forbes,0.9233833663165569
+2025-11-28 08:00:00+00:00,QUARTERLY ESTIMATES OF GROSS DOMESTIC PRODUCT FOR THE SECOND QUARTER (JULY-SEPTEMBER) OF 2025-26,PIB,-0.10135026276111603
+2025-08-07 07:00:00+00:00,What RBI’s decision to not cut rates says about India and Trump tariffs,The Indian Express,-0.054540716111660004
+2025-09-16 07:00:00+00:00,What Happens When Repo Rate Decreases? Impact on FDs,Airtel,-0.5813903752714396
+2025-08-05 07:00:00+00:00,RBI likely to keep interest rates unchanged on August 6,Forbes India,0.08419205993413925
+2025-12-19 08:00:00+00:00,India cenbank minutes flag scope for more easing as growth seen slowing next year,Reuters,0.595843955874443
+2025-12-03 08:00:00+00:00,RBI’s MPC starts three-day meet; key rate decision on Friday,The Economic Times,-0.032267529517412186
+2025-10-13 10:33:00+00:00,"CONSUMER PRICE INDEX NUMBERS ON BASE 2012=100 FOR RURAL, URBAN AND COMBINED FOR THE MONTH OF SEPTEMBER, 2025",PIB,-0.019009916111826897
+2025-10-04 07:00:00+00:00,Building the Workforce: India Adds~17 Crore Jobs in 6 years,PIB,0.8596896789968014
+2025-12-05 08:00:00+00:00,Why India's Sweet Spot Demanded A Bolder Rate Cut From RBI,Swarajyamag,0.13174043595790863
+2025-09-22 07:00:00+00:00,Another 25 bps rate cut best possible option for RBI: SBI study,The Economic Times,0.10126564465463161
+2025-09-23 07:00:00+00:00,"RBI economists back pause on rates as inflation cools, growth stays strong",The Economic Times,0.24796241521835327
+2025-12-01 08:00:00+00:00,"RBI MPC 2025 ET Poll: Rate cut likely amid low inflation, high growth; tough call for Malhotra & co.",The Economic Times,0.6045389175415039
+2025-08-29 07:00:00+00:00,QUARTERLY ESTIMATES OF GROSS DOMESTIC PRODUCT FOR THE FIRST QUARTER (APRIL-JUNE) OF 2025-26,PIB,-0.09851868264377117
+2025-12-23 08:00:00+00:00,RBI Governor expects ‘long period of low policy rates’ for India,The Economic Times,-0.25067785382270813
+2025-08-04 07:00:00+00:00,RBI MPC begins today: Will US tariffs trigger a rate cut?,India Today,-0.12517285346984863
+2025-12-08 08:00:00+00:00,RBI MPC meet: What economic signals prompted the 25 basis points rate cut?,The Times of India,-0.0965423583984375
+2025-07-04 07:00:00+00:00,"India liquidity surplus may not push growth in bank credit up, J.P. Morgan economists say",Reuters,0.7550186365842819
+2025-10-14 07:00:00+00:00,India’s GDP to Grow Faster Than Expected Despite US Tariffs: IMF,News On AIR,0.8072621114552021
+2025-12-03 08:00:00+00:00,Will RBI cut repo rate again? All eyes on December policy meeting; here's what experts say,The Times of India,-0.05366913974285126
+2025-07-15 07:00:00+00:00,"RBI Governor on interest rates, Tesla’s India launch and Army’s pension portal problem -- Editor’s Picks from Moneycontrol",LinkedIn,0.0021445900201797485
+2025-12-12 08:00:00+00:00,India fixed-income market defies dovish central bank as rates rise,Reuters,-0.6493363752961159
+2025-10-07 07:00:00+00:00,"RBI may deliver one more rate cut in December, says report",The Economic Times,-0.4677077606320381
+2025-09-03 07:00:00+00:00,India cuts consumption taxes to boost demand after Trump’s tariff blow,Al Jazeera,-0.557440459728241
+2025-12-19 08:00:00+00:00,Japan hikes interest rates to 30-year-high,The Times of India,-0.16737204790115356
+2025-11-18 08:00:00+00:00,Inflation at record low! Will your loan EMIs come down further? Explained,The Times of India,-0.9478535559028387
+2025-09-16 07:00:00+00:00,"RBI may cut rates by 25 bps each in October, December MPC: Morgan Stanley",The Economic Times,-0.39603521302342415
+2025-12-15 08:00:00+00:00,India bets on interest rate derivatives,LinkedIn,0.04505867883563042
+2025-11-24 08:00:00+00:00,RBI faces delicate balancing act as markets bet on a December rate cut,The Economic Times,-0.7307621762156487
+2025-08-04 07:00:00+00:00,IndiaPulse: India-US trade talks and tariffs – Delayed and denied?,MUFG Research,-0.7227506097406149
+2025-12-05 08:00:00+00:00,"RBI rate cut helps India's Sensex, Nifty pare weekly losses after record highs",Reuters,-0.03725755214691162

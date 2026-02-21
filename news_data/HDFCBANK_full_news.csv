@@ -1,0 +1,630 @@
+date,headline,source,sentiment
+2020-01-24 08:00:00+00:00,HDFC Bank Stock Analysis | Best Banking Stock in India,Invest Yadnya,0.10336651839315891
+2020-06-07 07:00:00+00:00,"What to buy? HDFC Bank, Aegis among top 3 stocks that could give 10-19% returns: Rajesh Palviya",Moneycontrol,0.1296528074890375
+2020-05-29 07:00:00+00:00,HDFC Bank Limited,The Times of India,0.0059203412383794785
+2020-04-18 07:00:00+00:00,India's sovereign rating restricting upgrade on HDFC Bank's ratings: S&P,The Economic Times,0.15624843537807465
+2020-04-12 07:00:00+00:00,China's central bank raises HDFC stake to over 1%,Mint,0.8307610685005784
+2020-04-19 07:00:00+00:00,HDFC Bank’s Margins to Lure Investors as Indian Rivals Struggle,Bloomberg.com,0.851742735132575
+2020-01-07 08:00:00+00:00,"HDFC Bank share price rises over 2% on strong growth in deposits, advances",Business Today,0.9345847629010677
+2020-05-14 07:00:00+00:00,"20 top firms including RIL, TCS, HDFC Bank contribute 70% profits in India, says report",CNBC TV18,0.8509834846481681
+2020-02-26 08:00:00+00:00,"HDFC Bank Uses Advanced Analytics For 10 Second Loan Approvals: Smita Bhagat, Country Head",Analytics India Magazine,0.11828854400664568
+2020-03-05 08:00:00+00:00,"HDFC Bank share price rises as Citi maintains buy, target at Rs 1,600",Moneycontrol,0.5828006714582443
+2020-04-13 07:00:00+00:00,China's central bank buys 1% stake in HDFC,The Economic Times,0.08257556241005659
+2020-03-05 08:00:00+00:00,Who Will Replace Aditya Puri at HDFC Bank?,Invest Yadnya,-0.03533295914530754
+2020-03-19 07:00:00+00:00,Biggest Indian bank ramps up corporate loans as rivals retreat,The Times of India,0.8768329368904233
+2020-06-15 07:00:00+00:00,HDFC Bank boss Aditya Puri's record as India's longest-serving bank CEO likely to be unbroken,Moneycontrol,0.11500950157642365
+2020-06-03 07:00:00+00:00,"Bajaj Auto ties up with HDFC Bank, to offer financial schemes",The Times of India,0.6688864333555102
+2020-06-14 07:00:00+00:00,"Seven of top-10 firms lose Rs 78,127 crore in m-cap; HDFC Bank takes biggest hit",Moneycontrol,-0.9532243302091956
+2020-03-04 08:00:00+00:00,The unenviable job of Aditya Puri's successor at HDFC Bank,Moneycontrol,-0.4351810924708843
+2020-06-25 07:00:00+00:00,Annual pay in FY20: HDFC Bank MD Aditya Puri’s Rs 18.9 crore vs SBI Chairman Rajnish Kumar’s Rs 31...,Moneycontrol,0.7027445062994957
+2020-02-20 08:00:00+00:00,HDFC Bank’s SME Book Size Doubles In Less Than 3 Years,NDTV Profit,0.9010289888828993
+2020-04-16 07:00:00+00:00,HDFC Bank launches Safety Grid campaign for social distancing,BusinessLine,0.10152489133179188
+2020-03-25 07:00:00+00:00,"Share Market LIVE: Sensex ends 1,861 points higher, Nifty at 8,297; RIL, HDFC Bank, Kotak Bank top performers",Business Today,0.8867882788181305
+2020-03-12 07:00:00+00:00,"Reliance, TCS, HDFC Bank lose Rs 1.77 lakh crore as coronavirus jitters hit Indian market",Business Today,-0.9577027801424265
+2020-04-10 07:00:00+00:00,"After SBI and HDFC Bank, Bank of Baroda also cuts MCLR across tenors by 15 bps",The Financial Express,-0.8689780812710524
+2020-04-18 07:00:00+00:00,HDFC Bank launches mobile ATMs in Pune,The Times of India,0.19871608167886734
+2020-06-11 07:00:00+00:00,"HDFC Bank, BoB, Union Bank of India cut MCLR",The Financial Express,-0.6750476583838463
+2020-05-27 07:00:00+00:00,5 Point Comparison of Major Private Banks in India,Invest Yadnya,0.10681799426674843
+2020-04-08 07:00:00+00:00,"SBI, HDFC Bank, or other bank’s customer? Don’t do THIS if you want to defer EMIs",The Financial Express,-0.07846083678305149
+2020-03-31 07:00:00+00:00,"Equities tank erasing last week’s gains; banking, finance stocks lead fall",The Financial Express,-0.26773545145988464
+2020-04-03 07:00:00+00:00,HUL pips HDFC Bank to 3rd spot in market capitalisation; RIL remains on top,Business Standard,0.9264125525951385
+2020-06-30 07:00:00+00:00,HDFC Bank's Aditya Puri to wind up with shares worth Rs 800 cr,Business Today,0.048831368796527386
+2020-01-09 08:00:00+00:00,"In a first, HDFC Bank launches myApps to boost digital payments",Mint,0.49608174432069063
+2020-06-26 07:00:00+00:00,"HDFC Bank, SBI, ICICI to PNB: Top 10 banks with lowest home loan interest rates this week compared",The Financial Express,-0.8389802742749453
+2020-05-11 07:00:00+00:00,HDB Financial Services lays off employees after performance review: Official,The Times of India,-0.9383925357833505
+2020-06-23 07:00:00+00:00,Fixed Deposit: Worried about falling interest rates? You can still get up to 9% return on FDs – Check details,The Financial Express,0.2521216180175543
+2020-01-20 08:00:00+00:00,"Share Market Update: Sensex ends 416 points lower, Nifty at 12,230; Kotak Mahindra Bank falls 4% post Q3 results",Business Today,-0.9659296348690987
+2020-05-28 07:00:00+00:00,Govt to discontinue 7.75% taxable savings bonds scheme from May 28,Business Standard,-0.2023331392556429
+2020-06-04 07:00:00+00:00,HDFC Bank Loan Moratorium 2.0 rule: Will you get refund if EMI already deducted?,The Financial Express,-0.030425705015659332
+2020-03-17 07:00:00+00:00,"HDFC Bank vs SBI vs Axis Bank vs ICICI Bank vs PNB: Average Monthly Balance, charges compared",The Financial Express,-0.020428478717803955
+2020-06-29 07:00:00+00:00,"HDFC Bank may sell perpetual bonds up to Rs 50,000 crore",The Economic Times,0.024781852960586548
+2020-01-24 08:00:00+00:00,HDFC Bank vs SBI vs Axis Bank Recurring Deposit (RD) compared: Grow Rs 1000/month to Rs 1.6 Lakh!,The Financial Express,0.6006093844771385
+2020-06-04 07:00:00+00:00,"HDFC offloads 26 million shares worth Rs 1,274 crore of HDFC Life",Business Standard,-0.022660300135612488
+2020-05-06 07:00:00+00:00,"BofA turns bearish on Indian banks; SBI, ICICI Bank, IndusInd downgraded",Business Standard,-0.9424931816756725
+2020-02-17 08:00:00+00:00,Bajaj Finance replaces SBI as one of top-10 most-valued companies on BSE,Business Today,0.46361997723579407
+2020-02-18 08:00:00+00:00,"Travel Credit Card SBI Vs American Express Vs HDFC Bank: Benefits, charges, features – All you need to know",The Financial Express,0.025075256824493408
+2020-07-27 07:00:00+00:00,Aditya Puri sells HDFC Bank shares worth Rs 843 crore,The Times of India,0.029919421300292015
+2020-07-27 07:00:00+00:00,"Aditya Puri sells HDFC Bank shares worth ₹842 cr, holding down to 0.01%",The Hindu,-0.9118192009627819
+2020-09-03 13:31:00+00:00,India’s once squeaky-clean HDFC Bank is now facing “strategic failure”,qz.com,-0.9342220621183515
+2020-07-06 07:00:00+00:00,HDFC Bank shares jump 3% on robust loan growth; CLSA retains overweight call,Moneycontrol,0.9101153984665871
+2020-07-27 07:00:00+00:00,HDFC Bank chief Aditya Puri sells his shares,Telegraph India,-0.041010553017258644
+2020-12-03 08:00:00+00:00,HDFC Bank shares fall 1% after RBI orders it to temporarily stop launch of new digital initiatives,The Indian Express,-0.9500739998184144
+2020-12-03 08:00:00+00:00,HDFC Bank shares fall over 2% after RBI asks firm to halt launch of new digital initiatives,India TV News,-0.9322349866852164
+2020-10-27 07:00:00+00:00,"From listing to Rs 7 lakh crore m-cap, 5 HDFC Bank milestones on Aditya Puri's watch",Moneycontrol,0.7001299038529396
+2020-12-11 08:00:00+00:00,IT back-up fix could take up to 3 months: HDFC Bank,The Times of India,0.04467034712433815
+2020-08-05 07:00:00+00:00,"Uncertainty at HDFC Bank ends, Sashidhar Jagdishan a hard task master & investors’ choice:...",Moneycontrol,0.1346004419028759
+2020-08-13 07:00:00+00:00,"Lot has been done, but best of HDFC Bank yet to come: Aditya Puri",The Times of India,0.08076629228889942
+2020-08-08 07:00:00+00:00,"Where Aditya Puri should invest Rs 843 crore raised from HDFC Bank share sale, according to top money...",Moneycontrol,0.13079610280692577
+2020-12-02 08:00:00+00:00,"D-Street Buzz: Bank Nifty underperforms dragged by Kotak Bank, HDFC Bank; PNB, Bandhan Bank shed 2%",Moneycontrol,-0.9099928587675095
+2020-11-02 08:00:00+00:00,Carlyle appoints former HDFC Bank CEO Aditya Puri as senior adviser,The Times of India,0.007539242506027222
+2020-10-27 07:00:00+00:00,"Jagdishan takes over from Puri: A favourite pick, mutual funds bet Rs 78,597.2 crore on HDFC Bank",Moneycontrol,0.10878302250057459
+2020-12-04 08:00:00+00:00,RBI puts curbs on HDFC’s business after e-banking outages,The Times of India,-0.7614248935133219
+2020-12-08 08:00:00+00:00,HDFC Bank invests in fintech startup smallcase,Moneycontrol,0.12569958250969648
+2020-09-17 07:00:00+00:00,HDFC Bank launches video KYC,The Times of India,0.028593512251973152
+2020-07-27 07:00:00+00:00,HDFC Bank share price falls 2% after Aditya Puri sells 74.2 lakh shares,Moneycontrol,-0.9317805375903845
+2020-07-06 07:00:00+00:00,"Stocks in news: RIL, Coal India, HDFC Bank, National Fertilizers, Edelweiss, Sobha",Business Today,0.030670735985040665
+2020-07-02 07:00:00+00:00,"HDFC Bank to offer contactless, instant auto loans in 1,000 cities",The Times of India,0.08551024738699198
+2020-08-04 07:00:00+00:00,Aditya Puri on HDFC Bank stake sale: ‘Nothing to do with bank; need money for retirement’,Moneycontrol,-0.08489629998803139
+2020-08-04 07:00:00+00:00,Why Did Aditya Puri Sell Shares of HDFC Bank Worth Over Rs840 crore?,Moneylife,-0.09926782175898552
+2020-12-03 08:00:00+00:00,"RBI asks HDFC Bank to stop sourcing new credit cards, halt digital launches amid technical glitches",Scroll.in,-0.9293834678828716
+2020-07-06 07:00:00+00:00,"Three private banks show Q1 is less of a washout, HDFC Bank shines",Mint,0.660764217376709
+2020-12-11 08:00:00+00:00,RBI fines HDFC Bank Rs 10 lakh for bond shortfall,The Times of India,-0.9355762209743261
+2020-07-14 07:00:00+00:00,HDFC Bank probes auto loan practices,The Times of India,-0.7755816765129566
+2020-12-11 08:00:00+00:00,HDFC Bank's big digital hiccup,Fortune India,-0.5261139497160912
+2020-10-21 07:00:00+00:00,Aditya Puri says Deepak Parekh gave him a free hand to build HDFC Bank,Moneycontrol,0.20803147368133068
+2020-11-05 08:00:00+00:00,HDFC Bank vs Kotak Mahindra Bank vs ICICI Bank vs Axis Bank,Invest Yadnya,0.06102406233549118
+2020-11-05 08:00:00+00:00,HDFC Bank hires Crisil's Lakshminarayanan as CTO,The Times of India,0.05093964282423258
+2020-07-27 07:00:00+00:00,HDFC Bank declines over 3 per cent as Aditya Puri sells shares,India TV News,-0.9527905816212296
+2020-08-14 07:00:00+00:00,HDFC Bank launches Kisan Gold Card for armed forces,The Times of India,0.5901292581111193
+2020-08-18 07:00:00+00:00,"IndiaNivesh, Edelweiss & HDFC Bank: The Curious Case of Rs100 Crore Fixed Deposit Receipts",Moneylife,0.06298237293958664
+2020-10-27 07:00:00+00:00,"SBI, HDFC Bank and Bank of Baroda working on bank-led NUE: Report",MediaNama,0.04039710573852062
+2020-12-25 08:00:00+00:00,Senior citizens special FD scheme latest rates: SBI vs BoB vs ICICI vs HDFC Bank,Mint,0.03928514011204243
+2020-10-17 07:00:00+00:00,"Meet Sashidhar Jagdishan, new CEO of HDFC Bank who will take charge this month",Mint,0.04551539197564125
+2020-08-04 07:00:00+00:00,RBI approves Sashidhar Jagdishan as next CEO of HDFC Bank,Mint,0.042982458136975765
+2020-10-17 07:00:00+00:00,HDFC Bank reduces fixed deposit rates: Things to know,The Times of India,0.02847878448665142
+2020-12-04 08:00:00+00:00,"RBI bars HDFC Bank from issuing new credit cards, digital launches following outages",The Times of India,-0.8193286033347249
+2020-07-27 07:00:00+00:00,Aditya Puri sells 7.42 million shares in HDFC Bank for Rs 843 cr,Business Standard,0.010668288916349411
+2020-08-16 07:00:00+00:00,There’s no clarity on split shares’ taxation,Mint,-0.054872164502739906
+2020-09-11 07:00:00+00:00,"With a $200 billion m-cap, RIL now 44th biggest firm globally; more valuable than TCS & HDFC Bank...",Moneycontrol,0.8575574001297355
+2020-07-06 07:00:00+00:00,"HDFC Bank lends Rs 10,800 crore in June quarter; advances grow 21%",Business Standard,0.9309107344597578
+2020-12-05 08:00:00+00:00,You cannot put lakhs in difficulty for hours: RBI governor on HDFC Bank,Business Standard,-0.014758648350834846
+2020-07-07 07:00:00+00:00,Why is SBI's market cap so low compared to HDFC Bank?,Business Today,-0.1608540117740631
+2020-07-26 07:00:00+00:00,"HDFC Bank MD Aditya Puri sold 74.2 lakh shares of bank, to retire in October",IBTimes India,-0.021555794402956963
+2021-03-22 07:00:00+00:00,HDFC Bank Stock Analysis: The Leader of India’s Banking Sector,freefincal,0.1791816484183073
+2021-05-26 07:00:00+00:00,"India's market-cap at $3 trillion: RIL, TCS, HDFC Bank among top 10 stocks in Nifty",Moneycontrol,0.22352485731244087
+2021-01-17 08:00:00+00:00,HDFC Bank Shares Jump After Profit Tops Estimates on Loan Growth,Bloomberg.com,0.5965844392776489
+2021-03-31 07:00:00+00:00,Digital outage hits HDFC Bank customers again,The Times of India,-0.947499050758779
+2021-05-11 07:00:00+00:00,Inside HDFC Bank’s digital stumble | Mint,Mint,0.014901697635650635
+2021-04-23 07:00:00+00:00,HDFC Bank Appoints Atanu Chakraborty As Part-Time Chairman,Equitypandit,-0.009263359010219574
+2021-01-23 08:00:00+00:00,HDFC Bank penalised for violations,The New Indian Express,-0.8313509523868561
+2021-02-10 08:00:00+00:00,"Nifty's journey from 1,107 to 15,000: Only 13 stocks, including HDFC Bank, RIL, there since beginning",CNBC TV18,0.030682262033224106
+2021-01-22 08:00:00+00:00,"HDFC Bank submits plan of action to RBI, hopes to fix outage issue in 3 months",The Hindu,0.10156003199517727
+2021-01-22 08:00:00+00:00,SEBI imposes Rs 1 cr penalty on HDFC Bank for wrongly invoking pledge of securities,The News Minute,-0.8113944511860609
+2021-01-08 08:00:00+00:00,In case you missed it | HDFC-HDFC Bank merger: A financial giant in the making?,Moneycontrol,0.019235461950302124
+2021-01-19 08:00:00+00:00,HDFC Bank signals IT issues may not be fixed by March,The Times of India,-0.44637322425842285
+2021-03-31 07:00:00+00:00,HDFC Bank investor wealth falls nearly $10 billion in six weeks,Mint,-0.9578364929184318
+2021-04-25 07:00:00+00:00,Race For Citi India assets: HDFC Bank may join long list of suitors,Moneycontrol,0.05261995643377304
+2021-02-10 08:00:00+00:00,HDFC Bank beats SBI in Covid scheme loans,The Times of India,0.8611181043088436
+2021-01-19 08:00:00+00:00,"SBI, ICICI Bank, HDFC Bank remain systemically important banks: RBI",The Times of India,0.13394125178456306
+2021-06-08 07:00:00+00:00,"HDFC Bank Inks MoU with KIADB, to Offer Banking Solutions to Investor",The Times of India,0.8014733660966158
+2021-06-28 07:00:00+00:00,"Supreme Court refuses to pass order on SBI, HDFC Bank's plea over RTI disclosure of sensitive data",The Times of India,-0.8931426163762808
+2021-06-18 07:00:00+00:00,HDFC Bank to move to new digital bank IT platform,The Times of India,0.08778473921120167
+2021-06-30 07:00:00+00:00,RBI ban on new credit cards sale hit market share; will come back with a bang once embargo lifted: HDFC B,The Times of India,0.5345500111579895
+2021-06-15 07:00:00+00:00,HDFC Bank app faces issues; lender says 'regret the inconvenience',The Times of India,-0.9107689429074526
+2021-04-28 07:00:00+00:00,"HDFC Bank, Axis Bank and HDFC Life top picks for next 12-18 months: Avneesh Sukhija",The Economic Times,0.04103377088904381
+2021-06-20 07:00:00+00:00,"HDFC Bank to buy stake worth over Rs 1,906 crore in group's general insurer from parent HDFC",Moneycontrol,0.14865442365407944
+2021-05-31 07:00:00+00:00,Rally lures HDFC Bank to do 'whatever it takes' to make more equity deals,Business Standard,0.8367427326738834
+2021-06-15 07:00:00+00:00,"HDFC Bank is too big to fail . Its app, fragile",The Economic Times,-0.005280360579490662
+2021-03-30 07:00:00+00:00,HDFC Bank admits net banking glitches; customers face problem in accessing services,The Times of India,-0.9625065224245191
+2021-04-06 07:00:00+00:00,HDFC Bank's advances grow 14% YoY in Q4; sequentially up 4.6%,Business Standard,0.9291411973536015
+2021-01-08 08:00:00+00:00,Former HDFC Bank MD Aditya Puri joins Strides Group,Moneycontrol,0.004527941346168518
+2021-05-29 07:00:00+00:00,HDFC Bank fined Rs 10 crore by RBI in car loan case,The Times of India,-0.9034331887960434
+2021-05-26 07:00:00+00:00,HDFC Bank deploys Mobile ATM in Bengaluru amid Covid-19 cases,Mint,0.3921667253598571
+2021-06-17 07:00:00+00:00,"HDFC Bank says no clarity yet on lifting of RBI embargo, in touch with central bank",Moneycontrol,0.036597274243831635
+2021-06-13 07:00:00+00:00,"List of World's Best Banks In India 2021: DBS Tops, Followed By CBS, ICICI Bank, HDFC Bank",Goodreturns,0.07076556421816349
+2021-03-05 08:00:00+00:00,HDFC Bank exploring sale of controlling stake in Syska Led Lights,Moneycontrol,0.04253630340099335
+2021-06-22 07:00:00+00:00,HDFC Bank to hire 500 workers to curb online outages,Mint,0.6894802898168564
+2021-03-04 08:00:00+00:00,HDFC Bank (Case Study) - Know the Fundamentals in 5 minutes!,Trade Brains,0.039468394592404366
+2021-06-25 07:00:00+00:00,"We are determined to strengthen process controls, says HDFC Bank chief Jagdishan",Mint,0.9169659987092018
+2021-04-06 07:00:00+00:00,SBI vs HDFC Bank vs ICICI Bank vs Axis Bank: Latest FD rates compared,Mint,0.0015479028224945068
+2021-04-27 07:00:00+00:00,HDFC Bank converts training facilities in 3 cities into isolation centres for COVID employees,Mint,0.12114589288830757
+2021-05-17 07:00:00+00:00,"Dalal Street surges higher on Monday helped by bank stocks; will Nifty regain 15,000 this week?",The Financial Express,0.8758330009877682
+2021-06-01 07:00:00+00:00,"Amid Covid, HDFC Bank deploys mobile ATMs across 50 cities in India",Business Standard,0.45983211789280176
+2021-06-30 07:00:00+00:00,Sashidhar Jagdishan to be the new CEO of HDFC Bank,Indian PSU,0.009767314419150352
+2021-01-19 08:00:00+00:00,"Ex-HDFC CEO Aditya Puri backs corporates in banking, says no harm in trying",Business Standard,0.12031746469438076
+2021-03-01 08:00:00+00:00,"HDFC Sec says tech glitch resolved, probe on to find root cause; ops normal",Business Standard,0.07192031294107437
+2021-03-09 08:00:00+00:00,"Stock Market Highlights: Sensex gains 581 pts to end above 51k, Nifty at 15,098; bank, IT stocks lead rally",Business Today,0.855799276381731
+2021-05-05 07:00:00+00:00,"HDB Financial Services IPO from HDFC Bank: Review, Listing Date, Grey Market Price & Allotment",investor academy,-0.023144613951444626
+2021-07-18 07:00:00+00:00,India's HDFC Bank slides as profit misses on rising provisions,Reuters,-0.9518819749355316
+2021-10-19 07:00:00+00:00,ICICI Bank and HDFC Bank are the top picks of fund managers,Morningstar,0.08748934883624315
+2021-07-02 07:00:00+00:00,How HDFC Bank's litany of crises has spelt opportunity for ICICI Bank,Forbes India,0.15385130792856216
+2021-08-23 07:00:00+00:00,"HDFC Bank, Paytm team up for digital payments",The Times of India,0.12199881579726934
+2021-07-06 07:00:00+00:00,HDFC Bank Gains After Reporting 14% Rise in Loan Book,Equitymaster,0.9161812905222178
+2021-08-18 07:00:00+00:00,HDFC Bank share price: Motilal Oswal sees strong upside as RBI eases restrictions,Mint,0.9158295691013336
+2021-07-19 07:00:00+00:00,HDFC Bank Results: The Worst is Finally Over?,Investing.com India,-0.7112738937139511
+2021-08-23 07:00:00+00:00,HDFC Bank Plans to Issue 3 Lakh Credit Cards in One Month,Equitypandit,0.10764233209192753
+2021-09-30 07:00:00+00:00,HDFC Bank raises Rs 739 crore via masala bond,Moneycontrol,0.35397006291896105
+2021-12-21 08:00:00+00:00,HDFC Bank clubs India’s largest Sofr-linked loan,GlobalCapital,0.3747040815651417
+2021-07-27 07:00:00+00:00,"ICICI, Axis and HDFC Bank pick up stake in blockchain start-up",BusinessLine,0.14445545617491007
+2021-07-28 07:00:00+00:00,Mutual funds lapped up these stocks,Morningstar,0.4131819121539593
+2021-08-18 07:00:00+00:00,"India's HDFC Bank sets ambitious target for card issuance, source says",Reuters,0.5486358115449548
+2021-08-18 07:00:00+00:00,HDFC Bank can issue credit cards,The Times of India,0.016025833785533905
+2021-08-01 07:00:00+00:00,HDFC Bank: An Example of Good Business Under Transitory COVID & Regulatory Disrupt,Investing.com India,0.7273357599042356
+2021-12-01 11:13:00+00:00,7 Stocks that Mutual Funds Can't get Enough of,Equitymaster,-0.1686372123658657
+2021-10-19 07:00:00+00:00,₹1 lakh to ₹1.7 crore: This multibagger stock gave 16950% return in 22 years,Mint,0.8667433448135853
+2021-08-19 07:00:00+00:00,"Thank you, RBI for embargo: HDFC Bank CEO Sashidhar Jagdishan",The Times of India,0.07593427039682865
+2021-07-19 07:00:00+00:00,The lessons from HDFC Bank's Q1 earnings letdown | Stock Market News,Mint,-0.511187668889761
+2021-08-18 07:00:00+00:00,HDFC Bank gets to sign up credit card users as RBI relents,Mint,0.8629997773095965
+2021-10-14 07:00:00+00:00,"Stock market highlights: Sensex closes above 61,300; Nifty ends above 18,300; HDFC Bank top gainer, HCL Tech d",CNBC TV18,0.8972539398819208
+2021-08-24 07:00:00+00:00,"HDFC Bank to issue 300,000 credit cards a month to regain lost market share",Business Standard,0.8708890601992607
+2021-07-27 07:00:00+00:00,"After a lukewarm H1CY21, private banks on cusp of re-rating, say analysts; ICICI, HDFC Bank, Kotak among...",Moneycontrol,0.683625778183341
+2021-08-19 07:00:00+00:00,Lifting of credit card ban may spark up to 32% rally in HDFC Bank: Analysts,Business Standard,0.8552574533969164
+2021-08-23 07:00:00+00:00,"HDFC Bank to regain lost card market share in next three-four quarters, says top official",Moneycontrol,0.9004219323396683
+2021-09-29 07:00:00+00:00,"HDFC Bank didn't flag forgery attempts but charged fees, says whistleblower | Mint",Mint,-0.09656702727079391
+2021-11-16 08:00:00+00:00,Setback to HDFC Bank: Delhi High Court refuses to issue Form ‘F’ on Inter-State Stock Transfers due to default in paying Central Sales Tax [Read Order],Taxscan,-0.952036420814693
+2021-07-02 07:00:00+00:00,HDFC Bank sets sail on a digital voyage,YourStory.com,0.07490779180079699
+2021-12-27 08:00:00+00:00,HDFC Bank ties up with IPPB to offer banking services in rural areas,Mint,0.6708366624079645
+2021-07-15 07:00:00+00:00,"HDFC Bank Q1 Net Profit seen up 17% YoY to Rs. 7,796 cr: Sharekhan",Moneycontrol,0.9325519874691963
+2021-07-19 07:00:00+00:00,"Stocks to watch: HDFC Bank, HCL Tech, Clean Science, GR Infra, Just Dial",Business Standard,0.0440087616443634
+2021-10-25 07:00:00+00:00,HDFC Bank Accelerate Time Attack 2021 Day 2 report,EVO India,-0.06267009302973747
+2021-08-25 07:00:00+00:00,Infosys Becomes Fourth Indian Company To Hit $100 Billion Market Capitalisation,Swarajyamag,0.7998390793800354
+2021-10-01 07:00:00+00:00,HDFC Bank's additional masala bonds get listed on NSE IFSC's platform,Business Standard,0.016345273703336716
+2021-12-13 13:34:00+00:00,5 Best Short Term Stocks To Buy In India in 2023,AskTraders.com,0.12663575634360313
+2021-12-02 08:00:00+00:00,"HDFC Bank quickest to list among 100 global firms, shows data",Business Standard,0.39736964367330074
+2021-07-25 07:00:00+00:00,CEO of one of India's biggest private banks forgoes salary in Covid year,Mint,-0.8294228035956621
+2021-07-14 07:00:00+00:00,"SBI, Axis, HDFC Bank top go-to lenders for Indian Inc during Covid: Report",Business Standard,0.12543095089495182
+2021-12-17 08:00:00+00:00,"HDFC Bank's MSME loan book in Tamil Nadu breaches Rs 20,000 crore",Business Standard,-0.9557835115119815
+2021-08-19 07:00:00+00:00,Will come back with a bang in credit cards: HDFC Bank CEO Jagdishan,Business Standard,0.23299682885408401
+2021-07-18 07:00:00+00:00,HDFC Bank is monitoring CV sector hit by diesel price hike,Mint,-0.8762461859732866
+2021-08-23 07:00:00+00:00,HDFC Bank Aims to Issue 5 lakh Credit Card a Month Soon. A Look at its Mega Comeback Plan,News18,0.07016378827393055
+2021-08-25 07:00:00+00:00,4 Indian Companies With Market Valuation Of $100 Billion,Goodreturns,0.03948420099914074
+2021-12-02 08:00:00+00:00,HDFC Bank hikes interest rate on fixed deposits. Check latest FD rates here,India Today,-0.0287514328956604
+2021-08-19 07:00:00+00:00,ICICI Bank gained more than 1.3 million credit cards since December,Business Standard,0.8085418189875782
+2021-08-21 07:00:00+00:00,SBI vs PNB vs ICICI Bank vs HDFC Bank: Cash withdrawal limit you should know,Mint,-0.018994368612766266
+2022-03-04 08:00:00+00:00,NSE IFSC and HDFC Bank launch investing opportunities in Global Stocks for Indian Retail Investors,Elets BFSI,0.625871678814292
+2022-04-20 07:00:00+00:00,The long and short of HDFC Bank stock’s prospects,Moneycontrol,0.00047732144594192505
+2022-04-04 07:00:00+00:00,HDFC Bank creates Indian lending behemoth in $40 billion deal,Reuters,-0.8148483261466026
+2022-04-20 07:00:00+00:00,"HDFC Bank share price soars: Check latest on BSE, NSE",India Today,0.005342736840248108
+2022-04-04 07:00:00+00:00,"HDFC To Merge With HDFC Bank, Stocks Up 10% | BOOM",BOOM Fact Check,0.9149732813239098
+2022-04-07 07:00:00+00:00,How HDFC-HDFC Bank Merger Impacts Mutual Funds?,ClearTax Chronicles,-0.09182818979024887
+2022-04-05 07:00:00+00:00,HDFC to merge with HDFC Bank in India's biggest-ever M&A,The Times of India,0.05386514402925968
+2022-04-04 07:00:00+00:00,"HDFC, HDFC Bank shares still 'attractively priced' after 15% rally post merger news: Analysts",Mint,0.6150091886520386
+2022-04-09 07:00:00+00:00,HDFC Bank vs Bajaj Finance: Which Stock is Better?,Equitymaster,0.043407756835222244
+2022-04-06 07:00:00+00:00,How the Parekhs helped build HDFC Bank into India's second-largest company,Forbes India,0.22070355527102947
+2022-04-04 07:00:00+00:00,India’s HDFC And HDFC Bank Will Merge To Create Financial Giant,Forbes,0.047992097213864326
+2022-04-14 07:00:00+00:00,"5 reasons for fall in HDFC Bank share price, after merger announcement",Moneycontrol,-0.9471642030403018
+2022-03-14 07:00:00+00:00,HDFC Bank share price jumps over 2% after RBI relief,India Today,0.5456306710839272
+2022-04-05 07:00:00+00:00,Explained: Why did HDFC merge with HDFC Bank and what this deal means for investors,The Times of India,0.02825814764946699
+2022-01-21 08:00:00+00:00,HDFC Bank vs Kotak Mahindra Bank: Which Stock is Better?,Equitymaster,0.04443462938070297
+2022-04-04 07:00:00+00:00,The science behind HDFC-HDFC Bank's mega merger,Forbes India,0.02333187498152256
+2022-04-04 07:00:00+00:00,"HDFC Bank, HDFC Ltd share prices soar after merger announcement | Check latest",India Today,-0.06584469601511955
+2022-04-19 07:00:00+00:00,Selloff binge knocks HDFC out of MCap list of top 10 companies in India,Moneycontrol,-0.9476231187582016
+2022-06-21 07:00:00+00:00,"HDFC Bank to add 1,500-2,000 branches every year for 5 years",The Times of India,0.550840056501329
+2022-01-05 08:00:00+00:00,"HDFC Bank deposits up 14%, loans 16% in 2021",The Times of India,0.9334067441523075
+2022-04-04 07:00:00+00:00,HDFC to Merge With HDFC Bank to Create Private Banking Behemoth in India,newsclick.in,-0.0012216046452522278
+2022-04-04 07:00:00+00:00,HDFC Bank and HDFC: Then and now - a timeline,Moneycontrol,0.014497211202979088
+2022-04-04 07:00:00+00:00,"Sensex soars 1335 pts, Nifty ends above 18,000; HDFC Bank, HDFC top gainers",Mint,0.8890203535556793
+2022-06-10 07:00:00+00:00,Chris Wood rejigs India equity exposure; replaces HDFC with HDFC Bank,Business Standard,-0.25125419721007347
+2022-04-18 07:00:00+00:00,What is behind HDFC Bank’s modest Q4 operating performance?,Moneycontrol,-0.8370640873908997
+2022-05-25 07:00:00+00:00,"SEBI, NSE Move SC against SAT Ruling in Favour of HDFC Bank in BRH Wealth Kreators Case : News Report",Moneylife,-0.0632147379219532
+2022-04-11 07:00:00+00:00,Explained in 10 charts: The mega HDFC-HDFC Bank merger,The Times of India,0.03754932153970003
+2022-04-04 07:00:00+00:00,HDFC Ltd and its subsidiaries to merger with HDFC Bank Ltd,PGurus,-0.07816605642437935
+2022-02-15 08:00:00+00:00,"HDFC Bank, ACC, Tata Steel: Over half of NSE 500 stocks slip below 200-DMA",Business Standard,-0.9428644990548491
+2022-03-16 07:00:00+00:00,Why HDFC Bank is struggling to regain market share in credit cards?,Mint,-0.7817193735390902
+2022-04-25 07:00:00+00:00,"How do ICICI Bank and HDFC Bank stack up, in five charts",Moneycontrol,0.029149310663342476
+2022-06-22 07:00:00+00:00,"HDFC Bank to open 1,500-2,000 branches every year till 2027",Fortune India,0.15652958489954472
+2022-04-07 07:00:00+00:00,"Buzzing Stocks | Uma Exports, 7NR Retail, Godrej Consumer Products, HDFC Bank and others in news",Moneycontrol,0.01786838099360466
+2022-04-21 07:00:00+00:00,ICICI Bank tops rival HDFC Bank in valuation multiple for first time,Moneycontrol,0.8970931842923164
+2022-04-03 07:00:00+00:00,"HDFC Bank loans grow by 21% y-o-y, deposits by 17%",Moneycontrol,0.9200345724821091
+2022-04-04 07:00:00+00:00,HDFC-HDFC Bank merger will quicken HDFC Bank’s growth further: Marcellus’ Saurabh Mukherjea,Moneycontrol,0.5381320314481854
+2022-04-04 07:00:00+00:00,Housing finance giant HDFC to merge with HDFC Bank,Fortune India,-0.10669560544192791
+2022-01-13 08:00:00+00:00,"HDFC Bank, ICICI Bank, Infosys and more...in a blockchain ETF's portfolio? That's possible",Moneycontrol,0.0058081261813640594
+2022-04-04 07:00:00+00:00,HDFC-HDFC Bank Merger - 'One for the ages': HDFC Bank-HDFC board mark mega merger with group photo,Moneycontrol,0.05265229754149914
+2022-03-25 07:00:00+00:00,HDFC Bank vs ICICI Bank – Who Rules the Indian Private Banking Sector?,Trade Brains,-0.001986626535654068
+2022-04-04 07:00:00+00:00,‘We had two sleepless nights’: HDFC’s Deepak Parekh on HDFC Bank merger,Moneycontrol,-0.039148639887571335
+2022-02-10 08:00:00+00:00,"Nifty above 17350 may aim for 17777, buy stocks on decline; Maruti, HDFC Bank, IOC top money-making bets",The Financial Express,-0.18035349994897842
+2022-04-19 07:00:00+00:00,HDFC And HDFC Bank Merger Decoded!,Trade Brains,-0.0011245086789131165
+2022-03-14 07:00:00+00:00,"Sensex soars 936 pts, Nifty tops 16,850; HDFC Bank rises 3%, Paytm dips 12%",Business Standard,0.45542044937610626
+2022-03-29 07:00:00+00:00,"Axis Bank, HDFC Bank to acquire up to 15% stake each in India Debt Resolution Co",Business Today,0.2558804303407669
+2022-04-04 07:00:00+00:00,HDFC to merge with HDFC bank,Mint,-0.04444277100265026
+2022-04-04 07:00:00+00:00,UPDATE 3-India’s HDFC Bank to merge with mortgage lender HDFC Ltd,Metrobank Wealth Insights,0.009607668966054916
+2022-04-04 07:00:00+00:00,India’s HDFC Bank adds mortgage lender in $60 billion deal,The Peninsula Qatar,0.18127518892288208
+2022-09-24 07:00:00+00:00,"HDFC Bank Outlook for the Week (Sept 26, 2022 – Sept 30, 2022)",Equitypandit,-0.03948301821947098
+2022-12-06 08:00:00+00:00,HDFC Bank share price: UBS Securities sees sustainable business growth against peers in FY24; can yield 18% return,Zee Business,0.936826285906136
+2022-08-02 07:00:00+00:00,HDFC Bank vs ICICI Bank: Which Bank Stock is Better?,Equitymaster,0.08104732818901539
+2022-12-14 08:00:00+00:00,"HDFC-HDFC Bank merger gets BSE, NSE approval; here’s how stocks reacted",Fortune India,0.045913723297417164
+2022-07-05 07:00:00+00:00,"RBI gives green signal to HDFC, HDFC Bank merger proposal",The Hindu,0.08394371997565031
+2022-07-05 07:00:00+00:00,HDFC Bank gets RBI approval for merger with HDFC,banking-gateway.com,0.6727436697110534
+2022-12-13 08:00:00+00:00,"How HDFC, HDFC Bank merger will shake up India's debt market",Mint,0.19530397839844227
+2022-07-25 07:00:00+00:00,HDFC Bank to be among global top 10 after merger,The Times of India,0.7749815247952938
+2022-09-14 07:00:00+00:00,HDFC Bank vs ICICI Bank: Which stock do analysts recommend?,Business Today,0.004731571301817894
+2022-12-13 08:00:00+00:00,"HDFC-HDFC Bank merger: BSE, NSE give in-principle approval",Moneycontrol,0.08804324362426996
+2022-09-17 07:00:00+00:00,"HDFC Bank Outlook for the Week (Sept 19, 2022 – Sept 23, 2022)",Equitypandit,-0.044456224888563156
+2022-07-05 07:00:00+00:00,"HDFC merger gets RBI nod, will up pvt banks’ market share",The Times of India,0.8822789723053575
+2022-07-16 07:00:00+00:00,"PFRDA gives nod to HDFC, HDFC Bank merger proposal",The Hindu,0.059664723463356495
+2022-09-08 07:00:00+00:00,NOT Reliance or TCS...This could be India's First Trillion Dollar Stock,Equitymaster,0.0802836837247014
+2022-07-16 07:00:00+00:00,HDFC Bank releases Q1FY23 results; here are top five takeaways,Moneycontrol,-0.01967398263514042
+2022-07-16 07:00:00+00:00,5 Takeaways from HDFC Bank's Q1 Results,Equitymaster,0.03123306855559349
+2022-08-25 07:00:00+00:00,HDFC Bank to acquire 9.94% stake in Go Digit Life Insurance,The Times of India,0.04808083921670914
+2022-10-15 07:00:00+00:00,"HDFC-HDFC Bank Merger, NCLT Approves Shareholders’ Meet",Equitypandit,0.04000472649931908
+2022-11-21 08:00:00+00:00,"HDFC Bank, Canara Bank get approval for rupee trade with Russia: Report",The Times of India,0.6791331470012665
+2022-08-18 07:00:00+00:00,HDFC Bank Opens New Branch Only For Women in North Kerala,Equitypandit,0.16372364107519388
+2022-10-17 07:00:00+00:00,What should investors do with HDFC Bank post better Q2 results?,Moneycontrol,0.2008536010980606
+2022-07-19 07:00:00+00:00,HDFC Bank stock: Brokerages see 34% upside move amid strong Q1 earnings - Check price target,Zee Business,0.8736650086939335
+2022-12-14 08:00:00+00:00,HDFC Bank increases stake in fintech start-up Mintoak,Moneycontrol,0.4672483466565609
+2022-10-05 07:00:00+00:00,SBI vs HDFC Bank vs ICICI Bank: Which stock has potential to deliver more?,Business Today,0.6120542036369443
+2022-10-15 07:00:00+00:00,"HDFC Bank Q2 Preview: Profit may jump up to 25% YoY, NII growth seen at 13-17%",Business Today,0.9305466897785664
+2022-08-25 07:00:00+00:00,HDFC Bank to buy nearly 10% stake in Go Digit Life Insurance,Moneycontrol,0.16483362205326557
+2022-09-12 07:00:00+00:00,HDFC Bank issues India’s first Electronic Bank Guarantee (e-BG),Mint,0.17194052878767252
+2022-11-29 08:00:00+00:00,HDFC Bank has emerged as the top lender on the BT 500 2022 list. Here's why,Business Today,0.3943238593637943
+2022-10-04 07:00:00+00:00,HDFC Bank is now ten times bigger than the crisis-struck Credit Suisse,Business Standard,0.1358120758086443
+2022-09-15 07:00:00+00:00,TCS pips HDFC Bank to become most valuable brand: Report,Mint,0.8746786769479513
+2022-10-14 07:00:00+00:00,"HDFC Bank Q2 FY23 Results: Quarterly Earnings ANNOUNCED! Check Net Profit, And FULL Profit, Loss Account DETAILS",Zee Business,-0.2910848632454872
+2022-09-08 07:00:00+00:00,"ICICI, Axis, HDFC Bank lift Sensex 659 pts, Nifty near 17,800; metals dip",Business Standard,0.6977994460612535
+2022-10-20 07:00:00+00:00,"Diwali Bonanza: BoB, HDFC Bank, ICICI Bank lead cheaper loan offers",Moneycontrol,0.5658602127805352
+2022-07-16 07:00:00+00:00,Merger with HDFC to help tap home finance opportunity: HDFC Bank chairman,Business Standard,0.1424569645896554
+2022-09-11 07:00:00+00:00,"Premature withdrawal/closure of Fixed Deposit: SBI vs PNB vs Axis vs HDFC Bank rules, penalties",The Financial Express,-0.41703205183148384
+2022-11-22 08:00:00+00:00,"HDFC Bank, Canara Bank get RBI approval for rupee trade with Russia",Business Standard,0.7052433658391237
+2022-11-25 08:00:00+00:00,Top 10 most favourite stocks of Mutual Fund companies,The Financial Express,0.044944968074560165
+2022-09-08 07:00:00+00:00,"ZippMat raises $10 mn led by Matrix Partners, HDFC Bank, others",Mint,0.8300824826583266
+2022-10-16 07:00:00+00:00,What are the transactions you can do at a Digital Banking Unit (DBU)?,The Financial Express,-0.002643907442688942
+2022-12-22 08:00:00+00:00,"FD premature withdrawal charges of SBI, HDFC Bank, ICICI Bank, PNB",The Economic Times,-0.8514392860233784
+2022-12-06 08:00:00+00:00,"Paying rent using credit card? Know charges by SBI Card, HDFC Bank, ICICI Bank",The Economic Times,-0.0027823802083730698
+2022-08-19 07:00:00+00:00,List Of IFSC Code Of HDFC BANK For 2022,inventiva.co.in,-0.009341483935713768
+2022-07-04 07:00:00+00:00,Proposed HDFC-Bank merger receives stock exchanges' clearance,Times of Oman,0.11925079673528671
+2022-10-05 07:00:00+00:00,"At Rs 14.8 Trillion, HDFC Bank Experiences 23.5% Loan Growth In The Second Quarter",Asiana Times,0.9250688645988703
+2023-05-17 07:00:00+00:00,MSCI’s move and the impact on HDFC and HDFC Bank stocks,ICICI Direct,-0.42665278166532516
+2023-06-30 07:00:00+00:00,"HDFC to merge into HDFC Bank on July 1, create India’s financial behemoth",Reuters,0.078452343121171
+2023-06-27 07:00:00+00:00,How will the merger affect the share prices of HDFC Bank and HDFC Ltd?,The Times of India,-0.03928812965750694
+2023-01-19 08:00:00+00:00,"HDFC Bank stock was Rs 300 in 2013. Now, it's priced over Rs 1,600",Business Today,0.02279000449925661
+2023-04-24 07:00:00+00:00,HDFC Bank: Ride On India's Growth Story With Its Leading Bank (NYSE:HDB),Seeking Alpha,0.25223943684250116
+2023-06-15 07:00:00+00:00,"60 MF schemes to hold Rs 5,000 crore worth HDFC Bank shares beyond Sebi limit post merger",Moneycontrol,0.05032067280262709
+2023-03-17 07:00:00+00:00,"HDFC-HDFC Bank Merger Approved, Board Considering Raising Funds Through NCDs",Equitypandit,0.40852589439600706
+2023-05-16 07:00:00+00:00,"HDFC, HDFC Bank turn ex-date for dividend; shares fall up to 2%",Business Standard,-0.9603446517139673
+2023-06-27 07:00:00+00:00,HDFC Bank’s $173 billion merger with its parent creates a ‘lucrative’ arbitrage trade in India,The Times of India,0.6635685712099075
+2023-05-17 07:00:00+00:00,India central bank clears SBI Funds to buy up to 9.99% stake in HDFC Bank,Reuters,0.21145290415734053
+2023-07-01 07:00:00+00:00,HDFC Bank HDFC merger: What this twins merger mean for Indian stock market — explained in five points,Mint,0.016429586336016655
+2023-06-28 07:00:00+00:00,HDFC-HDFC Bank merger on July 1,The Times of India,-0.003540167585015297
+2023-06-27 07:00:00+00:00,"India's HDFC, HDFC Bank merger to be effective July 1",Reuters,-0.00544116273522377
+2023-07-01 07:00:00+00:00,HDFC twins merger: What will happen to your HDFC shares after HDFC Bank takeover?,Mint,-0.11136134527623653
+2023-06-23 07:00:00+00:00,India's insurance regulator approves transfer of HDFC Life shares to HDFC Bank,Reuters,0.05200281832367182
+2023-06-28 07:00:00+00:00,HDFC and HDFC Bank merger: What to expect,The Times of India,-0.013197818771004677
+2023-07-01 07:00:00+00:00,Merger raises HDFC Bank's total business to over Rs 41 lakh crore,The Times of India,0.9037783863022923
+2023-06-30 07:00:00+00:00,"Bank giant bigger than Morgan Stanley arises from HDFC Bank, HDFC Ltd merger",The Times of India,0.06519131921231747
+2023-06-29 07:00:00+00:00,"How HDFC Bank HDFC merger boosted Sensex, Nifty to life-time high — explained",Mint,0.42407134734094143
+2023-02-24 08:00:00+00:00,HDFC Bank raises $750 mn via bond sale; stock down,Fortune India,0.4458620995283127
+2023-07-01 07:00:00+00:00,"From HDFC Bank to SBI, here are India's top 10 biggest banks. Check here",Mint,0.021329563111066818
+2023-03-18 07:00:00+00:00,NCLT approves merger of HDFC with HDFC Bank,The New Indian Express,0.14324863348156214
+2023-05-12 07:00:00+00:00,"Best bank stock to buy in 2023: HDFC Bank, Axis Bank, ICICI Bank, others",Business Today,0.11678565759211779
+2023-04-26 07:00:00+00:00,Bourses approves transfer of NCDs from HDFC Ltd to Bank as part of merger,Business Standard,0.06576069723814726
+2023-05-17 07:00:00+00:00,RBI okays SBI Funds Management’s acquisition of 9.9% stake in HDFC Bank,Fortune India,0.10550796892493963
+2023-06-30 07:00:00+00:00,"HDFC, HDFC Bank boards approve July 1 as effective date of mega merger and July 13 as record date",Business Today,0.037478404119610786
+2023-05-09 07:00:00+00:00,HDFC Bank allots 4561966 equity shares under ESOP,Mint,0.02822421584278345
+2023-05-05 07:00:00+00:00,"HDFC Bank, HDFC share price tanks as MSCI assigns lower weight for merged entity; check details",Business Today,0.08740869909524918
+2023-06-27 07:00:00+00:00,HDFC-HDFC Bank merger: The story behind success of housing finance behemoth,Business Standard,0.045175449922680855
+2023-07-01 07:00:00+00:00,HDFC emerges as fourth largest bank in the world after merger | Business News | Manorama English,Onmanorama,0.44239932112395763
+2023-07-02 07:00:00+00:00,India's HDFC Bank completes $40 billion takeover of the country's largest mortgage lender. Here’s what it means,CNBC,0.04037490673363209
+2023-07-03 07:00:00+00:00,"India's HDFC Bank at record high post HDFC-merger, among world's top 10 banks by value",Reuters,0.900481790304184
+2023-07-15 07:00:00+00:00,New HDFC Bank shares to list Monday; here’s how public holding rejigged in merged entity,The Economic Times,0.027669869363307953
+2023-09-20 07:00:00+00:00,Explained: Why HDFC Bank shares fell over 3% after analysts meet,India Today,-0.9561355737969279
+2023-07-03 07:00:00+00:00,HDFC Bank share price to remain in focus following merger with HDFC,Mint,0.04622925817966461
+2023-10-04 07:00:00+00:00,"HDFC Bank's stock movement eyed after management rejig, price down over 9% in three weeks",Moneycontrol,-0.961910255253315
+2023-07-01 07:00:00+00:00,Merger raises HDFC Bank's total business to over Rs 41 lakh crore,The Times of India,0.9037783863022923
+2023-10-17 07:00:00+00:00,"Should investors buy, sell, or hold HDFC Bank shares after Q2? What brokerages say",Fortune India,-0.00587070919573307
+2023-07-17 07:00:00+00:00,HDFC Bank shares climb 2 pc post June quarter earnings,Telangana Today,0.8507319130003452
+2023-10-27 07:00:00+00:00,"RIL, TCS, HDFC Bank: 3 most-valued stocks delivered negative returns in 2 years. What's next?",Business Today,-0.9237036518752575
+2023-07-01 07:00:00+00:00,How HDFC and HDFC bank multiplied the wealth of MF investors,Moneycontrol,0.09708394762128592
+2023-07-08 07:00:00+00:00,HDFC Bank to sell 2% stake in NSDL IPO,Reuters,0.03940449468791485
+2023-07-12 07:00:00+00:00,"Nifty 50, Bank Nifty show off a new look with HDFC Bank ruling the roost",Moneycontrol,0.37919303216040134
+2023-07-01 07:00:00+00:00,HDFC Bank HDFC merger: What this twins merger mean for Indian stock market — explained in five points,Mint,0.016429586336016655
+2023-07-01 07:00:00+00:00,HDFC twins merger: What will happen to your HDFC shares after HDFC Bank takeover?,Mint,-0.11136134527623653
+2023-07-03 07:00:00+00:00,Will HDFC Bank shares continue to command premium over ICICI Bank post merger?,Business Today,0.23330681957304478
+2023-07-04 07:00:00+00:00,"HDFC Bank-HDFC merger: For advising on a $64 billion deal, bankers get a 0.0002% fee",The Times of India,0.06912743113934994
+2023-07-01 07:00:00+00:00,"From HDFC Bank to SBI, here are India's top 10 biggest banks. Check here",Mint,0.021329563111066818
+2023-09-28 07:00:00+00:00,"HDFC Bank: Jefferies retains ‘Buy’ rating with target of Rs 2,030, sees 33% upside potential",The Financial Express,0.8908300288021564
+2023-09-22 07:00:00+00:00,HDFC Bank Reduces Its Stake In HOEC,Goodreturns,-0.7558268494904041
+2023-10-17 07:00:00+00:00,HDFC Bank vs ICICI Bank: 5 reasons why InCred prefers the most-valued banking stock,Business Today,0.13091002218425274
+2023-07-17 07:00:00+00:00,"HDFC Bank Q1 profit surges 30% to ₹11,952 cr; NII up 21%",Fortune India,0.9060295484960079
+2023-07-17 07:00:00+00:00,How HDFC-HDFC Bank merger impacts shareholders and mutual fund investors,Business Standard,-0.18937166407704353
+2023-09-19 07:00:00+00:00,RBI extends tenure of HDFC Bank MD Sashidhar Jagdishan by 3 years,The Times of India,0.21423698589205742
+2024-01-01 08:00:00+00:00,HDFC Bank goes live with NPCI-developed UPI in secondary market platform,Business Standard,0.08071324229240417
+2023-10-14 07:00:00+00:00,"When are HDFC Bank Q2 results due? Sunday or Monday, October 16, 2023?",Mint,-0.04058050364255905
+2023-12-28 08:00:00+00:00,"SBI, HDFC Bank will need to maintain higher capital from FY25, says RBI",Business Standard,0.7158713983371854
+2023-09-15 07:00:00+00:00,HDFC Bank-Diners Club eyes B2B space to grow credit card business,Business Standard,0.8926470912992954
+2023-11-24 08:00:00+00:00,"Chart view: Bank of India, HDFC Bank offer cheapest home loan rates",Business Standard,0.4484119853004813
+2023-07-01 07:00:00+00:00,HDFC emerges as fourth largest bank in the world after merger | Business News | Manorama English,Onmanorama,0.44239932112395763
+2023-09-23 07:00:00+00:00,"Top stocks of the week: Berger Paints, Power Finance, Union Bank, Indian Bank, HDFC Bank & others",Business Today,0.03895995020866394
+2023-07-03 07:00:00+00:00,"Meet Aditya Puri, the longest serving head of a private bank who transformed HDFC Bank and amassed Rs 1300 crore",The Financial Express,0.13643811456859112
+2023-10-21 07:00:00+00:00,"Stocks that saw big block deals this week: Zomato, HDFC Bank, IndiGo, Cipla, Jio Financial and more",Business Today,0.34561662282794714
+2023-11-09 08:00:00+00:00,"Adani Enterprises, HUL, Adani Ports top losers on Nifty50; RIL, HDFC Bank, ICICI Bank most active stocks on November 9, 2023",Business Today,-0.021559417247772217
+2023-11-07 08:00:00+00:00,From SBI To HDFC Bank: List Of Top Bank Stocks In India,Indiatimes,-0.013198483735322952
+2024-02-14 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 0.75% during today's trading session; Check price range, day's high and low",India Today,-0.9649743437767029
+2024-01-17 08:00:00+00:00,India's HDFC Bank posts worst day in nearly 4 years on margin concerns,Reuters,-0.935798417776823
+2024-01-19 08:00:00+00:00,HDFC Bank recovers after 11% fall in last 2 sessions; what should investors do now?,Mint,-0.6931593827903271
+2024-01-17 08:00:00+00:00,"HDFC Bank shares plunge 8.5%; stock sees worst day since Covid crash, investors lose Rs 1 lakh-crore",The Times of India,-0.954791272059083
+2024-01-17 08:00:00+00:00,"HDFC Bank Q3FY24 earnings rock stock markets, raising some near-term concerns",Forbes India,-0.08276990056037903
+2024-01-17 08:00:00+00:00,Explained: Why HDFC Bank shares fell 7% despite strong Q3 profit growth,India Today,-0.9664927129633725
+2024-02-09 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock gained 0.04% during today's trading session; Check price range, day's high and low",India Today,0.8557220622897148
+2024-02-27 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock gained 0.12% during today's trading session; Check price range, day's high and low",India Today,0.86433320119977
+2024-02-22 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 1.36% during today's trading session; Check price range, day's high and low",India Today,-0.965387521777302
+2024-02-28 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 0.76% during today's trading session; Check price range, day's high and low",India Today,-0.9653433989733458
+2024-02-23 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock gained 0.07% during today's trading session; Check price range, day's high and low",India Today,0.8593052066862583
+2024-02-19 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 0.20% during today's trading session; Check price range, day's high and low",India Today,-0.9649804420769215
+2024-02-26 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock gained 0.12% during today's trading session; Check price range, day's high and low",India Today,0.86433320119977
+2024-02-20 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock gained 2.63% during today's trading session; Check price range, day's high and low",India Today,0.8287572599947453
+2024-02-06 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 0.05% during today's trading session; Check price range, day's high and low",India Today,-0.9647923586890101
+2024-02-21 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 1.04% during today's trading session; Check price range, day's high and low",India Today,-0.9650309262797236
+2024-02-07 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 1.88% during today's trading session; Check price range, day's high and low",India Today,-0.9652698608115315
+2024-02-12 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock lost 0.97% during today's trading session; Check price range, day's high and low",India Today,-0.9652093010954559
+2024-02-13 08:00:00+00:00,"HDFC Bank Ltd Share Price Highlights: Stock gained 0.32% during today's trading session; Check price range, day's high and low",India Today,0.8571273684501648
+2024-06-21 07:00:00+00:00,HDFC Bank share price snaps a 7-day winning streak; is it time to buy more or book profit?,Mint,0.16106103360652924
+2024-02-27 08:00:00+00:00,"HDFC Bank vs ICICI Bank: Stock price targets, technicals, valuation, financial metrics and more",Business Today,0.005803216248750687
+2024-01-29 08:00:00+00:00,LIC not expected to hike HDFC Bank stake in a rush,The Economic Times,0.04869813472032547
+2024-02-20 08:00:00+00:00,HDFC Bank stock call: 'Buy' from Citi with 44% upside on strong franchise; Check target price,Moneycontrol,0.9066282901912928
+2024-02-23 08:00:00+00:00,"1:10, 1:1 Stock Splits: Rs 250-To-Rs 1,400, HDFC Bank Multiplies Investors Money; Buy For Rs 2,100 Target",Goodreturns,0.07947314623743296
+2024-01-17 08:00:00+00:00,HDFC Bank Shares Slide 7% Post Q3 Results | Stock Market News,Zee Business,-0.9364576321095228
+2024-01-15 08:00:00+00:00,"$1 trillion m-cap stock: HDFC Bank, RIL or Bajaj Finance? It may emerge by 2032, says ICICI Securities",Business Today,0.05874686501920223
+2024-02-12 08:00:00+00:00,SBI vs HDFC Bank: Why public sector banks are beating private banks on the stock market,The Times of India,0.1340271532535553
+2024-02-15 08:00:00+00:00,"HDFC Bank sees mutual funds pick up Rs 13,850 crore shares in January",Moneycontrol,0.8088823687285185
+2024-02-20 08:00:00+00:00,"Indian stock market: Why you should have SBI, HDFC Bank shares in your stock portfolio?",Mint,0.0004068724811077118
+2024-05-08 07:00:00+00:00,"SBI, PNB, HDFC Bank stocks fall up to 9% in 3 days on RBI's draft project finance norms",Moneycontrol,-0.9611298283562064
+2024-01-29 08:00:00+00:00,HDFC Bank shares up 2% after LIC buys additional stake,Fortune India,0.9059889260679483
+2024-04-22 07:00:00+00:00,Explained: Why HDFC Bank shares fell despite 30% jump in Q4 net profit,India Today,-0.955461909994483
+2024-01-20 08:00:00+00:00,"HDFC Bank Share: India's Largest Bank Rises 2% After 3-Days Losing Streak; Buy For TP Over Rs 2,000",Goodreturns,0.9134270697832108
+2024-01-17 08:00:00+00:00,"Sensex sinks 1,628 pts, Nifty breaks below 21,600 as HDFC Bank plunges 8%",Business Standard,-0.9459585482254624
+2024-01-29 08:00:00+00:00,"LIC owns HDFC Bank shares worth nearly ₹50,000 crore, it can now increase that stake further",CNBC TV18,0.6366936424747109
+2024-04-02 07:00:00+00:00,Penny stock below ₹5: GGPL shares hit upper circuit despite HDFC Bank selling 2.9 lakh shares,Mint,0.8164525777101517
+2024-01-18 08:00:00+00:00,HDFC Bank ADRs plunge 9% overnight! More selling ahead for private bank shares?,Business Today,0.08131827414035797
+2024-01-29 08:00:00+00:00,HDFC Bank stock gains 2% after LIC gets RBI nod to buy 4.8% additional stake,Moneycontrol,0.8265159875154495
+2024-01-23 08:00:00+00:00,ICICI Bank vs HDFC Bank: Which of the two is a 'must-own' stock? Here're share price targets,Business Today,0.008666308596730232
+2024-01-25 08:00:00+00:00,Reserve Bank of India allows LIC to increase stake in HDFC Bank to 9.99%,Business Standard,0.8400070806965232
+2024-03-11 07:00:00+00:00,"CLSA downgrades HDFC Bank, cuts target price; stock down 1%",Fortune India,-0.9480430614203215
+2024-01-24 08:00:00+00:00,"HDFC Bank credit cards cross two crore mark, claims 28% marketshare",The Times of India,0.69614128023386
+2024-01-16 08:00:00+00:00,"HDFC Bank, Reliance, Bajaj Finance in fray to be India's first trillion-dollar company by 2032",Moneycontrol,0.4264385560527444
+2024-04-04 07:00:00+00:00,HDFC Bank ADR rises 7% after Q4 updates lifts sentiments despite reduction in FII shareholding,Mint,0.8414512202143669
+2024-01-17 08:00:00+00:00,"HDFC Bank shares fall 7 per cent post Q3 earnings; market cap erodes by Rs 72,736 crore",India TV News,-0.9662787364795804
+2024-01-18 08:00:00+00:00,HDFC Bank's ADR premium shrinks to nearly zero as FPIs turn bearish,Business Standard,-0.9624571297317743
+2024-04-22 07:00:00+00:00,Investment strategy alert: HDFC Bank Q4 performance and future outlook,Business Standard,0.05711669474840164
+2024-01-25 08:00:00+00:00,LIC to acquire 9.99% stake in HDFC Bank,Fortune India,0.045968083664774895
+2024-01-17 08:00:00+00:00,News Updates: More pain ahead? HDFC Bank ADRs slump 8% after leading a carnage on D-Street,The Economic Times,-0.898760698735714
+2024-04-08 07:00:00+00:00,HDFC Bank Share Price Target: Before Q4 Results; Check What Brokerage Firms Say,India.Com,0.007902601733803749
+2024-02-06 08:00:00+00:00,"HDFC Bank Group gets RBI nod to buy up to 9.5% in Yes Bank, Axis Bank, 4 others",Mint,0.4340113988146186
+2024-03-21 07:00:00+00:00,HDFC sells company that spawned education loan business,The Times of India,0.033893952146172523
+2024-02-29 08:00:00+00:00,"HDFC Bank, ICICI Bank vie for slice of index flows into India",The Economic Times,0.15519180707633495
+2024-05-15 07:00:00+00:00,"HDFC Bank PIXEL: India’s first virtual credit card to allow you choose billing cycle, merchants | Here’s how to apply",The Financial Express,0.04597063921391964
+2024-04-17 07:00:00+00:00,SBI vs HDFC Bank stock COMPARISION: PSU vs Private - Which bank share offers better investment opportunity,ET Now,0.7710823006927967
+2024-12-03 08:00:00+00:00,Explained: Why HDFC Bank share price gained 2% today,India Today,0.9234629729762673
+2024-11-27 08:00:00+00:00,HDFC Bank shares trade near key resistance. What next after a breakout?,The Economic Times,-0.10858320072293282
+2024-11-25 08:00:00+00:00,"HDFC Bank stock hits all-time high above Rs 1,800 as trading volumes surge on MSCI rejig inflows",Moneycontrol,0.8689263947308064
+2024-10-21 07:00:00+00:00,"HDFC Bank Stocks, HDFC Bank Share Price 21 Oct 2024: HDFC Bank shares jump 3% on Q2 results and IPO nod for HDB Financial",BusinessLine,0.9125458188354969
+2024-12-16 08:00:00+00:00,HDFC Bank share price declines 1.3% after second warning letter from SEBI in a week,Upstox,-0.9496999671682715
+2024-10-09 07:00:00+00:00,HDFC Bank Limited (HDB): Among the Best Indian Stocks for the Next 10 Years,Yahoo Finance,0.9008374707773328
+2024-11-09 08:00:00+00:00,Is HDFC Bank One of the Top Banking Stocks in India?,Equitymaster,0.1459335722029209
+2024-11-19 08:00:00+00:00,"India's Nifty snaps seven-day losing run; HDFC Bank, Mahindra lead gains",Reuters,-0.5207530558109283
+2024-11-28 08:00:00+00:00,"HDFC Bank stock hits new all-time high, market-cap tops Rs 14 trillion",Business Standard,0.8778252396732569
+2024-12-05 08:00:00+00:00,HDFC Bank shares: Why this stock is outperforming peers; more upside ahead?,Business Today,-0.24356518685817719
+2024-12-14 08:00:00+00:00,Is HDFC Bank ready to lead Indian banking again?,Value Research,0.2716675437986851
+2024-12-03 08:00:00+00:00,HDFC Bank share price hits record high; market-cap crosses ₹14 lakh crore,Mint,0.8952873200178146
+2024-08-14 07:00:00+00:00,Why HDFC Bank Share Price is Falling,Equitymaster,-0.058800920844078064
+2024-11-28 08:00:00+00:00,HDFC Bank’s m-cap surpasses Rs 14 lakh crore for the first time after stock hits record high,The Economic Times,0.9237983226776123
+2024-08-13 07:00:00+00:00,Explained: Why HDFC Bank shares fell 3% in early trade,India Today,-0.9630310013890266
+2024-12-03 08:00:00+00:00,"HDFC Bank block deal: 21.7 lakh shares sold; stock rises, m-cap back above Rs 14 lakh crore",Moneycontrol,0.8925704173743725
+2024-12-23 08:00:00+00:00,"HDFC Bank a beacon of safety amid rising systemic stress, shares deserve premium, says Emkay Global; raises target price",Mint,0.9235452730208635
+2024-10-21 07:00:00+00:00,HDFC Bank stock up 3% post Q2 results as analysts raise share price target,Business Standard,0.9247792419046164
+2024-11-26 08:00:00+00:00,"HDFC Bank shares: At record high, should investors pick the stock with single-digit returns in 2024?",Business Today,0.1492081917822361
+2024-12-05 08:00:00+00:00,"Stocks to buy today: Axis Bank, HDFC Bank among top 9 trading ideas for 5 December 2024",The Economic Times,0.05627417378127575
+2024-11-28 08:00:00+00:00,"HDFC Bank market cap crosses Rs 14 lakh crore for first time ever, stock settles 1% lower",Moneycontrol,0.6533955037593842
+2024-07-20 07:00:00+00:00,"HDFC Bank Q1 Results Highlights: Net profit falls 2% QoQ to ₹16,175 crore, NII at ₹29,837 crore",Upstox,-0.9529482098296285
+2024-08-13 07:00:00+00:00,HDFC Bank shares down 3%. What should investors do?,India Today,-0.8984972974285483
+2024-12-16 08:00:00+00:00,"Stocks to buy for short term: Reliance, HDFC Bank among 9 stocks that may rise 7-14% in the next 3-4 weeks, say analysts",Mint,0.9122896920889616
+2024-12-14 08:00:00+00:00,Stocks to buy: HDFC Bank to Zomato—Stoxbox recommends top 10 picks to boost your portfolio in 2025,Mint,0.6891388474032283
+2024-07-05 07:00:00+00:00,Explained: Why HDFC Bank shares fell 4% in early trade today,India Today,-0.9637856241315603
+2024-11-29 08:00:00+00:00,HDFC Bank Market Cap Crosses ₹14 Lakh Crore For The First Time As Stock Hits Fresh High,Samco,0.8228175975382328
+2024-12-12 08:00:00+00:00,"HDFC Bank: Mutual funds sold Rs 11,000 crore worth shares in Nov; what's ahead?",Business Today,-0.0035047046840190887
+2024-11-28 08:00:00+00:00,HDFC Bank market cap crosses ₹14 lakh crore for the first time as stock hits fresh high,Mint,0.8228175975382328
+2024-12-04 08:00:00+00:00,"Stocks to buy: HDFC Bank, Bharti Airtel, Lupin, among 16 stock picks for December by Axis Securities",Mint,0.029908688738942146
+2024-12-28 08:00:00+00:00,Stock Picks for 2025: HDFC Bank to Senco Gold— Religare Broking suggests THESE six stocks to ‘accumulate’ for long-term,Mint,0.3867672551423311
+2024-12-25 08:00:00+00:00,"Nifty at 26,000; RIL, HDFC Bank & Titan top stock picks for 2025: Religare Broking's Ravi Singh",Business Today,0.2474146354943514
+2024-12-30 08:00:00+00:00,Jefferies turns positive on HDFC Bank; reveals 22 stocks of its India long-only equity portfolio,Mint,0.6358373370021582
+2024-08-13 07:00:00+00:00,Is HDFC Bank stock a good bet after MSCI August Review? What analysts say,Business Standard,0.044444696977734566
+2024-07-05 07:00:00+00:00,HDFC Bank's share price plunges over 4% after weak Q1FY25 numbers,Business Standard,-0.9619882591068745
+2024-11-25 08:00:00+00:00,"HDFC Bank shares hit all-time high above Rs 1,800 amid MSCI rebalancing",The New Indian Express,0.9178854655474424
+2024-12-04 08:00:00+00:00,Nifty’s next move: What Reliance and HDFC Bank are signalling | Stock Market News,Mint,0.03605908527970314
+2024-12-13 08:00:00+00:00,"Zomato, M&M, HDFC Bank and one Adani group stock among 10 top ideas for 2025",Business Today,0.31472295615822077
+2024-10-16 07:00:00+00:00,"RIL, HDFC Bank among top 10 stock holdings of Nippon India Mutual Fund",The Economic Times,0.07089430000633001
+2024-10-04 07:00:00+00:00,HDFC Bank originates India’s largest securitisation transaction,The Economic Times,0.18836635909974575
+2024-11-01 07:00:00+00:00,HDFC Bank Share Price Target 2025: India's most valuable bank is TOP Muhurat pick by brokerage,ET Now,0.6339448317885399
+2024-10-08 07:00:00+00:00,"HDFC Bank, ICICI Bank to Axis Bank: Why are banking shares rising in stock market today?",Mint,0.14298362284898758
+2024-07-05 07:00:00+00:00,HDFC Bank Shares Plunge 5%; India's Largest Private Lender Announces Decline In Advances & CASA In Q1,Goodreturns,-0.957397835329175
+2024-10-19 07:00:00+00:00,"HDFC Bank board approves Rs 12,500-crore share sale of its subsidiary HDB Financial",The Times of India,0.08838624507188797
+2024-12-24 08:00:00+00:00,"HDFC Bank Share Price Target 2025: Bank Stock Pushes Indices Up - Buy, Sell Or Hold?",Republic World,0.30965421348810196
+2025-01-01 08:00:00+00:00,"HDFC Bank, RIL & HUL: How to trade these 3 stocks in 2025? Kiran Jani answers",Business Today,0.03306928090751171
+2024-10-31 07:00:00+00:00,HDB Financial IPO: 10 key things to know as HDFC Bank's NBFC arm prepares for stock market debut,Moneycontrol,0.04898292478173971
+2024-11-26 08:00:00+00:00,"BOB, HDFC Bank, SBI, Bajaj Finance: 10 top banking and financial stocks to buy for long-term returns",Business Today,0.1677100146189332
+2024-11-28 08:00:00+00:00,HDFC Bank shares hit another record high; Check out its top 10 price targets,CNBC TV18,0.3366187773644924
+2024-10-21 07:00:00+00:00,"HDFC Bank shares zooms nearly 3% as board approves HDB Financial Services IPO worth Rs 12,500 cr",The Financial Express,0.8771910294890404
+2024-09-23 07:00:00+00:00,Hot IPO Ahead! India's Largest Bank Okays $8 Billion Public Offer Of HDB Financial; HDFC Bank Stock Rises,Goodreturns,0.392213037237525
+2024-11-28 08:00:00+00:00,"HDFC Bank Share Price Hits All-Time High, Market Cap Crosses Rs 14 Lakh-Crore Mark",NDTV Profit,0.8236618265509605
+2024-12-15 08:00:00+00:00,"Bharti Airtel, TCS, HDFC Bank stocks steal the show this week | Business News",Hindustan Times,0.04289551265537739
+2024-12-04 08:00:00+00:00,"Stock Market Close Highlights: Sensex extends rally, rises 111 pts led by HDFC Bank; Nifty ends flat",Business Standard,0.8700541481375694
+2024-11-21 08:00:00+00:00,"1:2 Split, Rs 60.5/Sh Dividend In 5 Yrs; HDFC Bank Stock Rises 20% In 6 Months, ADR Up 13%; Geojit Says BUY",Goodreturns,0.918066531419754
+2024-07-03 07:00:00+00:00,Apna time aa gaya: HDFC Bank’s spell of underperformance may be over as MSCI weight likely to increase,Moneycontrol,0.7458066567778587
+2024-10-08 09:59:00+00:00,"IPO: NSDL Gets SEBI Nod; NSE, SBI, HDFC Bank To Sell Shares",Moneylife,0.14843029528856277
+2024-12-30 08:00:00+00:00,"Jefferies' Greed & Fear note by Chris Wood tweaks long-only portfolio, brings back HDFC Bank, adds...",Moneycontrol,0.3319246657192707
+2024-08-02 07:00:00+00:00,"Stocks to buy: ICICI Bank, SBI, HDFC Bank, Bharti Airtel among Axis Securities’ nine top largecap stock picks for August",Mint,0.10376209672540426
+2024-10-21 07:00:00+00:00,"Market Close Highlights, Oct 21: Sensex, Nifty end in red after choppy session; HDFC Bank gains 2.6%",Business Standard,0.883349172770977
+2024-09-15 07:00:00+00:00,"Stocks to buy for long term: HDFC Bank, SBI...Nirmal Bang recommends these 5 shares to buy, expects 9-61% upside",Mint,0.12771727703511715
+2024-12-23 08:00:00+00:00,HDFC Bank Executes First Gold Forward Deal from GIFT City,The Times of India,0.68912239279598
+2024-07-03 07:00:00+00:00,"Stocks to Watch, July 3:HDFC Bank, Zomato, Concor, RVNL, M&M Fin, Britannia",Business Standard,0.0323160607367754
+2024-07-03 07:00:00+00:00,"Analysts pick stocks to buy as Sensex hits 80,000; HDFC Bank, ITC top bets",Business Standard,0.11040250398218632
+2024-10-17 07:00:00+00:00,HDFC Bank Q2 results preview: Muted qtr expected; loan-deposit ratio eyed,Business Standard,0.3558419793844223
+2024-12-13 08:00:00+00:00,HDFC Bank vs ICICI Bank: Which private sector lender to choose in long term?,Mint,0.01617388240993023
+2024-07-16 07:00:00+00:00,SBI vs HDFC Bank: Which blue-chip lender should you pick for long term?,Mint,0.036298250779509544
+2024-09-25 07:00:00+00:00,UBS Group completes acquisition of HDFC Bank shares valued at Rs 543 cr,Business Standard,0.1046591205522418
+2024-11-18 08:00:00+00:00,HDFC Bank share price rises as lender appoints Santhosh Iyengar Keshavan as Independent Director for three years,Mint,-0.8344960696995258
+2024-07-04 07:00:00+00:00,"Stock Market Highlights, July 4: Sensex, Nifty end flat; HDFC Bank falls 2%, Tata Motors rises 3%",Business Standard,0.16314151883125305
+2024-11-07 08:00:00+00:00,"MSCI November Rejig: BSE, Voltas, Kalyan Jewellers among 5 inclusions, HDFC Bank’s weightage to increase",Mint,0.9355501029640436
+2024-08-20 07:00:00+00:00,"Reliance Industries - Nippon India Mutual Fund: RIL, HDFC Bank among top 10 stock holdings in July",The Economic Times,0.14490178134292364
+2024-11-07 08:00:00+00:00,"MSCI November rejig review: BSE, 4 others added; HDFC Bank weight to rise",Business Standard,0.8948284052312374
+2024-08-09 07:00:00+00:00,HDFC-HDFC Bank merger among largest and most complex in India Inc's history: Atanu Chakraborty,CNBC TV18,0.07299981452524662
+2024-12-12 08:00:00+00:00,Sebi issues warning letter to HDFC Bank for regulatory non-compliance,Business Standard,-0.8210384882986546
+2024-11-14 08:00:00+00:00,"Preventing cyber frauds: HDFC Bank’s ‘Vigil Aunty’ shares how she helps people ‘Stay Safe, Stay Vigil’ at",The Times of India,0.15072358585894108
+2024-08-21 07:00:00+00:00,HDFC Bank taps retail bankers as wealth managers amid talent crunch,Business Standard,0.19902693387120962
+2024-11-28 08:00:00+00:00,"HDFC Bank Stock Hits All-Time High: A Deep Dive into Performance, Growth, and Investment Potential",Analytics Insight,0.8661619480699301
+2025-06-19 07:00:00+00:00,"Stocks to Watch Today, 20th June 2025: Nestle India, HDFC Bank and more",Groww,0.020788097754120827
+2025-04-14 07:00:00+00:00,HDFC Bank (HDB): The Best Indian Stock to Buy According to Billionaires,Yahoo Finance,0.5062522441148758
+2025-04-04 07:00:00+00:00,HDFC Bank share price jumps despite Indian stock market fall. Here's why,Mint,-0.14915204048156738
+2025-02-20 08:00:00+00:00,"HDFC Bank share price falls 2% amid strong volumes; drags Nifty, Sensex lower as markets digest US Fed...",Moneycontrol,-0.9347284138202667
+2025-01-05 08:00:00+00:00,HDFC Bank's shares open 2.5% lower after Q3 business update; check details,Upstox,-0.9232087032869458
+2025-05-15 07:00:00+00:00,"Indian Stocks Hit Seven-Month High as Reliance, HDFC Bank Rally",Bloomberg.com,0.8674980849027634
+2025-04-15 07:00:00+00:00,"IndusInd Bank, HDFC Bank, ICICI Bank, SBI: Why banking stocks are rising today",India Today,0.2603600174188614
+2025-03-25 07:00:00+00:00,"HDFC Bank hits highest level in CY25, nears record high; up 9% in 2 weeks",Business Standard,0.929537195712328
+2025-06-15 07:00:00+00:00,Top firms see valuation dip: HDFC Bank lead Rs 1.65 lakh crore Mcap loss; tech stocks rise,The Times of India,-0.9399057254195213
+2025-04-22 07:00:00+00:00,"HDFC Bank joins Rs 15 lakh crore club, becomes India’s third most valuable co by Mcap",The Economic Times,0.7545425342395902
+2025-04-23 07:00:00+00:00,HDFC Bank shares slip 2% after hitting fresh record high; here's what analysts say,Business Today,-0.9448662810027599
+2025-06-24 07:00:00+00:00,HDFC Bank shares inches close to record high after announcement of Q2 results 2025 date; will it climb to a new peak?,Mint,0.9005906376987696
+2025-06-03 07:00:00+00:00,HDFC Bank share price climbs as subsidiary HDB Financial Services gets SEBI nod for IPO,Upstox,-0.394139364361763
+2025-04-15 07:00:00+00:00,"HDFC Bank trims savings rate, Goldman Sachs sees easing margin pressure; shares jump 3%",Moneycontrol,0.8155922517180443
+2025-04-23 07:00:00+00:00,HDFC Bank 3rd Indian co to top Rs 15L cr mcap mark,The Times of India,0.8225789843127131
+2025-01-06 08:00:00+00:00,"HDFC Bank stock can dip to Rs 1,500 if breaks this support; key levels here",Business Standard,-0.8786158673465252
+2025-04-16 07:00:00+00:00,HDFC Bank share price hits record high; should you buy the stock ahead of Q4 results?,Mint,0.20497008971869946
+2025-03-03 08:00:00+00:00,"HDFC Bank, Coal India: Angel One's Osho Krishan picks stocks to buy today",Business Standard,0.0912363063544035
+2025-06-08 07:00:00+00:00,HDFC Bank stock to be in focus after Mehta family's FIR against CEO over Lilavati Trust allegations,Mint,-0.24873419106006622
+2025-04-21 07:00:00+00:00,HDFC Bank share price rallies over 2% to all-time high after strong Q4 results. Should you buy or sell?,Mint,0.24536250531673431
+2025-04-21 07:00:00+00:00,"India's HDFC Bank, ICICI Bank close higher as quarterly earnings boost investor confidence",Reuters,0.9148256499320269
+2025-04-22 07:00:00+00:00,"HDFC Bank share price jumps 11% in 6 days, becomes India’s 3rd company to hit ₹15 lakh crore m-cap. What’s next?",Mint,0.10916731134057045
+2025-06-04 07:00:00+00:00,"HDFC Bank Share Price Rises As SEBI Approves ₹12,500 Cr HDB Financial IPO",Samco,-0.2918665409088135
+2025-06-30 07:00:00+00:00,Two HDFC Group stocks deliver strong returns in 2025; Will HDB Financial follow suit after listing?,Upstox,0.7354084234684706
+2025-01-22 08:00:00+00:00,"HDFC Bank in focus: Should you buy, sell, or hold India's largest private bank's stock after Q3 results? EXPLAINED",Mint,0.004944300279021263
+2025-04-15 07:00:00+00:00,HDFC Bank shares near 52-week high; its highest price target projects a 42% upside,CNBC TV18,0.833023645915091
+2025-04-03 07:00:00+00:00,HDFC Bank share price rises as gross advances rise 5.4% YoY to ₹26.43 lakh crore,Upstox,0.8199663236737251
+2025-03-27 07:00:00+00:00,"Stocks in news: RIL, HDFC Bank, Ashok Leyland, BSE, HUL, Maruti Suzuki, Wipro",The Economic Times,0.01565990224480629
+2025-04-04 07:00:00+00:00,"HDFC Bank shares gain 3% on positive Q4 update, brokerages reaffirm optimism",Moneycontrol,0.9024899713695049
+2025-06-09 07:00:00+00:00,"Stocks in news: HDFC Bank, Suzlon Energy, Tata Steel, BEL, MCX",The Economic Times,0.03477482683956623
+2025-06-08 07:00:00+00:00,"Stocks to Watch, June 9: HDFC Bank, Bharat Electronics, Infosys, Tata Steel, Ambuja Cements, Reliance Infra, Go Fashion, and more",Upstox,0.024823926389217377
+2025-04-15 07:00:00+00:00,HDFC Bank shares jump 4% after 25 bps savings account interest rate cut,The Economic Times,0.7779103219509125
+2025-04-22 07:00:00+00:00,HDFC Bank becomes third Indian company to achieve Rs 15 lakh crore market cap,Moneycontrol,0.8414969192817807
+2025-05-12 07:00:00+00:00,"Bank shares in focus: SBI, IOB, Axis, HDFC Bank rally up to 5%; here's why",Business Standard,0.9087129253894091
+2025-04-21 07:00:00+00:00,"Stocks to Watch, April 21: HDFC Bank, ICICI Bank, Infosys, Coal India, NHPC",Business Standard,0.04339621961116791
+2025-06-26 07:00:00+00:00,"Stocks to Watch, June 27: Tata Power, HDFC Bank, Mahindra Life, Hitachi Energy India, Bharti Airtel, Swaraj Engines",Upstox,0.03186056949198246
+2025-01-08 08:00:00+00:00,Stocks to buy: Macquarie maintains an outperform on HDFC Bank; Goldman sees 13% upside in ITC in 2025,The Economic Times,0.5880670994520187
+2025-04-21 07:00:00+00:00,HDFC Bank shares set for rally? Q4 results strong; here are revised price targets,Business Today,0.10046735778450966
+2025-04-22 07:00:00+00:00,HDFC Bank market-cap hits ₹15 trn; stock up 12% in 6 days. Buy or sell?,Business Standard,0.5699451602995396
+2025-06-25 07:00:00+00:00,HDFC Bank share price climbs after HDB Financial Services IPO opens for subscription,Upstox,0.059185683727264404
+2025-06-24 07:00:00+00:00,HDFC Bank Dividend: Shares Of India’s Largest Bank Surge Ahead of 2200% Dividend Record Date; Should You Buy?,Goodreturns,0.22671307809650898
+2025-02-12 08:00:00+00:00,"5 Stocks to Buy for up to 12 Months: Analysts choose HDFC Bank, Affle India, BEL and 2 more stocks for over 40% returns; check out targets",Zee Business,0.18960985448211432
+2025-01-06 08:00:00+00:00,HDFC Bank shares in focus after Q3 deposit growth outpaces loan growth by an extensive margin,The Economic Times,0.9056138917803764
+2025-03-26 07:00:00+00:00,What is the Fair Price of HDFC Bank's Stock?,Equitymaster,-0.029456619173288345
+2025-04-14 07:00:00+00:00,"SBI, HDFC, Bank of India shares rise on passing RBI rate cut benefit to borrowers",Upstox,0.7965662702918053
+2025-06-16 07:00:00+00:00,"HDFC Bank shares gain as Jefferies retains lender as top pick, updates on HDB Financial listing",Moneycontrol,0.37696442753076553
+2025-01-22 08:00:00+00:00,HDFC Bank shares in focus as India’s largest private sector lender to announces Q3 results,Telangana Today,0.8922885358333588
+2025-06-27 07:00:00+00:00,"HDFC Bank shares trade ex-dividend for Rs 22 per share, stock down over 1%",The Economic Times,-0.959765168838203
+2025-06-26 07:00:00+00:00,HDFC Bank share price hits record high. Is HDB Financial IPO the reason?,Mint,0.02379491925239563
+2025-06-26 07:00:00+00:00,"Bank Nifty hits record high of 57,263; HDFC Bank, Axis Bank shares jump up to 2%",Moneycontrol,0.914765264838934
+2025-03-12 07:00:00+00:00,"IndusInd Bank, HDFC Bank shares gain up to 5%, Bank Nifty trades in green after 2 days",Moneycontrol,0.8879100102931261
+2025-05-27 07:00:00+00:00,Everyone’s looking for the next HDFC Bank: What if it’s still HDFC Bank?,The Indian Express,-0.02439192868769169
+2025-06-19 07:00:00+00:00,"Stocks to watch June 19: HDFC Bank, Jio Financial, Hero, Abott, Tata Elxsi",India Today,0.04988476540893316
+2025-01-12 08:00:00+00:00,Mcap of 5 of top-10 valued firms tumbles Rs 1.85 trn; HDFC Bank hit hard,Business Standard,-0.9433249421417713
+2025-04-11 07:00:00+00:00,Stocks to buy today: HDFC Bank to Suzlon Energy — Anshul Jain picks these four shares in rising Indian stock market,Mint,0.055161019787192345
+2025-02-05 08:00:00+00:00,"Waaree Energies, HDFC Bank, SBI, Bajaj twins, Zomato & Swiggy: What Sunil Shah says on these 7 stocks",Business Today,0.018870212137699127
+2025-06-26 07:00:00+00:00,"HDFC Bank shares cross Rs 2,000 mark for first time, hit record high",Business Today,0.9083437509834766
+2025-03-24 07:00:00+00:00,"Canara Bank, SBI, HDFC Bank: Banking stocks zoom in 7 days; NIFTY PSU Bank jumps 9%, BANK NIFTY surges over 7%; what you need to know",Upstox,0.3723118118941784
+2025-04-21 07:00:00+00:00,HDFC Bank vs ICICI Bank: Which stock to buy after Q4 results 2025?,Mint,0.012270063161849976
+2025-06-09 07:00:00+00:00,"Stocks to watch on June 9: HDFC Bank, Infosys, Airtel, Tata Steel, MCX, BEL",India Today,0.02225933037698269
+2025-06-26 07:00:00+00:00,HDFC Bank shares hit 52-week high on ₹22 dividend and banking sector rally,Fortune India,0.8914612047374249
+2025-01-23 08:00:00+00:00,"Stock in Focus: HDFC Bank, HUL, Polycab India, Tata Communications, BPCL and more",The Financial Express,0.017441436648368835
+2025-06-26 07:00:00+00:00,HDFC Bank shares are already having their best year since 2019 — Where is the stock headed next?,CNBC TV18,0.011666674166917801
+2025-04-21 07:00:00+00:00,"Stocks to Watch Today: Infosys, ICICI Bank, HDFC Bank, HDFC Life, NIIT, ABB India, Tata Elxsi, Just Dial,...",Moneycontrol,0.04025752004235983
+2025-04-17 07:00:00+00:00,"ICICI Bank, HDFC Bank hit record highs ahead of Q4 results; which stock is the better buy now?",Zee Business,0.09487959928810596
+2025-06-20 07:00:00+00:00,"Stocks to watch today: From HDFC Bank, Nestle India to HCL Tech – Here are 10 stocks in focus",The Financial Express,0.000869138166308403
+2025-05-27 07:00:00+00:00,"Stocks to buy for long-term: ICICI Bank, HDFC Bank, SBI among Axis Securities’ banking stock picks after Q4 results 2025",Mint,0.053067196160554886
+2025-04-19 07:00:00+00:00,"2,200% Dividend: India's largest private lender HDFC Bank declares ₹22/share dividend for FY25; Record date fixed",Mint,0.5310714617371559
+2025-01-28 08:00:00+00:00,"HDFC Bank, ICICI, Axis Bank shares gain over 3% as RBI liquidity booster lifts market sentiment; Bank...",Moneycontrol,0.9267360512167215
+2025-04-02 07:00:00+00:00,"Top stocks to watch out for on April 3: HDFC Bank, PNB, BEL, Dabur India and more",CNBC TV18,0.06972203589975834
+2025-06-09 07:00:00+00:00,"Stocks to watch: HDFC Bank, BEL, L&T, MCX, Bharti Airtel among shares in focus today",Mint,0.03839689679443836
+2025-06-09 07:00:00+00:00,HDFC Bank stock flat as CEO faces FIR drama,Value Research,-0.8947264291346073
+2025-06-04 07:00:00+00:00,"Stocks to watch on June 4: HDFC Bank, Wipro, Ola Electric, Nestle, Yes Bank",India Today,0.029036160558462143
+2025-01-04 08:00:00+00:00,HDFC Bank gets RBI nod to hike group stake in 3 banks,The Times of India,0.7418767074123025
+2025-02-14 08:00:00+00:00,"SBI, HDFC Bank among 7 stocks owned by over 500 mutual fund schemes in January",The Economic Times,0.07200714014470577
+2025-04-21 07:00:00+00:00,"HDFC Bank posts strong Q4 on improving loan growth, brokerages maintain bullishness; shares rise",Moneycontrol,0.9246271979063749
+2025-01-05 08:00:00+00:00,"Stocks to Watch Today: ITC, HDFC Bank, Bajaj Finance, AU SFB, Nykaa, HG Infra, Brigade Enterprises, NTPC...",Moneycontrol,0.024675535038113594
+2025-04-21 07:00:00+00:00,"2,200% Dividend: HDFC Bank shares hit fresh all-time high after Q4 results, dividend announcement",India TV News,0.9175105504691601
+2025-01-03 08:00:00+00:00,"HDFC Bank Not Among CLSA Top 2025 Picks, But These Stocks Are",NDTV Profit,0.061278633773326874
+2025-06-19 07:00:00+00:00,"Stocks to Watch: Nestle India, HDFC Bank, HCL Tech, CONCOR and more",CNBC TV18,0.013912564143538475
+2025-03-26 07:00:00+00:00,"Goldman Sachs' top 10 India picks: HDFC Bank, Titan, M&M among key bets",Moneycontrol,0.17468292266130447
+2025-05-28 07:00:00+00:00,"Top stocks in news: ITC, HDFC Bank, Belrise, LIC, Coal India, L&T, Bharat Dynamics, IRCTC",Business Today,0.054469771683216095
+2025-06-12 07:00:00+00:00,"Stocks to Watch Today, June 12: HDFC Bank, Nazara, IEX, MCX, Hind Copper",Business Standard,0.008960211649537086
+2025-02-24 08:00:00+00:00,"Is it wise to buy SBI, HDFC Bank shares ahead of NSDL IPO opening date?",Mint,0.05589224770665169
+2025-02-10 08:00:00+00:00,"Parag Parikh Flexi Cap Fund acquires 31 lakh HDFC Bank shares, boosting stake to 8%",The Economic Times,0.9253716962412
+2025-03-26 07:00:00+00:00,"10 Stocks To Buy: HDFC Bank, Power Grid, Adani Ports on Goldman Sachs' list",CNBC TV18,0.025608176365494728
+2025-01-06 08:00:00+00:00,HDFC Bank share: Is this a stock to buy today after Q3 business update?,Mint,0.02284509874880314
+2025-03-14 07:00:00+00:00,Stocks to buy for long-term: From HDFC Bank to ITC— analysts pick 10 stocks to add colours to your portfolio this Holi,Mint,0.04517281427979469
+2025-01-22 08:00:00+00:00,"HDFC Bank Q3 Results: Net profit up 2.2% YoY at Rs 16,736 crore, beats estimate",Moneycontrol,0.9302409179508686
+2025-04-23 07:00:00+00:00,ICICI Bank dethrones HDFC Bank on every financial metric. A power shift underway in Indian banking?,The Economic Times,-0.012024246156215668
+2025-01-26 08:00:00+00:00,ICICI Bank: Marching ahead of HDFC Bank?,The Financial Express,0.10490890964865685
+2025-01-15 08:00:00+00:00,"HDFC Bank, REC, Suzlon shares: 10 stocks where Mutual Funds trimmed their stake in December",CNBC TV18,-0.33249248564243317
+2025-06-21 07:00:00+00:00,"HDFC Bank, Vedanta among 41 stocks in focus next week for dividends, stock splits, bonus. Do you own?",The Economic Times,0.009481359273195267
+2025-04-09 07:00:00+00:00,"HDFC Bank, Trent: 10 stocks you can buy to create a resilient portfolio",Business Standard,0.17931986413896084
+2025-05-20 07:00:00+00:00,"HDFC Bank, Eternal among stocks bought and sold by SBI Mutual Fund in April",The Economic Times,0.025986887514591217
+2025-06-20 07:00:00+00:00,"Stocks to watch: Nestle, HDFC Bank, HCL Tech, CONCOR among shares in focus today",Mint,0.05977801978588104
+2025-06-09 07:00:00+00:00,HDFC Bank shares to be in focus after FIR filed against CEO Sashidhar Jagdishan,Fortune India,-0.4039153531193733
+2025-01-03 08:00:00+00:00,"Jefferies sees rate cuts in India in 2025; ups HDFC, ICICI Bk target price",Business Standard,0.08948774635791779
+2025-06-26 07:00:00+00:00,"Dividend stocks: HDFC Bank, 18 others to go ex-date on June 27; full list",Business Standard,-0.05406241584569216
+2025-06-29 07:00:00+00:00,"HDFC Bank, Bank Nifty hit all-time highs. Is the bull run over, or just getting started?",The Financial Express,0.0099758580327034
+2025-08-26 07:00:00+00:00,HDFC Bank share price: Did the stock really fall 62% today? Here's what happened,The Times of India,-0.5724804829806089
+2025-08-26 07:00:00+00:00,HDFC Bank share crash explained: Did it actually fall over 50%?,India Today,-0.8303321730345488
+2025-08-26 07:00:00+00:00,Did HDFC Bank shares really fall 62%? All you need to know,The Economic Times,-0.4478575028479099
+2025-07-29 07:00:00+00:00,"Indian benchmarks snap 3-day losing run as Reliance, HDFC Bank gain",Reuters,-0.8920544497668743
+2025-08-26 07:00:00+00:00,"HDFC Bank bonus shares explained: Share price may fall 50%, but holding doubles",Business Today,-0.8983138743788004
+2025-07-15 07:00:00+00:00,India's stock benchmarks open flat as gains in HDFC Bank offset broader losses,TradingView,-0.8520750030875206
+2025-08-24 07:00:00+00:00,"Upcoming dividends, stock splits and bonuses this week: HDFC Bank, Gillette India and Vedanta among others in focus",Upstox,-0.02412436343729496
+2025-08-28 07:00:00+00:00,HDFC Bank Doubles Capital with 767.7 Cr Bonus Shares,HDFC Sky,0.39558712765574455
+2025-08-26 07:00:00+00:00,HDFC Bank shares adjust to bonus issue: Did the stock actually plunge 50% in one day?,Moneycontrol,-0.017592892050743103
+2025-08-26 07:00:00+00:00,HDFC Bank shares fall after adjusting to bonus issue — Here's All You Need To Know,CNBC TV18,-0.5408636834472418
+2025-08-26 07:00:00+00:00,1:1 Bonus Issue On August 26: Why HDFC Bank Stock Dropped 51% After Turning Ex-Bonus For 1st Time? BUY Ahead?,Goodreturns,-0.9459176547825336
+2025-07-20 07:00:00+00:00,HDFC Bank Bonus Issue: A Sweet Deal or Market Trap?,Equitymaster,-0.0008557550609111786
+2025-07-16 07:00:00+00:00,"HDFC Bank Share Price Today NSE, BSE: Stock gains as board to consider special dividend, bonus issue soon",India TV News,0.504725381731987
+2025-08-26 07:00:00+00:00,Did HDFC Bank shares really fall 50%? Here’s what actually happened,Zee Business,-0.3143719621002674
+2025-07-21 07:00:00+00:00,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains",Reuters,0.8810037225484848
+2025-07-21 07:00:00+00:00,HDFC Bank first-ever 1:1 bonus issue: Bank announces Rs 5 special dividend; here’s what it means for inve,The Times of India,0.07294074166566133
+2025-08-28 07:00:00+00:00,HDFC Bank shares dip 2% after 1.56 million shares change hands in block deal after bonus adjustment,The Economic Times,-0.9314281921833754
+2025-08-03 07:00:00+00:00,"58,566% Gains, 2 Splits: BUY Crorepati-Making Stock HDFC Bank Ahead Of First 1:1 Bonus, 500% Special Dividend?",Goodreturns,0.07374131120741367
+2025-07-22 07:00:00+00:00,HDFC Bank shares jump 3% in 2 days after Q1 results. 5 reasons behind the move,The Economic Times,0.05943335220217705
+2025-08-16 07:00:00+00:00,1:1 Bonus Issue: Why BUY HDFC Bank Shares Ahead Of Mega First Bonus Record Date? Target Rs 2300,Goodreturns,0.0273686945438385
+2025-07-21 07:00:00+00:00,"HDFC Bank, ICICI Bank lead India's stock benchmarks higher, Reliance caps gains",TradingView,0.8810037225484848
+2025-07-19 07:00:00+00:00,HDFC Bank Q1 Results: India's biggest private lender announces first-ever bonus share issue at 1:1 ratio. Check details,Mint,0.20122788101434708
+2025-08-26 07:00:00+00:00,"HDFC Bank Shares To Trade Ex-Bonus Today, Share Price To Halve — Check Allotment Date",NDTV Profit,0.2598290741443634
+2025-08-16 02:12:00+00:00,HDFC Bank vs Bank Of India: Which bank stock you should buy?,MSN,0.01698172837495804
+2025-12-17 08:00:00+00:00,HDFC Bank Gets RBI Nod to Raise Stake in IndusInd Bank: What Does it Mean?,Equitymaster,0.030459560453891754
+2025-08-20 07:00:00+00:00,"HDFC Bank, Jio Financial Services among top stocks bought and sold by Quant Mutual Fund in July",The Economic Times,0.1308343280106783
+2025-08-26 07:00:00+00:00,HDFC Bank Share Price: Stock tumbles 50% after adjusting to bonus issue - Check details,India TV News,-0.9587180791422725
+2025-07-16 07:00:00+00:00,HDFC Bank to consider first-ever bonus share issue on July 19; stock reacts positively,Fortune India,-0.1545920968055725
+2025-08-26 07:00:00+00:00,"Stocks to Watch Today: HDFC Bank, Paytm, Vikram Solar, Patel Retail, Sai Life Sciences, Protean eGOV, UCO...",Moneycontrol,0.04967528488487005
+2025-09-23 07:00:00+00:00,HDFC Bank declares date to announce Q2 results 2025. Details here,Mint,-0.008612191304564476
+2025-12-02 08:00:00+00:00,"Sensex opens 300 points lower, Nifty below 26,200; HDFC Bank down 2%",India Today,-0.959904314018786
+2025-10-30 07:00:00+00:00,One stock that will be a good buy for next 5 years in India [2030],getmoneyrich,0.6830883966758847
+2025-12-12 08:00:00+00:00,HDFC Bank - Motilal Oswal picks 10 stocks to buy for what it sees as multi-trillion dollar opportunity,The Economic Times,0.2209006492048502
+2025-09-01 07:00:00+00:00,SBI vs HDFC Bank: Which banking giant is ahead after Q1 results?,The Financial Express,0.09111394546926022
+2025-11-21 08:00:00+00:00,How a finance firm became India's most valued brand,The Economic Times,0.14671123400330544
+2025-10-20 07:00:00+00:00,"Why HDFC Bank, ICICI Bank shares moved opposite after quarterly results | Business News",Hindustan Times,-0.40986911579966545
+2025-11-26 08:00:00+00:00,"Buy or sell: Stock recommendation by brokers for November 26, 2025",The Times of India,-0.002180039882659912
+2025-07-20 07:00:00+00:00,You Can Now Own HDFC Bank Share For Around Rs 1000 Per Share After This Date....,NDTV Profit,0.035648202523589134
+2025-12-17 08:00:00+00:00,SBI Mutual Fund Portfolio: HDFC Bank and 9 other top stock holdings and November allocation updates,Trade Brains,0.0075278449803590775
+2025-12-11 08:00:00+00:00,"HDFC Bank Records ₹206.14 Crore Block Trade on NSE at ₹1,002 Per Share",scanx.trade,-0.028258778154850006
+2025-08-26 07:00:00+00:00,"Stocks making big moves midday: HDFC Bank, Vodafone Idea, Maruti Suzuki and more",The Financial Express,0.18227535299956799
+2025-10-23 07:00:00+00:00,HDFC Bank Vs ICICI Bank: Which private lender holds the edge stepping into H2FY26?,The Financial Express,0.12034266907721758
+2025-11-19 08:00:00+00:00,"HDFC Bank tops India's most valued brands for 2025, overtaking TCS",Business Standard,0.8836737256497145
+2025-10-20 07:00:00+00:00,"Stock To BUY, SELL or HOLD Today, Brokerages' CALL: ICICI Bank, HDFC Bank, India Cement, UltraTech Cement and more",ET Now,0.0043830592185258865
+2025-07-21 07:00:00+00:00,"HDFC Bank Share Price: Stock surges post Q1 results, bonus and dividend announcement - Do you own?",India TV News,0.0589805468916893
+2025-12-16 08:00:00+00:00,"Stocks in Focus: Zydus Life, SBI, HDFC Bank, BL Kashyap, and Others",Equitypandit,0.0019246134907007217
+2025-07-19 07:00:00+00:00,"HDFC Bank Bonus, Special Dividend: Board approves 1:1 issue, special dividend of ₹5",CNBC TV18,0.10528022143989801
+2025-12-15 08:00:00+00:00,IndusInd Bank: HDFC Bank Gets RBI Approval To Acquire Up To 9.50% Stake,scanx.trade,0.6803073538467288
+2025-12-26 08:00:00+00:00,"PSU banks are quietly eating private banks’ lunch? Motilal Oswal says HDFC Bank, ICICI Bank, SBI and AU Ba",The Economic Times,-0.0837196558713913
+2025-11-18 08:00:00+00:00,"India Ratings Reaffirms HDFC Bank's 'AAA' Rating, Assigns 'A1+' to New Certificates of Deposit",scanx.trade,0.5293243359774351
+2025-07-22 07:00:00+00:00,"Stock markets rebound on buying in HDFC Bank, ICICI Bank",The Hans India,0.546955794095993
+2025-07-22 07:00:00+00:00,"Stocks making the biggest moves mid-day: Eternal, Swiggy, Paytm, HDFC Bank and more",The Financial Express,0.1401824913918972
+2025-07-17 07:00:00+00:00,HDFC Bank chief Sashidhar Jagdishan is India's best-paid banker of FY25,The Economic Times,0.3390527069568634
+2025-07-17 07:00:00+00:00,HDFC Bank CEO highest paid banker in FY25; takes home Rs 12 crore - check how much other top bank bosses,The Times of India,0.14586549624800682
+2025-12-16 08:00:00+00:00,"From SBI, HDFC Bank, MTNL to Zydus Lifesciences – Here are 11 stocks to watch",The Financial Express,0.002528306096792221
+2025-12-19 11:43:00+00:00,"HDFC Bank, ITC to Havells: Eight stock bets of India's biggest FIIs you must know",MSN,0.02796139195561409
+2025-08-16 07:00:00+00:00,HDFC Bank vs Bank Of India: Which bank stock you should buy?,ET Now,0.01698172837495804

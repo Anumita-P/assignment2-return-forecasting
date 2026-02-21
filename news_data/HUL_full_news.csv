@@ -1,0 +1,625 @@
+date,headline,source,sentiment
+2020-05-07 07:00:00+00:00,Glaxo to sell 6% in HUL for Rs 26k cr,The Times of India,0.053899976424872875
+2020-04-09 07:00:00+00:00,"HUL, Nestlé India stocks suggest no covid-19 impact for some firms",Mint,-0.269991472363472
+2020-04-12 07:00:00+00:00,"HUL, the superstock? Safe haven demands, better earnings attract investors",Business Standard,0.7791225928813219
+2020-05-06 07:00:00+00:00,"GSK Pte, Horlicks to sell 5.7% in HUL for $3.3 bn",The Hindu,0.026557247154414654
+2020-05-07 07:00:00+00:00,GlaxoSmithKline sells $3.35B Unilever India stake in unwinding of consumer health business,Fierce Pharma,0.10512700956314802
+2020-04-02 07:00:00+00:00,"HUL completes merger with GSK consumer healthcare, to now own Horlicks brand",The News Minute,0.09168511629104614
+2020-06-25 07:00:00+00:00,"Why HUL might not withdraw Fair & Lovely — nearly Rs 4,100 crore annual revenue from India alone",Moneycontrol,-0.040341731160879135
+2020-05-28 07:00:00+00:00,ITC vs HUL – Which One is Better? Valuation Angle,Invest Yadnya,0.12073446251451969
+2020-02-25 08:00:00+00:00,HUL sets up wholly owned manufacturing subsidiary,The Times of India,0.04258883465081453
+2020-02-25 08:00:00+00:00,"HUL to set up new manufacturing arm, move to help co avail lower 15% tax",Mint,0.8969270773231983
+2020-04-30 07:00:00+00:00,Hindustan Unilever trades lower for third straight day ahead of Q4 results,Business Standard,-0.9544177483767271
+2020-04-02 07:00:00+00:00,"HUL now owns Horlicks, Boost",The Times of India,0.01107269711792469
+2020-05-08 07:00:00+00:00,How GSK-HUL deal has ended up being a win-win for shareholders,Mint,0.08116895891726017
+2020-04-22 07:00:00+00:00,Hindustan Unilever's valuation premium over peers hits record high,Business Standard,0.8947495324537158
+2020-06-25 07:00:00+00:00,Hindustan Unilever to drop 'Fair' from 'Fair & Lovely',The Times of India,-0.6733237728476524
+2020-06-02 07:00:00+00:00,Production at 80-90% of normative levels: Hindustan Unilever,Mint,0.04302881099283695
+2020-04-03 07:00:00+00:00,HUL pips HDFC Bank to 3rd spot in market capitalisation; RIL remains on top,Business Standard,0.9264125525951385
+2020-07-01 07:00:00+00:00,HUL in talks to shift supply from China,The Times of India,0.672667033970356
+2020-03-24 07:00:00+00:00,HUL to buy VWash from Glenmark,The Times of India,0.05167941935360432
+2020-06-25 07:00:00+00:00,HUL in a spot as J&J exits fairness line,The Times of India,0.05585490167140961
+2020-06-26 07:00:00+00:00,Hindustan Unilever to drop ‘fair’ from ‘Fair & Lovely',The Times of India,-0.3794868625700474
+2020-06-25 07:00:00+00:00,HUL to rebrand Fair & Lovely cream as criticism heaps on fairness products,The Times of India,-0.9076150972396135
+2020-05-07 07:00:00+00:00,GSK sells $3.4 billion Hindustan Unilever stake in largest India block trade,Reuters,0.05056235194206238
+2020-04-07 07:00:00+00:00,"Market Wrap, April 7: Here's all that happened in the markets today",Business Standard,-0.028218843042850494
+2020-05-13 07:00:00+00:00,Why Nestle India stock fell despite strong March quarter results,Mint,-0.9515007454901934
+2020-06-03 07:00:00+00:00,Capacity utilisation stands at 90% of pre-Covid levels: Hindustan Unilever,Business Standard,0.08136321324855089
+2020-06-26 07:00:00+00:00,HUL completes acquisition of female hygiene brand VWash from Glenmark,The Economic Times,0.20265413634479046
+2020-03-24 07:00:00+00:00,"Glenmark Divests VWash, A Female Intimate Hygiene Wash, to Hindustan Unilever",The Times of India,0.0532858781516552
+2020-03-02 08:00:00+00:00,"GSK Consumer merger sets stage for Hindustan Unilever, Nestle face-off",Business Standard,-0.02882133424282074
+2020-02-25 08:00:00+00:00,Hindustan Unilever gains 2% as board approves formation of a new subsidiary,Business Standard,0.8910760749131441
+2020-02-28 08:00:00+00:00,"Hindustan Unilever, Nestle India top access to nutrition rankings",Mint,0.5805370025336742
+2020-06-01 07:00:00+00:00,"Sensex rallies 879 points, Nifty ends above 9,800 as India unlocks",Mint,0.7185400202870369
+2020-02-19 08:00:00+00:00,HUL to list ice cream pushcarts on Swiggy,Mint,0.007564648985862732
+2020-05-04 07:00:00+00:00,"Sensex closes 2,000 points lower, Nifty below 9,300; Banks, auto stocks bleed",Mint,-0.9400290790945292
+2020-02-03 08:00:00+00:00,"Market Wrap, Feb 3: Sensex gains 137 pts, Nifty ends above 11,700",Business Standard,0.8672902323305607
+2020-01-06 08:00:00+00:00,Patent office rejects Tatas' plea for Swach water purifier,The Times of India,-0.18527357280254364
+2020-04-08 07:00:00+00:00,"Sensex, Nifty end 0.5% lower in tospy-turvy market",Mint,-0.9500819854438305
+2020-03-28 07:00:00+00:00,Kirana stores find it hard to pay for stock,The Times of India,-0.8162758518010378
+2020-04-07 07:00:00+00:00,"2,476 points: Sensex posts its biggest one-day gain in over 10 years",Mint,0.8941026199609041
+2020-04-09 07:00:00+00:00,"Nifty reclaims 9,100, Sensex closes 1,265 points higher; M&M, Maruti top gainers",Mint,0.8427186347544193
+2020-04-01 07:00:00+00:00,Horlicks has a new owner! HUL completes merger with GSK,Business Today,0.10018057469278574
+2020-06-25 07:00:00+00:00,The dark politics of fairness products in India,Mint,-0.11154541373252869
+2020-01-06 08:00:00+00:00,Patent office rejects Tatas’ plea for Swach water purifier,The Times of India,-0.3049459680914879
+2020-02-27 08:00:00+00:00,"Nifty ends Feb series below 11,650, Sensex falls 143 pts; Sun Pharma up 3%",Moneycontrol,-0.7981602698564529
+2020-01-11 08:00:00+00:00,Trivago replaces Vaseline to emerge as the most advertised brand in Week 53: BARC,The Financial Express,0.7692895941436291
+2020-02-19 08:00:00+00:00,"MARKET WRAP: Indices snap 4-day losing streak, Sensex ends 429 pts higher",Business Standard,-0.8500713557004929
+2020-04-30 07:00:00+00:00,"Closing Bell: Nifty ends April series above 9,850, Sensex gains 997 pts; Tata Motors up 19%",Moneycontrol,0.8436205945909023
+2020-02-25 08:00:00+00:00,"India's rise as a prosperous democratic nation inspiring, says Trump",Mint,0.8766162674874067
+2020-05-08 07:00:00+00:00,"Karnataka permits bars, clubs to sell liquor at MRP",Mint,0.01693597435951233
+2020-09-21 07:00:00+00:00,Hindustan Unilever hits over 3-month low; stock falls 12% in 2 months,Business Standard,-0.9529461804777384
+2020-10-02 07:00:00+00:00,SBI partners HUL for supply chain financing,The Times of India,0.05769484769552946
+2020-10-28 07:00:00+00:00,"What’s in a name? If it’s all Glow and Lovely, HUL wouldn’t mind",Moneycontrol,0.009489906951785088
+2020-12-07 08:00:00+00:00,Consumer goods CFO: Focused on growth and capturing Indian market,Financial Management magazine,0.059961291030049324
+2020-07-10 07:00:00+00:00,"Sensex ends 143 points lower, Nifty below 10,800; RIL, HUL top gainers",Mint,-0.9324829801917076
+2020-10-20 07:00:00+00:00,Unilever’s India Sales Jump Most Since 2011 on Rural Demand,Bloomberg.com,0.4264872372150421
+2020-12-25 08:00:00+00:00,"In a first for India Inc, HUL to help staff facing domestic abuse",The Times of India,0.7657539146021008
+2020-07-02 07:00:00+00:00,HUL's Fair & Lovely rebranded as Glow & Lovely; men's range renamed as Glow & Handsome,Business Today,0.025930747389793396
+2020-07-21 07:00:00+00:00,What does HUL Q1 result tell us about India’s consumption during the lockdown,Moneycontrol,0.007176002487540245
+2020-07-03 07:00:00+00:00,HUL’s ‘Fair & Lovely’ is now ‘Glow & Lovely’,Mint,0.023928239941596985
+2020-11-16 08:00:00+00:00,Market capitalisation of 8 of top-10 most valued firms zooms Rs 1.9 trn,Business Standard,0.20761814061552286
+2020-07-01 07:00:00+00:00,HUL in talks to shift supply from China,The Times of India,0.672667033970356
+2020-09-11 07:00:00+00:00,"Nifty holds 11,450; TCS, HUL push Sensex a tad higher",Mint,0.868449192494154
+2020-11-26 08:00:00+00:00,"Sensex at 44,000: Five wrong reasons to invest in equities now",Moneycontrol,-0.3943747319281101
+2020-12-09 08:00:00+00:00,"BE Exclusive: Hindustan Unilever's plans to make Horlicks 'taller, stronger, sharper'",ET BrandEquity,0.6835813019424677
+2020-08-24 07:00:00+00:00,Q1 results reveal how covid-proof FMCG companies are,Mint,0.09018677473068237
+2020-07-03 07:00:00+00:00,HUL’s ‘Glow & Lovely’ sparks brand row with rival Emami in men’s segment,The Times of India,0.5712247788906097
+2020-10-01 07:00:00+00:00,"SBI, HUL partner to provide digital solutions to small retailers",Mint,0.3128429278731346
+2020-07-02 07:00:00+00:00,HUL rebrands Fair & Lovely as Glow & Lovely after dropping word 'fair',The Times of India,0.05283248983323574
+2020-08-03 07:00:00+00:00,"AP govt ties up with ITC, HUL and P&G for women's economic empowerment",The Times of India,0.7282119560986757
+2020-11-03 08:00:00+00:00,"Share Market Highlights: Sensex ends 500 points higher, Nifty at 11,813; NTPC, BPCL, HUL top gainers",Business Today,0.8914161957800388
+2020-07-05 07:00:00+00:00,The big disruption for the cream of creams,Mint,-0.1530931070446968
+2020-10-23 07:00:00+00:00,"Indian markets end higher for the week, Nifty holds 11,900; auto stocks zoom",Mint,0.8933056332170963
+2020-12-24 08:00:00+00:00,"RIL top wealth creator, Infosys fastest over 25 years",The Times of India,0.14106154069304466
+2020-12-22 08:00:00+00:00,EIL shareholders approve ₹587 crore share buyback plan,Mint,0.09376827999949455
+2020-09-14 07:00:00+00:00,Business briefs 3,The Times of India,-0.031756747514009476
+2020-12-15 08:00:00+00:00,"Sensex recovers 421 pts to end at 46,263, Nifty at 13,566; Bajaj Finance top gainer",Mint,0.2863282561302185
+2020-07-22 07:00:00+00:00,"Markets snap five days of gains; Sensex, Nifty end in the red",Mint,0.8690007887780666
+2020-07-02 07:00:00+00:00,Fair & Lovely Gets A New Name — Glow & Lovely. Emami Fumes,NDTV Profit,0.03808910399675369
+2020-07-22 07:00:00+00:00,.HUL shuts 3 factories after workers test covid positive; sanitisation on,Mint,-0.9576716050505638
+2020-12-21 08:00:00+00:00,Groupo Bimbo strikes deal to buy Everstone Capital backed Modern Foods,Moneycontrol,0.350010110065341
+2020-07-13 07:00:00+00:00,Soap makers ride hygiene focus,Mint,0.05046842806041241
+2020-09-19 07:00:00+00:00,HUL vs Dabur vs Colgate-Palmolive vs ITC: A comparison,Business Today,0.185588832013309
+2020-07-27 07:00:00+00:00,'Whitening' creams undergo a makeover but colourism persists,Mint,0.11197731643915176
+2020-10-09 07:00:00+00:00,"Share Market Highlights: Sensex ends 326 points higher, Nifty at 11,914 as RBI keeps repo rate unchanged at 4%",Business Today,0.6117954552173615
+2020-07-24 07:00:00+00:00,Indian Railways to fit all train wagons with RFID Tags,Mint,0.18559471517801285
+2020-12-06 08:00:00+00:00,Rising copper prices suggest that a strong economic revival is underway,Mint,0.9284578710794449
+2020-09-07 07:00:00+00:00,"MARKET WRAP: Indices end flat, Sensex up 60 pts; ITC, TCS rise nearly 2%",Business Standard,0.24819225072860718
+2021-01-28 08:00:00+00:00,"Hindustan Unilever: Good going, is it worth chasing the stock?",Moneycontrol,0.08870477601885796
+2021-04-29 07:00:00+00:00,"Hindustan Unilever reports 13% rise in Q4 net at Rs 2,190 crore",The Times of India,0.921165881678462
+2021-03-03 08:00:00+00:00,Comparison of Top 5 FMCG Companies,Invest Yadnya,0.03397204540669918
+2021-03-03 08:00:00+00:00,HUL (Case Study) - Know the Fundamentals in 5 minutes!,Trade Brains,0.029606038704514503
+2021-07-01 07:00:00+00:00,HUL's Geetika Mehta joins Hershey India as managing director,Mint,-0.0009629577398300171
+2021-02-15 08:00:00+00:00,Hindustan Unilever expects Covid impacted products to rebound in 2021,Business Standard,0.9350318349897861
+2021-06-02 07:00:00+00:00,HUL sets up fully owned subsidiary Unilever India Ltd to save on corporate tax,The Economic Times,0.052526673302054405
+2021-01-21 08:00:00+00:00,"Sensex at 50,000: Six stocks that have been part of the index's dream run",Business Today,0.026915648952126503
+2021-02-01 08:00:00+00:00,"Stocks to watch on Budget Day 2021: Maruti, HUL, Britannia, Indian Oil, more; these sectors in focus",The Financial Express,-0.004882162436842918
+2021-06-26 07:00:00+00:00,Top 7 Best FMCG Company Stocks To Invest in India 2021,Goodreturns,0.16634985990822315
+2021-05-07 07:00:00+00:00,Tata Consumer Shares Slump. What Should Investors Do?,Equitymaster,-0.8387762466445565
+2021-03-30 07:00:00+00:00,‘Shakti’ network powers HUL’s rural growth,The Times of India,0.22175342496484518
+2021-01-25 08:00:00+00:00,Sebamed sticks to pH value in frothy spat with HUL over soap ad,Moneycontrol,0.048718661069869995
+2021-02-15 08:00:00+00:00,"From here on, can anything at all fire up the sulking ITC stock?",Mint,-0.31793876364827156
+2021-01-11 08:00:00+00:00,Bombay HC grants temporary relief to HUL in ad spat with SebaMed,The Economic Times,0.6773832850158215
+2021-05-12 07:00:00+00:00,HUL veteran Sitapati to head Godrej Consumer,The Times of India,0.061320774257183075
+2021-01-21 08:00:00+00:00,"India's biggest FMCG company, Hindustan Unilever to upskill all employees by 2025",The Economic Times,-0.12546843476593494
+2021-02-26 08:00:00+00:00,HUL to be plastic waste-neutral this year,The Times of India,0.21004584804177284
+2021-01-20 08:00:00+00:00,Sebamed vs HUL: HC says no fault in ad,The Times of India,0.13312122970819473
+2021-01-25 08:00:00+00:00,"Buy Hindustan Unilever, target price Rs 2525: Motilal Oswal",The Economic Times,0.035346295684576035
+2021-04-22 07:00:00+00:00,"Happy 25th Birthday, Nifty50! So what has changed & what hasn’t",The Economic Times,-0.03599953278899193
+2021-01-21 08:00:00+00:00,Unilever vows living wage for all in value chain by 2030,The Times of India,0.1574701750651002
+2021-06-21 07:00:00+00:00,"Mondelez, HUL partner to launch Crackle ice-cream under Kwality Wall’s",Mint,0.2007146030664444
+2021-06-02 07:00:00+00:00,ITC Shares Fall as Company Reports a Decline in Net Profit,Equitymaster,-0.9614939447492361
+2021-06-16 07:00:00+00:00,Top 5 FMCG Stocks Quantitative Analysis,Invest Yadnya,-0.005422018468379974
+2021-06-08 07:00:00+00:00,FMCG CEO Salaries: Who took a cut and who got a hike in FY21,Moneycontrol,-0.4820869117975235
+2021-06-22 07:00:00+00:00,Growth firms see plastic waste as an investment opportunity,Mint,0.18438334856182337
+2021-06-02 07:00:00+00:00,Zerodha updates ‘Nudge’ feature on its Console platform; details here,Mint,0.05961708351969719
+2021-05-19 07:00:00+00:00,"Hindustan Unilever to provide free oxygen concentrators in Delhi, Bengaluru",Business Standard,0.3684666948392987
+2021-01-12 08:00:00+00:00,HC bars Sebamed ad that mocked HUL soap brands,Mint,-0.22159921377897263
+2021-05-12 07:00:00+00:00,"Godrej Consumer Share Price soars 22%, hits UPPER CIRCUIT; Jefferies says BUY, price target Rs 1000",Zee Business,0.8580176308751106
+2021-03-27 07:00:00+00:00,What is Portfolio Backtesting? How to Perform it on Indian Stocks?,Trade Brains,0.015188399702310562
+2021-02-25 08:00:00+00:00,Indian arm of Mexican company buys Modern Foods,The Times of India,0.054540970362722874
+2021-01-12 08:00:00+00:00,"Sebamed may have made a point in ad against HUL's Dove, but was it worth it?",Moneycontrol,-0.027182303369045258
+2021-06-14 07:00:00+00:00,"Currency update: Rupee slips against dollar, euro",Mint,-0.9301357306540012
+2021-02-18 08:00:00+00:00,"Share Market Highlights: Sensex ends 379 points lower, Nifty at 15,118; Maruti, TCS, Axis Bank top losers",Business Today,-0.9237582888454199
+2021-03-22 07:00:00+00:00,How Ambani's Snac tac is giving Maggi a run for its money in India's retail market,Mint,0.25526329688727856
+2021-05-12 07:00:00+00:00,Godrej Consumer shares surge over 20%; what's got investors excited?,theweek.in,0.7240625973790884
+2021-01-27 08:00:00+00:00,Skincare brand Sebamed aims to grow 10 times in next 5 years,Mint,0.8006904358044267
+2021-01-28 08:00:00+00:00,"Sensex, Nifty crack 1% after GameStop effect sinks US markets",theweek.in,0.352411687374115
+2021-03-01 08:00:00+00:00,"Telco industry bid adieu to growth for 5 years, as Jio moved to top spot",Mint,0.9061417710036039
+2021-08-31 07:00:00+00:00,Winning in many Indias: Lessons in growth from Hindustan Unilever,Unilever,0.12845515087246895
+2021-07-23 07:00:00+00:00,Hindustan Unilever's Quarterly Results Fail to Impress. Stock Dips,Equitymaster,-0.9484264021739364
+2021-08-20 07:00:00+00:00,HUL market value tops Rs 6 lakh crore as shares hit record high,CNBC TV18,0.8855614010244608
+2021-07-23 07:00:00+00:00,"What should investors do with HUL post Q1 results: buy, sell or hold?",Moneycontrol,-0.007291903719305992
+2021-07-22 07:00:00+00:00,Hindustan Unilever Quarterly Results: Net Profit Up 10%,Groww,0.9307419322431087
+2021-09-13 07:00:00+00:00,Hindustan Unilever's vision may bump up against steep valuations | Stock Market News,Mint,0.8359230235219002
+2021-12-10 08:00:00+00:00,"Flexi sop, safety net for staff, gig workers: HUL",The Times of India,0.05367795750498772
+2021-09-14 07:00:00+00:00,"Analysts see 20% upside in this FMCG stock on strong outlook, product mix",Business Standard,0.9196243360638618
+2021-08-21 07:00:00+00:00,HUL's Marketcap Tops Rs 6 Tn. Key Factors Driving the Stock,Equitymaster,0.10510945972055197
+2021-09-07 07:00:00+00:00,"Surf Excel, Rin, Lifebuoy Will Now Cost More As Hindustan Unilever Hikes Prices Of Its Products | Check Price",India.Com,-0.08693984150886536
+2021-09-14 07:00:00+00:00,Table Talk series: In conversation with HUL's Sanjiv Mehta,BusinessLine,0.03625668212771416
+2021-09-09 07:00:00+00:00,HUL shares move towards record high; all eyes on annual investor meet,CNBC TV18,0.21778469160199165
+2021-10-25 07:00:00+00:00,Explained: Why ICICI Bank stock hit record high today,India Today,0.5903314538300037
+2021-10-19 07:00:00+00:00,Market LIVE: Sensex opens at a record high of 62K; HUL in focus | Stock Market News,Mint,0.06851645931601524
+2021-10-19 07:00:00+00:00,"Closing Bell: Indices end flat after hitting record highs; realty, FMCG, metal drag",Moneycontrol,-0.8479148726910353
+2021-07-24 07:00:00+00:00,Domex targets Harpic in ad,The Times of India,0.07585563324391842
+2021-11-26 08:00:00+00:00,"Hindustan Unilever has strong pricing power, positive on stock: Edelweiss Securities’ Abneesh Roy",CNBC TV18,0.5726518593728542
+2021-07-01 07:00:00+00:00,HUL's Geetika Mehta joins Hershey India as managing director,Mint,-0.0009629577398300171
+2021-12-29 08:00:00+00:00,"HUL, Colgate-Palmolive yet to respond on margin parity with B2B entities: Distributors’ federation",Moneycontrol,0.4134902134537697
+2021-10-15 07:00:00+00:00,Dussehra Picks: Experts recommend these 10 stocks based on fundamentals,Moneycontrol,0.07427623681724072
+2021-12-17 08:00:00+00:00,Top 10 Sectors For Long-Term Investment In India (2025–2035),Samco,0.05555168353021145
+2021-11-15 08:00:00+00:00,HUL Designates Ashu Suyash as an Independent Director on Its Board,Indian Retailer,0.006524654105305672
+2021-12-06 08:00:00+00:00,Top 5 FMCG Stocks- Quantitative Analysis,Invest Yadnya,0.011607373133301735
+2021-08-20 07:00:00+00:00,"Taking Stock: Weak global cues push Nifty below 16,500; India VIX up over 8%",Moneycontrol,0.48577095568180084
+2021-12-31 08:00:00+00:00,"Sensex ends 460 pts up, Nifty tops 17,350 on last day of year; Metal, Auto surge",Mint,0.5206147730350494
+2021-09-09 07:00:00+00:00,Highest-paid FMCG CEO: Check who takes home Rs 17.19 crore,Moneycontrol,0.03001600131392479
+2021-10-19 07:00:00+00:00,Nifty forms a bearish candle on daily chart. What does it signal for tomorrow's trade?,The Economic Times,-0.13408371061086655
+2021-12-31 08:00:00+00:00,"Share Market LIVE: Sensex rallies 460 pts, Nifty tops 17350 on Friday; indices rally up to 24% in CY2021",The Financial Express,0.9107895288616419
+2021-10-27 07:00:00+00:00,"Stock Market Updates: Sensex gains 150 points, Nifty above 18,300; Asian Paints zooms 5%",Business Today,0.888736080378294
+2021-07-23 07:00:00+00:00,10 Popular Foreign MNC Stocks Listed In India,Goodreturns,0.013218678534030914
+2021-08-25 07:00:00+00:00,Infosys Becomes Fourth Indian Company To Hit $100 Billion Market Capitalisation,Swarajyamag,0.7998390793800354
+2021-10-04 07:00:00+00:00,"Share Market: Sensex Ends 534 Points Higher, Nifty Closes Near 17,700",India.Com,0.5694640725851059
+2021-08-20 07:00:00+00:00,Broader indices fall 2%; Nifty Metal skids 6% on global growth concerns,Business Standard,-0.953407340683043
+2021-07-06 07:00:00+00:00,Et tu! HUL and P&G; FMCG firms bring pods to Indian households but with a twist,The Financial Express,0.13050955440849066
+2021-07-24 07:00:00+00:00,Mutual fund calculator: How much SIP you need to get ₹2.5 lakh monthly income,Mint,0.0036322586238384247
+2022-03-22 07:00:00+00:00,HUL stock nears 52-week low; will it recover?,Business Today,-0.8596382141113281
+2022-03-22 07:00:00+00:00,"HUL share price tanks over 16% YTD as inflation affects consumption; should you buy, sell or hold?",The Financial Express,-0.0800221897661686
+2022-04-28 07:00:00+00:00,HUL Shares Surge Most In Seven Weeks Despite Target Price Cut After Q4 Results,NDTV Profit,0.8318285569548607
+2022-04-28 07:00:00+00:00,"HUL becomes 1st FMCG company to hit Rs 50,000 crore business for full year, Q4 net up 9%",The Times of India,0.9216138776391745
+2022-04-28 07:00:00+00:00,"HUL’s Three Brands Enter Rs 2,000 Cr Club in FY22",Equitypandit,0.06667707022279501
+2022-04-21 07:00:00+00:00,Bargain Hunting in the Current Market? Look Out for these 5 Dig Deeper Stocks,Equitymaster,0.05444652959704399
+2022-01-25 08:00:00+00:00,HUL says India continues to be among top 3 priority markets for Unilever,Business Standard,0.8037279774434865
+2022-03-22 07:00:00+00:00,HUL in discussion to buy MDH | Company Business News,Mint,0.020873330533504486
+2022-06-23 07:00:00+00:00,"Hindustan Unilever AGM: Committed to achieving net-zero emissions for products by 2039, says Chairman",CNBC TV18,0.8602421674877405
+2022-04-28 07:00:00+00:00,"Stock Market Closing: Nifty ends above 17,200, Sensex adds around 700 points; HUL top gainer",Zee Business,0.8731602840125561
+2022-03-22 07:00:00+00:00,HUL in race to buy majority stake in MDH Spices; stock tanks 4%,Business Today,0.1452778596431017
+2022-06-25 07:00:00+00:00,"India facing difficult economic situation, needs astute handling: HUL chairman Nitin Paranjpe",The Times of India,0.1187486033886671
+2022-01-29 08:00:00+00:00,These 7 Companies have been part of the BSE Sensex since 1986...,Equitymaster,0.020190349780023098
+2022-06-20 07:00:00+00:00,"Sensex jumps 237 pts, Nifty ends above 15,350; HUL, HDFC rise, Tata Steel drags",Mint,0.6949737817049026
+2022-04-11 07:00:00+00:00,Top 5 Consumption Stocks to Add to Your Watchlist,Equitymaster,0.023132067173719406
+2022-03-15 07:00:00+00:00,"N Chandrasekaran is Air India chief, HUL's Mehta on board",The Times of India,0.006600221619009972
+2022-06-29 07:00:00+00:00,"Sensex drops 150 pts, Nifty ends around 15,800; Reliance, NTPC rally, HUL drags",Mint,-0.8880111612379551
+2022-06-18 07:00:00+00:00,"Soap ad case: HC’s relief for HUL, Wipro",The Times of India,0.18681534752249718
+2022-04-07 07:00:00+00:00,Is it the Right Time to Invest in Wheat Stocks in India?,Equitymaster,0.11477218847721815
+2022-04-28 07:00:00+00:00,"Stock Market LIVE Updates: Sensex jumps 701 points, Nifty ends above 17,200; FMCG stocks gain",The Times of India,0.7607582435011864
+2022-04-22 07:00:00+00:00,"Sensex tanks 715 pts, Nifty ends below 17,200; HUL, SBI top losers, banks bleed",Mint,-0.5150135457515717
+2022-01-17 08:00:00+00:00,GSK Consumer Healthcare-HUL merger in spotlight as GSK rejects Unilever bid,Mint,-0.6852161735296249
+2022-01-21 08:00:00+00:00,"Sensex ends 400 pts down, Nifty settles above 17.6k; most sectoral indices bleed",Mint,-0.9454211238771677
+2022-05-27 07:00:00+00:00,Why FMCG companies can’t shrink sachets anymore even as inflation bites,The Times of India,-0.03361169248819351
+2022-04-16 07:00:00+00:00,"‘Nobody sells their child’ — Story of MDH, an original Indian ‘start-up’ that won’t go to HUL",ThePrint,0.04732688143849373
+2022-03-31 07:00:00+00:00,"HUL Increases Prices of Surf Excel, Rin, Other products: Check How Much You Will Pay Now",India.Com,0.016302984207868576
+2022-06-20 07:00:00+00:00,"HDFC twins, HUL lift Sensex 237 pts; SmallCap index dips 3%; Metals plunge",Business Standard,-0.7956761419773102
+2022-03-31 07:00:00+00:00,"Sensex tumbles 115 pts, Nifty ends below 17,500 in choppy trade; M&M, HUL shine",Mint,-0.9008621089160442
+2022-01-14 08:00:00+00:00,"Share Market Updates: Sensex, Nifty close flat in volatile trade; Asian Paints, Axis Bank, HUL top losers",Business Today,0.004733443260192871
+2022-07-01 07:00:00+00:00,"Closing Bell: Market erases losses to end marginally lower; FMCG, realty gain, oil & gas drag",Moneycontrol,-0.7305652424693108
+2022-05-05 07:00:00+00:00,Adani Wilmar is now India's largest FMCG company | Stock Market News,Mint,0.26538062561303377
+2022-03-23 07:00:00+00:00,"Sensex ends in the red, Nifty below 17,250; auto stocks hit, metals up",Mint,0.4398331344127655
+2022-03-22 07:00:00+00:00,"Sensex ends over 1% higher, Nifty above 17,300; RIL, IT, oil & gas stocks gain",Mint,0.8752756528556347
+2022-01-20 08:00:00+00:00,"Sensex ends 630 pts down, Nifty settles under 17.8k; IT, Pharma, FMCG worst hit",Mint,-0.9515420170500875
+2022-04-20 07:00:00+00:00,How legal heirs can find out investments of their deceased kin,Mint,-0.009469924494624138
+2022-02-24 08:00:00+00:00,Are dividend stripping and bonus stripping provisions really required?,Mint,-0.23241816647350788
+2022-04-28 07:00:00+00:00,"F&O expiry: Nifty ends April series above 17,200; Sensex gains 702 pts",Business Standard,0.468341127038002
+2022-06-08 07:00:00+00:00,Top Rice and Wheat stocks in India - Industry Overview & Financials Explained!,Trade Brains,0.11740548629313707
+2022-03-25 07:00:00+00:00,Sunteck Realty case: Sebi reduces penalties on five entities,Business Standard,-0.9331958629190922
+2022-06-09 07:00:00+00:00,Bengaluru airport launches ultra-luxurious 080 lounges | See photos,Mint,0.12543893791735172
+2022-10-25 07:00:00+00:00,Why Hindustan Unilever's Q2 earnings failed to excite the market today,Business Today,-0.6956180781126022
+2022-10-07 07:00:00+00:00,HUL market cap at 67% of parent Unilever's,The Economic Times,0.10048195719718933
+2022-12-29 08:00:00+00:00,Shares of HUL Drops 6% in Eight Days,Equitypandit,-0.9638193575665355
+2022-09-20 07:00:00+00:00,Positive triggers factored into Hindustan Unilever's stock price,Business Standard,0.04486653953790665
+2022-12-09 08:00:00+00:00,"HUL to acquire stake in OZiva, Nutritionalab; stock hits record high",Fortune India,0.896202627569437
+2022-07-20 07:00:00+00:00,Hindustan Unilever rises as earnings top estimates and global brokerages raise targets,Moneycontrol,0.8640015423297882
+2022-07-19 07:00:00+00:00,"Hindustan Unilever Ltd Q1 net profit rises 14% to Rs 2,391 crore",The Times of India,0.9054788425564766
+2022-10-17 07:00:00+00:00,HUL goes shopping for brands to widen product portfolio | Company Business News,Mint,0.05850762128829956
+2022-10-31 07:00:00+00:00,Why HUL Share Price is Falling,Equitymaster,-0.24681628495454788
+2022-10-07 07:00:00+00:00,HUL’s Market Cap Hits 67% of Parent Co Unilever,Equitypandit,0.5809620823711157
+2022-09-19 07:00:00+00:00,"HUL a good pick for long-term, can rally up to 12%: Sharekhan",The Economic Times,0.9321367749944329
+2022-07-22 07:00:00+00:00,ITC vs HUL: Which FMCG major should you pick for the long term?,Mint,0.020743360742926598
+2022-10-18 07:00:00+00:00,ITC vs HUL: Which stock is a better pick in volatile market?,Business Today,0.04487060010433197
+2022-12-09 08:00:00+00:00,HUL buys stakes in two wellness brands for Rs 334cr,The Times of India,0.09163762629032135
+2022-09-26 07:00:00+00:00,"Hindustan Unilever gains 2%, hits over 11-month high in a weak market",Business Standard,0.8828909322619438
+2022-07-20 07:00:00+00:00,"Stocks to Watch Today | HUL, Wipro, Vedanta and others in news today",Moneycontrol,0.04475615359842777
+2022-08-30 07:00:00+00:00,HUL Will Provide Funds To Indian Start-ups Focusing On Solutions For Plastic Waste,Equitypandit,0.6746273832395673
+2022-11-19 08:00:00+00:00,Premium products account for 33% of HUL’s product portfolio,Mint,0.06558331102132797
+2022-10-17 07:00:00+00:00,HUL vs Godrej Consumer: Which stock is a better buy in volatile market?,Business Today,0.03656429797410965
+2022-09-30 07:00:00+00:00,'Afterness': Former HUL chairman Ashok Ganguly recalls life journey in memoir,The Times of India,0.051922643557190895
+2022-12-08 08:00:00+00:00,Hindustan Unilever to acquire 19.8% in Nutritionalab for ₹70 crore,Mint,0.07070916332304478
+2022-10-31 07:00:00+00:00,Indian arms of FMCG companies beat global parents in business,The Times of India,0.8605886828154325
+2022-08-30 07:00:00+00:00,HUL to offer grants to Indian startups working on plastic waste solutions,Mint,0.794801339507103
+2022-11-10 08:00:00+00:00,HUL and GSK Consumer to terminate distribution agreement for OTC products,ET HealthWorld,-0.9127010283991694
+2022-10-06 07:00:00+00:00,HUL is racing to outspeed B2B delivery firms,Mint,0.8286148458719254
+2022-09-17 07:00:00+00:00,India's 7 Most Favourite Stocks,Equitymaster,0.1429305262863636
+2022-12-08 08:00:00+00:00,Hindustan Unilever to acquire 100% in Zywie Ventures (Oziva) in two tranches,Mint,0.0962952058762312
+2022-07-06 07:00:00+00:00,Stock Market Erases Gains to Close in the Red,ClearTax Chronicles,-0.6215382069349289
+2022-07-19 07:00:00+00:00,"HUL beats estimates with Rs 2,381-cr net profit in Q1; revenue up 19.6%",Business Standard,0.9206377752125263
+2022-12-15 08:00:00+00:00,"Tata Steel, Titan and Apollo Hospitals among 28 Nifty stocks that saw MF buying in November",Business Today,0.053458984941244125
+2022-10-27 07:00:00+00:00,HUL says it does not manufacture or sell 'dry shampoos' in India,Mint,-0.0075120870023965836
+2022-12-08 08:00:00+00:00,HUL set for health and wellbeing foray with two investment deals,Business Standard,0.13884082157164812
+2022-12-07 08:00:00+00:00,Scoop: HUL & others in talks to buy Oziva; Swiggy may sack 250 employees this month,The Economic Times,-0.9474419383332133
+2022-11-09 08:00:00+00:00,Hindustan Unilever-GSK Consumer to terminate distribution agreement for OTC products by next year,The Economic Times,-0.8508596681058407
+2022-07-06 07:00:00+00:00,"Sensex jumps 616 pts; Nifty ends near 16,000; Bajaj twins, HUL top gainers",Mint,0.8638257794082165
+2022-12-08 08:00:00+00:00,HUL to acquire majority stake in OZiva and 19.8% in Wellbeing Nutrition,Business Standard,0.05923348758369684
+2022-10-11 07:00:00+00:00,Top Stocks Under Rs 3000 to add to your watchlist – Detailed Analysis,Trade Brains,0.02809268981218338
+2022-11-09 08:00:00+00:00,HUL and GSK Consumer to terminate distribution agreement for OTC products,The Times of India,-0.9127010283991694
+2022-10-18 07:00:00+00:00,Outperformance of Indian equities set to continue,Mint,0.9151651002466679
+2022-07-01 07:00:00+00:00,"Closing Bell: Market erases losses to end marginally lower; FMCG, realty gain, oil & gas drag",Moneycontrol,-0.7305652424693108
+2022-11-29 08:00:00+00:00,"ICICI Bank, HUL, ITC help lift Sensex 177 pts, Nifty above 18,600; PSBs dip",Business Standard,0.9025512635707855
+2022-07-06 07:00:00+00:00,"Sensex ends 617 pts up, Nifty near 16K; Bajaj twins gain 5%, HUL 4%",Business Standard,0.8703035078942776
+2022-10-10 07:00:00+00:00,"Sensex swings 760 pts, ends 200 pts down; Nifty holds 17,200; IT stocks up",Business Standard,-0.898950757458806
+2022-07-15 07:00:00+00:00,"Sensex snaps 4-day losing run, up 345 pts; Nifty tops 16K; Auto, FMCG lead",Business Standard,0.4562496393918991
+2022-09-19 07:00:00+00:00,"Sensex rises 300 pts, Nifty tops 17,600 despite global weakness; PSBs lead",Business Standard,0.8816531412303448
+2022-07-15 07:00:00+00:00,Meet the highest-paid FMCG CEO in India,Mint,0.08582299761474133
+2022-10-25 07:00:00+00:00,"Sensex snaps 7-day winning run, falls 288 pts; RIL slips 1.5%, Nestle 3%",Business Standard,-0.9428379852324724
+2023-01-20 08:00:00+00:00,Inside our markets: Unilever in India,Unilever,0.05494066700339317
+2023-02-17 08:00:00+00:00,HUL’s sale of 2-decade old brands unlikely to turn D-Street bitter,The Economic Times,0.5314723886549473
+2023-06-26 07:00:00+00:00,Hindustan Unilever shares rise ahead of AGM; board to consider dividend,Zee Business,0.4543522372841835
+2023-05-29 07:00:00+00:00,Head-to-Head: HUL and ITC stake equal claims to India's FMCG crown,Moneycontrol,0.09922932647168636
+2023-04-11 07:00:00+00:00,Unilever Tackles India’s Stock-Outs and Supply Chain Roadblocks With New Retail Partner Digital Platform,Consumer Goods Technology,0.28156033903360367
+2023-02-20 08:00:00+00:00,"HUL divests atta, salt business; stock up 1%",Fortune India,0.9033490847796202
+2023-04-19 07:00:00+00:00,"Stocks to buy on April 19, 2023: HUL, Tata Chemicals, Havells, and others",Business Today,0.0082020815461874
+2023-02-16 08:00:00+00:00,Surf Excel Becomes First Indian Home Care Brand to Exceed $1 Billion in Annual Sales,Equitypandit,0.842527030967176
+2023-03-01 08:00:00+00:00,"ITC, Britannia, HUL, Titan: Top FMCG stocks to buy/hold even as BNP Paribas 'Underweight' on sector",Mint,-0.5799480676651001
+2023-02-18 08:00:00+00:00,"HUL sells Annapurna, Capt Cook at half price",The Times of India,0.09231730364263058
+2023-01-19 08:00:00+00:00,HUL shares dip 3% ahead of Dec quarter results; here's what to expect from Q3,Fortune India,-0.7774605769664049
+2023-02-20 08:00:00+00:00,HUL share price gains on Rs 60.4-crore selloff deal for atta and salt brands,Moneycontrol,0.8855954483151436
+2023-05-02 07:00:00+00:00,Hindustan Unilever: Know the history of the British-owned brand in India,Business Today,0.06672795489430428
+2023-04-28 07:00:00+00:00,Hindustan Unilever's Rs 22 dividend fails to cheer Street as margin woes weigh on sentiment,Zee Business,-0.9293900653719902
+2023-01-20 08:00:00+00:00,HUL shares dip 4% post Q3; what should investors do?,Fortune India,-0.8972678761929274
+2023-03-10 08:00:00+00:00,HUL’s share price gained 300% during Sanjiv Mehta’s tenure,Moneycontrol,0.9337413916364312
+2023-01-19 08:00:00+00:00,Hindustan Unilever imposes Rs 9 lakh fine on Independent Director for 'inadvertent trade' in its shares,The Economic Times,-0.9353529224172235
+2023-04-27 07:00:00+00:00,Dividend stock HUL declares ₹22/share final dividend. Details here,Mint,-0.05501003935933113
+2023-06-13 07:00:00+00:00,"HUL's FY23 market share gain impresses, but El Nino risks loom",Mint,0.17306828498840332
+2023-01-20 08:00:00+00:00,"Hindustan Unilever's royalty hike move hits investor mood, stock dips 4%",Business Standard,-0.7740184143185616
+2023-01-19 08:00:00+00:00,"HUL board approves hike in royalty, central services fees to Unilever",The Times of India,0.8018064759671688
+2023-04-27 07:00:00+00:00,"HUL Q4 net up 12.74% at Rs 2,601cr; net sales up 10.83% at Rs 14,926cr",The Times of India,0.9264159575104713
+2023-03-11 08:00:00+00:00,As Rohit Jawa moves to head the India business HUL’s gain could be Unilever’s loss,Moneycontrol,0.048590727150440216
+2023-05-30 07:00:00+00:00,Mehta's pay flat at Rs 22 crore in last fiscal as HUL chief,The Times of India,-0.33367276936769485
+2023-06-12 07:00:00+00:00,"Consumer companies see rural recovery amid normal monsoon: HUL, ITC among key FMCG stocks to look at",Mint,0.4220665404573083
+2023-06-26 07:00:00+00:00,3.45% increase in royalty to parent Unilever after detailed evaluation: HUL,Business Standard,0.8449888322502375
+2023-05-22 07:00:00+00:00,"Hindustan Unilever, Genpact launch Be.Seen to help minority-owned units",Business Standard,0.4666144922375679
+2023-03-29 07:00:00+00:00,Which stock to buy now? Analysts pick these 20 shares for next financial year FY2024,Business Today,0.014434436336159706
+2023-03-21 07:00:00+00:00,"Sensex Today Zooms 446 Points, Nifty Above 17,100 | Reliance & Titan Surge 3% | Power Grid & HUL Down 2%",Equitymaster,-0.8219991251826286
+2023-06-26 07:00:00+00:00,Sanjiv Mehta concludes 10-year tenure with HUL,Mint,0.061735114082694054
+2023-03-10 08:00:00+00:00,"Rohit Jawa, management trainee to HUL CEO: 7 points about top business leader",Moneycontrol,0.1386991422623396
+2023-03-10 08:00:00+00:00,Rohit Jawa to replace Sanjiv Mehta as HUL managing director and CEO,Mint,-0.10411950014531612
+2023-06-09 07:00:00+00:00,"Principles, History & Business Model of HUL (Hindustan Unilever)",Marketing91,0.01030530221760273
+2023-02-24 08:00:00+00:00,Famous Banga brothers of corporate world who made India proud,The Economic Times,0.08192515559494495
+2023-04-26 07:00:00+00:00,"ITC becomes India’s 6th valuable company, overtakes Infosys",The New Indian Express,0.8137737344950438
+2023-01-22 08:00:00+00:00,Dividend paying stock turns ₹1 lakh to ₹12 Cr after 1 bonus share. Buy?,Mint,-0.0003221556544303894
+2023-02-23 08:00:00+00:00,ITC share price may rise further as margin recovery expected: Nuvama Instl Equities,CNBC TV18,0.7532598450779915
+2023-04-10 07:00:00+00:00,Top Food and Beverage Stocks in India 2023 - Complete List Of Stocks,Trade Brains,-0.0015693046152591705
+2023-02-20 08:00:00+00:00,Explainer: Understanding MNC royalties,The Financial Express,0.045945942401885986
+2023-02-16 08:00:00+00:00,Surf Excel is now a $1-billion brand: Here's all you need to know about HUL's iconic detergent,Business Today,0.061724971048533916
+2023-02-16 08:00:00+00:00,"How Surf Excel beat Ariel, Ghadi Detergent to become a billion-dollar brand",Business Today,0.24707766994833946
+2023-05-30 07:00:00+00:00,"Lakme Lever revenue rises 19.8% in FY23, HUL's exports at Rs 1,268 cr",Business Standard,0.8995549734681845
+2023-06-13 07:00:00+00:00,"Stock Market: Sensex, Nifty resume uptrend; ITC, HUL, Titan among top gainers",news24online.com,0.8942587431520224
+2023-01-31 08:00:00+00:00,Britannia's Q3 revenues may rise up to 20% YoY on higher volumes: Analysts,Business Standard,0.9382285391911864
+2023-07-24 07:00:00+00:00,ITC Dethrones India Unilever Unit to Become No. 1 Consumer Stock,Bloomberg.com,0.8031334709376097
+2023-07-24 07:00:00+00:00,ITC Briefly Dethrones Hindustan Unilever To Become No. 1 Consumer Stock,NDTV,0.6849854048341513
+2023-07-21 07:00:00+00:00,ITC briefly beats HUL to become most valued FMCG company amid hotel business demerger buzz,Zee Business,0.8733320012688637
+2023-12-29 08:00:00+00:00,Distributors may halt HUL stock buys amid margin structure change,Business Standard,-0.8717519585043192
+2023-11-15 08:00:00+00:00,"Breakouts Updates: Hindustan Unilever Limited (HUL) Breaks Resistance Level, Shows Positive Momentum",The Economic Times,0.906037513166666
+2023-10-19 07:00:00+00:00,India's Hindustan Unilever slides as weak rural recovery drags volume growth,Yahoo Finance Singapore,-0.9573355810716748
+2023-07-24 07:00:00+00:00,ITC dethrones India Unilever unit to become No. 1 consumer stock,Moneycontrol,0.8031334709376097
+2023-11-20 08:00:00+00:00,Stocks to buy: Rakesh Bansal recommends HUL and Indiabulls Housing Finance shares to buy for short term,Mint,0.045995280146598816
+2023-08-22 07:00:00+00:00,HUL FinAce Season 7: Master the rules for business growth in the ultimate finance challenge,Forbes India,0.04746513068675995
+2023-11-11 15:06:00+00:00,What Are The Best FMCG Stocks To Buy For The Long Term in India?,getmoneyrich,0.03747047111392021
+2023-12-02 08:00:00+00:00,Hindustan Unilever splits beauty and personal care division,The Times of India,0.000867161899805069
+2023-12-03 08:00:00+00:00,Stocks That Were Least Affected by the Recession in 2008,Groww,-0.6646134853363037
+2023-07-21 07:00:00+00:00,ITC beats HUL to become the largest FMCG company by Mcap,CNBC TV18,0.8775014821439981
+2023-07-24 07:00:00+00:00,ITC surpasses HUL to become the most-valued FMCG stock after 4 years,Business Standard,0.88743404019624
+2023-10-19 07:00:00+00:00,HUL Q2 results: Earnings beat street estimates; net profit up 3.86% on-year,Moneycontrol,0.9217568971216679
+2023-11-02 07:00:00+00:00,"FMCG Q2 results review: Sluggish volume growth a worry, does that make the sector an avoid?",Mint,-0.6894939206540585
+2023-12-20 08:00:00+00:00,Darlings of Dalal Street: The stocks most owned by mutual funds,Moneycontrol,-0.0171186663210392
+2023-10-20 07:00:00+00:00,HUL says inflation no longer a concern with sales & profits growing 4% in Q2,The Economic Times,0.9002445582300425
+2023-10-18 07:00:00+00:00,Nestle India poised to lead FMCG sector's Q3 earnings | Stock Market News,Mint,0.7201606603339314
+2023-09-23 07:00:00+00:00,HUL employee held in fake invoice case in Mumbai,The Times of India,-0.8154154177755117
+2023-10-19 07:00:00+00:00,Hindustan Unilever posts strong Q2 results despite slow demand,The New Indian Express,0.9187482837587595
+2023-10-22 07:00:00+00:00,FMCG Mutual Funds: A Smart Way to Benefit from India's Large Consumer Market,Equitymaster,0.778073541354388
+2023-10-20 07:00:00+00:00,6 Best FMCG Companies in India 2023 – Top FMCG Stocks in India,Trade Brains,0.2779008224606514
+2023-08-01 07:00:00+00:00,Best Blue Chip Stocks in India - Top Stocks To Watch in 2023,Trade Brains,0.12279552221298218
+2023-12-26 08:00:00+00:00,"Here's how India Inc celebrated Christmas: Ex-HUL CEO Sanjeev Mehta decorates tree with family, Harsh Goen",The Economic Times,0.048642316833138466
+2023-07-23 07:00:00+00:00,"Who is Sanjiv Mehta, the former CEO of HUL? Under his tenure the company amassed Rs 58,000+ crores; know about his salary & connection with Air India",The Financial Express,0.007656419649720192
+2023-07-13 07:00:00+00:00,"Number of crorepati employees at ITC, HUL, United Spirits up nearly 25% YoY",Business Standard,0.9293432086706161
+2023-11-09 08:00:00+00:00,"Adani Enterprises, HUL, Adani Ports top losers on Nifty50; RIL, HDFC Bank, ICICI Bank most active stocks on November 9, 2023",Business Today,-0.021559417247772217
+2023-11-08 08:00:00+00:00,Top 10 Best Joint Stock Companies In India 2024,inventiva.co.in,0.09034945257008076
+2023-09-03 02:46:00+00:00,How AI Will Impact the FMCG Sector. Everything You Need to Know...,Equitymaster,-0.002450142055749893
+2024-04-22 07:00:00+00:00,Stock Radar I Time to buy? HUL trading near crucial support zone: Vaishali Parekh,The Economic Times,0.06343013606965542
+2024-06-05 07:00:00+00:00,HUL stock jump 9% as defensive stocks rally post election,Upstox,0.3651089668273926
+2024-04-16 07:00:00+00:00,Why HUL Share Price is Falling,Equitymaster,-0.24681628495454788
+2024-04-24 07:00:00+00:00,Global investors sell Unilever India stock as sales growth falters,Business Standard,-0.949265580624342
+2024-06-16 07:00:00+00:00,Hindustan Unilever (HUL): Best defensive stock to buy in India?,Trade Brains,0.25155521742999554
+2024-06-20 07:00:00+00:00,HUL vs Nestle vs ITC: Which FMCG stock should you buy ahead of Union Budget?,Business Today,0.0246963482350111
+2024-06-13 07:00:00+00:00,Whirlpool shares hit 52-week high on marketing deal with HUL,Fortune India,0.8894018419086933
+2024-01-11 08:00:00+00:00,HUL Vs Bharti Airtel: Jefferies Breaks Down India Consumption Picks,NDTV Profit,-0.3787182494997978
+2024-04-09 07:00:00+00:00,"Sensex @ 75,000: These stocks missed the 5,000-point run through 82 days",Moneycontrol,-0.01681661605834961
+2024-02-08 08:00:00+00:00,Hindustan Unilever rolls out key changes in top management,The Times of India,0.0019952766597270966
+2024-04-05 07:00:00+00:00,HUL Share Price Target 2025: FMCG company to separate its ice cream unit - DETAILS,ET Now,-0.01275378093123436
+2024-06-05 07:00:00+00:00,"FMCG stocks likely to see valuation re-rating, says Emkay Global; upgrades HUL, Nestle; cuts ITC share price target",Mint,0.8497251570224762
+2024-06-05 07:00:00+00:00,Why HUL Share Price is Rising,Equitymaster,-0.16131122410297394
+2024-04-12 07:00:00+00:00,"Unilever faces new risk as India's consumers turn pickier, more demanding",Business Standard,0.3569757491350174
+2024-05-07 07:00:00+00:00,Should You Worry About HUL's Lost Decade Again?,Equitymaster,-0.22792338579893112
+2024-02-15 08:00:00+00:00,Hindustan Unilever hits fresh 52-week low; brokerages share mixed outlook,Business Standard,-0.9473220128566027
+2024-06-06 07:00:00+00:00,Best FMCG Stock: HUL vs ITC,Equitymaster,0.8012266345322132
+2024-03-28 07:00:00+00:00,L Catterton forms India-focused JV with former HUL's MD & CEO Sanjiv Mehta,Business Standard,0.035918228328228
+2024-06-08 07:00:00+00:00,Top 5 Fundamentally Strong Defensive Stocks to Protect Your Capital in this Volatile Market,Equitymaster,0.8664345191791654
+2024-04-24 07:00:00+00:00,"HUL Q4FY24 results: Consolidated net profit dips 1.5% to Rs 2,561 crore",Business Standard,-0.9612924428656697
+2024-01-03 08:00:00+00:00,"HUL shares in news as FMCG firm receives Rs 448 crore tax demand, penalties",Business Today,0.8849448971450329
+2024-04-22 07:00:00+00:00,"HUL, Colgate-Palmolive, MRF, ABB feature among 5 prominent stock investments by Amit Shah in the listed companies",Mint,0.06117446906864643
+2024-02-07 08:00:00+00:00,"HUL to make key changes to its management committee, effective from April 1",Business Standard,0.015694662928581238
+2024-03-27 10:16:00+00:00,Unilever’s Ice Cream Business Sale: Impact on Hindustan Unilever Limited (HUL),getmoneyrich,-0.03324175998568535
+2024-03-28 07:00:00+00:00,L Catterton forms new India JV with former HUL chief to invest in consumer-focused firms,Moneycontrol,0.09149746969342232
+2024-03-28 07:00:00+00:00,LVMH-backed L Catterton forms JV with former HUL chief Sanjiv Mehta for a new investment vehicle,Mint,0.156874586828053
+2024-03-29 07:00:00+00:00,LVMH-backed PE firm sets up India JV with HUL ex-chief Sanjiv Mehta,The Financial Express,0.047205960378050804
+2024-04-21 07:00:00+00:00,HUL to MRF and P&G: Here are top stocks in which Amit Shah has invested,Business Standard,0.0010877791792154312
+2024-01-20 08:00:00+00:00,Poor show in Q3 FY24: HUL is hoping for rural income recovery for growth,Business Today,0.8990448601543903
+2024-06-04 07:00:00+00:00,Indian stock market witness biggest fall in 4 years amid vote counting day,Zee Business,-0.950697960332036
+2024-04-22 07:00:00+00:00,Amit Shah's investment portfolio: HUL to MRF and Colgate-Palmolive | India News,Hindustan Times,0.025462981313467026
+2024-04-25 07:00:00+00:00,Unilever says Lifebuoy and Lux impacted by cost deflation in India,Business Standard,-0.9429368060082197
+2024-04-25 07:00:00+00:00,"Stocks in the News: Kotak Bank, HUL, Bajaj Finance, SBI, Vedanta, ITC, RVNL and more",Business Today,-0.0025031734257936478
+2024-04-05 07:00:00+00:00,Nestle India approves royalty fee of up to 5.25% of net sales to parent company,The Economic Times,0.28891249280422926
+2024-04-26 07:00:00+00:00,Consumer companies now shedding 'health' tag for powder food drinks,Business Standard,-0.3679102845489979
+2024-04-11 07:00:00+00:00,"Best Cosmetics Stocks In India 2024 - List, Financials And More",Trade Brains,-0.005122395232319832
+2024-03-27 07:00:00+00:00,"FIFA World Cup 2026 Qualifiers; HUL, Coca-Cola, 5 Other Stocks In Focus; Do You Own Any?",Goodreturns,0.029600050300359726
+2024-04-22 07:00:00+00:00,"Amit Shah investment portfolio of Rs 66 crore: HUL, MRF stocks, small savings schemes and more",The Economic Times,0.014097824692726135
+2024-05-31 07:00:00+00:00,Stocks that may benefit this monsoon season due to rising demand in the agriculture sector,Trade Brains,0.9087227284908295
+2024-07-09 07:00:00+00:00,A more agile and efficient Supply Chain,Hindustan Unilever Limited,0.6429926203563809
+2024-10-24 07:00:00+00:00,"HUL share price slips 7% post Q2 results; Should you buy, sell or hold?",Business Standard,-0.9039122434332967
+2024-09-09 07:00:00+00:00,"HUL shares hit lifetime high as company reviews ice cream business, Nifty FMCG at fresh record",Moneycontrol,0.8984814397990704
+2024-10-24 07:00:00+00:00,"HUL Share Price / Hindustan Unilever Stocks/ HUL Stock Updates Oct 24 2024: HUL share price declines 6% as Q2 results disappoint, Should you buy this FMCG stock?",BusinessLine,-0.9135097153484821
+2024-10-24 07:00:00+00:00,"HUL shares tumble nearly 5% as Q2 results disappoint. Should you buy, sell or hold?",The Economic Times,-0.7448450718075037
+2024-10-25 07:00:00+00:00,Why HUL Share Price is Falling,Equitymaster,-0.24681628495454788
+2024-10-24 07:00:00+00:00,"HUL shares drop over 5% after weak Q2 results: Buy, sell, or hold?",India Today,-0.9526533577591181
+2024-11-25 08:00:00+00:00,"HUL approves demerger of ice-cream business into separate, listed entity",Mint,0.02107449434697628
+2024-11-26 08:00:00+00:00,HUL’s sweet move: Key highlights of ice-cream business demerger,Upstox,0.09090620838105679
+2024-12-09 08:00:00+00:00,Hindustan Unilever shares are the top Nifty 50 losers; Check out recent price targets,CNBC TV18,-0.13138971477746964
+2024-07-23 07:00:00+00:00,India's Hindustan Unilever reports higher Q1 profit on volume growth,Reuters,0.9102343209087849
+2024-11-26 08:00:00+00:00,HUL shares edge higher on plan to list ice cream biz as separate entity,Fortune India,0.9047865141183138
+2024-11-26 08:00:00+00:00,HUL shares in focus as board approves demerger of ice-cream biz into separate listed entity,The Economic Times,0.1332134772092104
+2024-11-26 08:00:00+00:00,HUL shares gain as board greenlights ice cream arm spin-off,Moneycontrol,-0.007444888353347778
+2024-12-03 08:00:00+00:00,What HUL’s decade-long plan tells us about consumption in India | Company Business News,Mint,0.038648007437586784
+2024-11-26 08:00:00+00:00,"Stocks to Watch, Nov 26: HUL, SBI, Coal India, IndiGo, Adani Group shares",Business Standard,0.01936553418636322
+2024-12-09 08:00:00+00:00,"HUL, ITC, Marico, other FMCG shares fall up to 4% after GCPL's margin warning",CNBC TV18,-0.9416667222976685
+2024-12-03 08:00:00+00:00,"FMCG stocks: Comparing Tata Consumer, HUL and Godrej Consumer on market and financial performance and market outlook",Upstox,0.04324299842119217
+2024-12-24 08:00:00+00:00,"Hindustan Unilever (HUL) - Reliance Industries, SBI among top 10 stock ideas for 2025: HDFC Securities",The Economic Times,0.1462737563997507
+2024-12-03 08:00:00+00:00,HUL needs growth mojo. But demand conditions may play spoilsport | Stock Market News,Mint,-0.7808274030685425
+2024-08-08 07:00:00+00:00,HUL is the best pick for anyone looking to invest in the long-term growth story of India and FMCG...,Moneycontrol,0.3370559406466782
+2024-12-17 08:00:00+00:00,"HUL, don't get Unileverised: The ice cream business melted away, but what’s next?",The Economic Times,-0.014453895390033722
+2024-12-09 08:00:00+00:00,"Stock Market Highlights: SENSEX falls 200 points, NIFTY down 0.24% as Reliance, HUL decline",Upstox,-0.9537717252969742
+2024-12-09 08:00:00+00:00,"Godrej Consumer shares sink 10%, HUL 4%; why are FMCG stocks falling today?",Business Standard,-0.9404650237411261
+2024-10-23 07:00:00+00:00,"Hindustan Unilever falls after profit miss, analysts flag more demand woes",Reuters,-0.9512273259460926
+2024-12-02 08:00:00+00:00,"Stocks to Watch, Dec 2: HUL, Raymond, SBI, Cipla Titan, Adani Group shares",Business Standard,0.018700357526540756
+2024-12-13 08:00:00+00:00,"Sensex back in green: Airtel, HUL, and IT stocks lead market rebound",India Today,0.1642491277307272
+2025-01-01 08:00:00+00:00,"HDFC Bank, RIL & HUL: How to trade these 3 stocks in 2025? Kiran Jani answers",Business Today,0.03306928090751171
+2024-12-08 08:00:00+00:00,"GCPL shares tumble 10% on weak commentary; HUL, Tata Consumer Products, too, slide up to 4%",Upstox,-0.9611516473814845
+2024-07-24 07:00:00+00:00,HUL sees profit booking after Q1FY25 results beat estimates; down 3%,Business Standard,-0.9492108952254057
+2024-11-02 07:00:00+00:00,"Dividend Stocks: HUL, Coal India, Dabur India, among others to trade ex-dividend next week; Full list",Mint,0.0009688399732112885
+2024-11-26 08:00:00+00:00,FMCG giant HUL to demerge ice cream business into listed company,The Times of India,0.05813783314079046
+2024-10-09 07:00:00+00:00,"ITC, HUL, Airtel among 5 Nifty stocks to avoid as market bounces back",Business Standard,-0.30598513782024384
+2024-10-02 07:00:00+00:00,HUL Stock: Revenue split of Hindustan Unilever from each of its products,Trade Brains,0.04865048360079527
+2024-07-17 07:00:00+00:00,Nestle Vs ITC Vs HUL: Why are key FMCG stocks in focus ahead of Budget 2024,The Financial Express,-0.10009420849382877
+2024-07-16 07:00:00+00:00,HUL gains 3% as Board approves sale of 'Pureit' to AO Smith for Rs 601 cr,Business Standard,0.9062575399875641
+2024-09-09 07:00:00+00:00,HUL shares hit 52-week high on decision to review ice-cream biz strategy,Fortune India,0.8822119999676943
+2024-12-02 08:00:00+00:00,HUL Bets Big On Innovation And Premiumisation: Should You Buy The Stock?,NDTV Profit,0.09670564904808998
+2024-12-09 08:00:00+00:00,"FMCG stocks crack amid demand slowdown concerns; Godrej Cons, HUL, Dabur, Marico fall 3-9%",Moneycontrol,-0.9607792748138309
+2024-07-16 07:00:00+00:00,HUL shares gain 3% on deal to sell Pureit to AO Smith India,Fortune India,0.8190334960818291
+2024-11-02 07:00:00+00:00,"Coal India, HUL, RailTel and Premier Polyfilm among stocks turning ex-dividend next week",Business Today,0.011639006435871124
+2024-11-03 07:00:00+00:00,HUL Vs Dabur Vs Colgate Palmolive; 275-2900% Dividend From Nov 1-8; Which Major FMCG Stock To BUY?,Goodreturns,0.020574044436216354
+2024-07-30 07:00:00+00:00,"Will Hindustan Unilever share price cross ₹3,000 and Is it a good Defensive Bet?",Trade Brains,0.09420577809214592
+2024-11-02 07:00:00+00:00,"Dividend Up To Rs 29/Sh, Record Date Next Week: Buy 3 FMCG Stocks To Be Eligible For Dividends",Goodreturns,0.041153511963784695
+2024-11-02 07:00:00+00:00,"Coal India, REC among 41 stocks with record dates for dividend, bonus, split this week. Do you own any?",The Economic Times,0.022578690201044083
+2024-11-29 08:00:00+00:00,FMCG stocks have disappointed. Can the big 4 pull off a turnaround?,Mint,-0.1407446265220642
+2024-09-18 07:00:00+00:00,"ITC , HUL, Dabur, others share prices rise up to 26% in 6 months: Buy, Sell or Hold the stocks?",Mint,0.15614626370370388
+2024-12-23 08:00:00+00:00,"Zomato surpasses HUL, Nestle in Sensex with a weightage of 2.77%",Business Standard,0.7410992057994008
+2024-11-29 08:00:00+00:00,Hindustan Unilever sees 10 of its brands at the sweet spot to go premium,Business Standard,0.3570429589599371
+2024-10-25 07:00:00+00:00,Focus on India food business: Unilever CEO,The Financial Express,0.007536569610238075
+2024-10-29 04:31:00+00:00,"Dhanteras Stock Picks 2024: Bajaj Auto, SBI, BoB, HUL, Dixon Tech among analysts' top recommendation",Zee Business,0.10323324520140886
+2024-12-12 08:00:00+00:00,"Sensex Ends 236 Points Lower, Nifty Near 24,550; NTPC, HUL Fall Up To 3%",News18,-0.9546942561864853
+2024-08-27 07:00:00+00:00,Hindustan Unilever gets tax notice of Rs 962.75 cr over Rs 3k cr GSK deal,Business Standard,0.42033786699175835
+2024-12-02 08:00:00+00:00,Hindustan Unilever Limited (HUL) Bets Big on Innovation and Premiumisation: Should You Invest Post Capital Markets Day?,Analytics Insight,0.1769164465367794
+2024-07-15 07:00:00+00:00,AO Smith buys HUL's Pureit business in India for ₹601 crore,Mint,0.05832541733980179
+2024-11-26 08:00:00+00:00,FMCG stock in focus after company approves demerger of ice cream business,Trade Brains,0.21223768591880798
+2024-12-31 08:00:00+00:00,"HUL streamlines supply chain to kirana stores, lowers credit limit barriers",Business Standard,0.40123242884874344
+2024-12-13 08:00:00+00:00,"Market Close Highlights: Fab Friday! Sensex ends 843pts up, soars 2050pts from low; Nifty at 24,768",Business Standard,0.7651504203677177
+2024-09-24 07:00:00+00:00,Best FMCG stocks in India 2024 to add to your watchlist!,Trade Brains,0.12988041527569294
+2024-09-04 07:00:00+00:00,"Zomato Blinkit QC expansion to hit HUL, Marico distribution moat; CLSA shares target prices",Business Today,0.37106338795274496
+2024-10-25 07:00:00+00:00,"Stocks to buy on dips: Reliance Industries, HUL and 4 other LARGE CAP shares by Sandip Sabharwal",ET Now,0.013137023895978928
+2025-01-23 08:00:00+00:00,HUL shares tumble over 3% after Q3 earnings. Here's what analysts recommend,The Economic Times,-0.7051599845290184
+2025-01-23 08:00:00+00:00,Explained: Why HUL share price fell in early trade today,India Today,-0.9494486097246408
+2025-02-11 08:00:00+00:00,"Demerger of Kwality Walls from HUL- Details, Ratio and Analysis",ICICI Direct,0.016438961029052734
+2025-02-19 08:00:00+00:00,Hindustan Unilever stock hits 9-month low; slips 26% from September high,Business Standard,-0.9556533452123404
+2025-04-21 07:00:00+00:00,"Stocks to Watch Today, 22nd April 2025: HUL, Coal India, NTPC, Vedanta, and more",Groww,0.00917171873152256
+2025-03-11 07:00:00+00:00,"Top stocks to buy today: Stock recommendations for March 11, 2025",The Times of India,-0.0009562261402606964
+2025-03-18 07:00:00+00:00,Hindustan Unilever shares rise after CCI approves acquisition of Uprising Science,Upstox,0.5164842754602432
+2025-06-25 07:00:00+00:00,HUL price target unchanged: Nuvama flags 3 major concerns for the stock,The Financial Express,-0.23782389611005783
+2025-01-22 08:00:00+00:00,"HUL to list demerged ice cream business on BSE and NSE, announces 1:1 share ratio",Moneycontrol,0.051545701920986176
+2025-01-22 08:00:00+00:00,"HUL to list Kwality Walls shares on BSE, NSE under demerged ice cream biz, 1:1 share ratio declared for shareholders",Mint,0.10394600685685873
+2025-04-24 07:00:00+00:00,Why HUL Share Price is Falling,Equitymaster,-0.24681628495454788
+2025-03-11 07:00:00+00:00,"Stocks to buy, sell: ICICI Bank, HUL, Bandhan Bank among analysts' top picks",Zee Business,0.07331199385225773
+2025-01-23 08:00:00+00:00,"Can HUL shares fall below Rs 2,000? Check target prices after muted Q3 print",The Economic Times,-0.09898020699620247
+2025-05-28 07:00:00+00:00,"HUL, Kaveri Seeds among 5 stock picks this monsoon; check upside potential",Business Standard,0.1405820082873106
+2025-04-02 07:00:00+00:00,"Nestle, Hindustan Unilever shares decline up to 2% after BofA downgrades FMCG stocks",Moneycontrol,-0.9553812546655536
+2025-05-15 07:00:00+00:00,HUL Demerger: What investors should know about Kwality Wall's ice cream business,Zee Business,0.02879384532570839
+2025-06-25 07:00:00+00:00,HUL shares in focus: Unilever's Magnum HoldCo to acquire 61.9% of Kwality Wall's (India); all you need to know,Upstox,0.07923286501318216
+2025-06-23 07:00:00+00:00,HUL share price slips 2% on ex-dividend date; check out more details,Business Standard,-0.943498283624649
+2025-04-02 07:00:00+00:00,HUL shares slip 2% after BofA downgrade on slow recovery concerns,The Economic Times,-0.9386982768774033
+2025-06-20 07:00:00+00:00,"Rs 24 Payout Alert! India’s Largest FMCG Stock To Go Ex-Dividend Soon, Record Date Next Week; Buy HUL?",Goodreturns,0.03636550530791283
+2025-03-12 07:00:00+00:00,The FMCG titan under siege: Is Hindustan Unilever still a no-brainer investment?,The Indian Express,-0.15925775468349457
+2025-05-15 07:00:00+00:00,Hindustan Unilever Demerger: How many shares will shareholders receive following the demerger?,Trade Brains,0.003480019047856331
+2025-02-19 08:00:00+00:00,"ITC, United Spirits, HUL, Nestle: Defensive stocks back in flavour; here are top picks",Business Today,0.04299345798790455
+2025-01-26 08:00:00+00:00,5 Things HUL Shareholders Should Know as HUL Demerges Ice Cream Business,Equitymaster,0.023338638246059418
+2025-05-15 07:00:00+00:00,Hindustan Unilever demerger: Can Kwality Wall’s scoop investor returns?,Value Research,0.13151347171515226
+2025-01-22 08:00:00+00:00,"HUL to list Kwality Wall's ice cream shares, demerger ratio announced",The Economic Times,0.0003455430269241333
+2025-04-22 07:00:00+00:00,"Stocks to watch: HCL Tech, HUL, Vedanta, Paytm, Coal India among shares in focus today",Mint,0.033147549256682396
+2025-01-14 08:00:00+00:00,"Britannia, HUL, Nestle, other FMCG stocks fall up to 31% from 2024 peaks: Here's what investors should do",Moneycontrol,-0.8232805654406548
+2025-04-24 07:00:00+00:00,HUL vs Nestle: Here’s how two FMCG players fared in Q4FY25 results,Upstox,0.03156402334570885
+2025-04-13 07:00:00+00:00,"Market cap of five top Indian firms rises by Rs 84,559 crore; HUL tops gainer",The Times of India,0.8706333376467228
+2025-04-24 07:00:00+00:00,HUL slips 4% after posting Q4 results; Here's what's worrying investors,Business Standard,-0.8899417351931334
+2025-01-24 08:00:00+00:00,Hindustan Unilever demerges Kwality Walls: Is it a sweet deal for investors?,Value Research,0.30629689153283834
+2025-04-24 07:00:00+00:00,"HUL, Nestle India, Rallis India, Persistent Systems among top buzzing stocks; check full list",Upstox,0.17689142283052206
+2025-06-26 07:00:00+00:00,"Stocks to Watch today, June 26: Vi, HUL, JSW Steel, BSE, PB Fintech, Ceat",Business Standard,0.032339777797460556
+2025-03-18 07:00:00+00:00,"Stocks to Watch Today: IndusInd Bank, HUL, Bank of Maharashtra, IRCON, Star Cement, Raymond Lifestyle,...",Moneycontrol,0.03392343129962683
+2025-05-15 07:00:00+00:00,"Stocks to Watch Today: Eicher Motors, Apollo Tyres, Lupin, Wendt India, HUL, Brigade, Genesys, Wipro,...",Moneycontrol,0.042080323211848736
+2025-06-04 07:00:00+00:00,"Stocks to buy: HUL, Godrej Consumer to Emami - Anand Rathi's top FMCG stock picks after Q4 results 2025",Mint,0.16743630170822144
+2025-06-17 07:00:00+00:00,Hindustan Unilever Shares See Significant Block Trade on NSE,scanx.trade,-0.6945096701383591
+2025-01-23 08:00:00+00:00,HUL slips 4% after posting Q3 results; most brokerages cut target price,Business Standard,-0.9596267929300666
+2025-05-14 07:00:00+00:00,"Stocks to Watch Today, 15th May 2025: Eicher Motors, HUL, Tata Power and More",Groww,0.013111704960465431
+2025-05-15 07:00:00+00:00,"HUL Demerger: FMCG giant receives BSE, NSE nod to spin off Kwality Walls ice cream biz— Check shareholding ratio",Mint,0.16015391796827316
+2025-05-15 07:00:00+00:00,Hindustan Unilever Gets Regulatory Nod to Spin Off Ice Cream Business: Key Details Here,outlookbusiness.com,0.005592728033661842
+2025-03-21 07:00:00+00:00,"Stocks to watch on March 21: TCS, HUL, Zomato, Adani Enterprises, Jio Financial",India Today,0.0038433820009231567
+2025-01-24 08:00:00+00:00,"HUL to Demerge Ice Cream Business into Kwality Wall's (India) Limited, CAM acts as sole legal advisor",ETLegalWorld.com,0.0355558879673481
+2025-07-01 07:00:00+00:00,"Stocks to buy in 2025 for long term: HUL, NYKAA among 5 stocks that could give 10-30% return",The Economic Times,0.18327996041625738
+2025-04-24 07:00:00+00:00,"HUL to ramp up investments, expects demand rebound on rural uptick, favorable macros",Moneycontrol,0.9292409922927618
+2025-05-15 07:00:00+00:00,"HUL receives go-ahead from NSE, BSE on ice-cream biz demerger – Here are key things to know",The Financial Express,0.028581151738762856
+2025-01-23 08:00:00+00:00,"HUL Q3 Highlights: 1:1 Demerger Revealed, Kwality Wall's Shares to Hit the Market",Goodreturns,0.72787781432271
+2025-01-23 08:00:00+00:00,"Stock in Focus: HDFC Bank, HUL, Polycab India, Tata Communications, BPCL and more",The Financial Express,0.017441436648368835
+2025-04-14 07:00:00+00:00,"HUL, Marico, Nestle, Bikaji in focus as FMCG stocks outperform amid RBI easing and lower inflation forecast",Upstox,-0.5026628226041794
+2025-06-09 07:00:00+00:00,"HUL, Nestle lag as FMCG volumes stay weak—what could drive a 2025 rebound? | Stock Market News",Mint,-0.4469817094504833
+2025-04-22 07:00:00+00:00,"HUL, Britannia: This foreign brokerage is betting big on consumer stocks",Business Standard,0.11041994020342827
+2025-03-10 07:00:00+00:00,This is the money Hindustan Unilever is chasing in India,The Economic Times,0.02271220274269581
+2025-04-24 07:00:00+00:00,"Gap-down opening seen for Sensex, Nifty; HUL, Axis Bank, Nestle India, ACC, Adani Energy shares in focus",Fortune India,0.7799852192401886
+2025-04-24 07:00:00+00:00,"HUL Q4 profit falls 4% to Rs 2,464 crore; announces Rs 24 final dividend",India Today,-0.9588199332356453
+2025-04-13 07:00:00+00:00,"ITC vs Hindustan Unilever (HUL): Which is better dividend stock? Yield, history, returns compared",ET Now,0.0596240870654583
+2025-01-23 08:00:00+00:00,"Stocks to Watch Today: HUL, BPCL, Laurus Labs, Stallion India, Persistent Systems, Pidilite, Cigniti...",Moneycontrol,0.05936347786337137
+2025-04-24 07:00:00+00:00,"HUL, Nestle Q4 earnings today: 4 key factors to watch ahead of Q4 results",The Financial Express,0.015939034521579742
+2025-04-24 07:00:00+00:00,"Stocks to watch on April 25: Axis Bank, TechM, Cyient, SBI Cards, HUL and more",CNBC TV18,0.0052148886024951935
+2025-04-22 07:00:00+00:00,"Top stocks to watch: Tata Power, Coal India, HUL, Paytm, Vedanta, Anant Raj & Mazagon Dock",Business Today,0.0443534292280674
+2025-06-19 07:00:00+00:00,"Stock recommendation: How to trade Bharti Airtel, HUL, Fortis Health today?",Business Standard,0.023520364426076412
+2025-01-22 08:00:00+00:00,"HUL Q3 results: Net profit rises 19% YoY to ₹2,984 crore",Mint,0.9158458281308413
+2025-01-13 08:00:00+00:00,"HUL Q3 Results: Date, Time, Share Price History And Other Key Details",NDTV Profit,-0.03141693025827408
+2025-03-27 07:00:00+00:00,"Stocks in news: RIL, HDFC Bank, Ashok Leyland, BSE, HUL, Maruti Suzuki, Wipro",The Economic Times,0.01565990224480629
+2025-06-23 07:00:00+00:00,"Bonus, Dividend, Stock Split Alert: Vedanta, HUL, Polycab, 18 others see corporate actions this week",CNBC TV18,-0.1335508618503809
+2025-04-24 07:00:00+00:00,Hindustan Unilever Q4 Highlights: HUL Shares Latest Update On 'Minimalist' Acquisition 'Kwality Wall's' Demerger,Republic World,0.09693984407931566
+2025-04-24 07:00:00+00:00,"HUL shares slide 4% on weak guidance; Q4 profit drops to ₹2,464 cr; declares final dividend of ₹24",Fortune India,-0.9618039363995194
+2025-06-30 07:00:00+00:00,Optimistic HUL targets 10% earnings growth over medium-to-long term,Mint,0.8889093352481723
+2025-04-13 07:00:00+00:00,"Five of India’s top 10 valued firms add ₹84,559 crore in market cap: HUL, RIL, ITC lead the gains",Fortune India,0.779995652846992
+2025-01-22 08:00:00+00:00,"HUL Demerger Ratio: Shareholders note! Ice-cream business Kwality Wall's NSE, BSE listing update",ET Now,-0.0015491079539060593
+2025-06-22 07:00:00+00:00,"Dividend, Bonus & Split This Week: HDFC, Vedanta, HUL Among 50 Stocks In Action",News18,0.05201628431677818
+2025-05-15 02:53:00+00:00,"HUL Demerger 2025: FMCG major shares update on ice-cream (Kwality Wall’s) business split - Ratio, other details",MSN,0.010723276063799858
+2025-01-21 08:00:00+00:00,"Hindustan Unilever Q3 Preview: Lagging urban demand to hit earnings growth, profit to remain flat",Moneycontrol,0.11339277029037476
+2025-04-20 07:00:00+00:00,"Stocks to Watch: HCL Tech, HUL and 8 Other Stocks Announcing Results Next Week",Trade Brains,0.010908525437116623
+2025-04-24 07:00:00+00:00,HUL recommended a final dividend of Rs. 24 per share for the fiscal year 2025: Share price rises up to 2.5%,Mint,0.9045918211340904
+2025-05-27 07:00:00+00:00,"Emami, HUL, ITC: Is early monsoon good news for FMCG stocks? Analysts weigh",Business Standard,0.1876506172120571
+2025-01-22 08:00:00+00:00,HUL announces demerger of Kwality Wall's ice cream biz into listed entity,Business Standard,-0.0022218674421310425
+2025-01-01 08:00:00+00:00,"HDFC Bank, RIL & HUL: How to trade these 3 stocks in 2025? Kiran Jani answers",Business Today,0.03306928090751171
+2025-02-13 08:00:00+00:00,HUL gained market share despite modest growth,The Economic Times,0.9376749843358994
+2025-04-22 07:00:00+00:00,"Trent, DMart, HUL Lead UBS' Top Consumer Stock Picks On Demand Rebound In FY26",News18,0.8843033090233803
+2025-01-22 08:00:00+00:00,"HUL Approves 1:1 Demerger Ratio, Paves Way For Kwality Wall's Listing",NDTV Profit,0.8733683107420802
+2025-05-15 07:00:00+00:00,"Stocks to watch: Tata Power, Eicher Motors, HUL, SBI, Infosys among shares in focus today",Mint,0.03718702681362629
+2025-06-28 07:00:00+00:00,Nestle vs HUL: Who’s dominating the FMCG industry?,Trade Brains,0.003812156617641449
+2025-07-01 07:00:00+00:00,"From Bharat Forge, HUL, Nykaa to BEL – Here are 10 stocks to watch",The Financial Express,-0.002169087529182434
+2025-01-02 08:00:00+00:00,"2025 stock picks: HUL, Bharat Electronics lead sectors set for explosive growth!",The Economic Times,0.6292853932827711
+2025-03-09 05:54:00+00:00,"Stocks Quarterly Update Q3 December: Net Profit Growth & Price Insights for Hindustan Unilever, M&M, LIC, etc [2025]",getmoneyrich,0.13491065427660942
+2025-01-22 08:00:00+00:00,"HUL Q3 Results: PAT jumps 19% YoY to Rs 3,001 crore on one-time gain",The Economic Times,0.9016088582575321
+2025-03-18 07:00:00+00:00,"Stocks to watch: IndusInd Bank, Vedanta, HUL, LIC, Tata Motors among shares to remain in focus today",Mint,0.03789627552032471
+2025-05-14 07:00:00+00:00,"Stocks To Watch Today: Wipro, HUL, Brigade Enterprises, Infosys, Yes Bank, Cochin Shipyard",NDTV Profit,0.017970319837331772
+2025-03-27 07:00:00+00:00,"Stocks To Watch: HDFC Bank, Indian Hotels, BSE, HUL, Maruti, Wipro, And Others",News18,-0.0006860941648483276
+2025-01-06 08:00:00+00:00,"Stocks to Watch, Jan 6, 2025: Nykaa, HDFC Bank, Bajaj Finance, HUL, RIL",Business Standard,0.03908953070640564
+2025-04-22 07:00:00+00:00,"Stocks to Watch Today: HUL, Coal India, Gandhar Oil Refinery, Nureca, Paytm, HG Infra, Tata Power, Anant...",Moneycontrol,0.03608438931405544
+2025-03-30 07:00:00+00:00,"Hindustan Unilever, TCS and 2 other stocks with PE less than industry to add to your watchlist",Trade Brains,0.05593111924827099
+2025-06-25 07:00:00+00:00,Magnum to acquire 61.9% of Kwality Wall's India from Unilever Group,Business Standard,0.0741807734593749
+2025-05-15 07:00:00+00:00,"Stocks in news: Patanjali Foods, ITC Hotels, Tata Power, SBI, HUL, Balu Forge",The Economic Times,0.01845606416463852
+2025-04-21 07:00:00+00:00,"DMart, Trent, HUL Among UBS' Top Stock Picks As It Bets On Consumer Sector Rebound",NDTV Profit,0.17181377299129963
+2025-03-18 07:00:00+00:00,HUL shares in focus after CCI approves acquisition of skincare brand Minimalist,The Economic Times,0.15611176937818527
+2025-04-14 07:00:00+00:00,ITC Vs HUL: Which is a better dividend bet now? 5 factors to watch,The Financial Express,0.043705880641937256
+2025-06-26 07:00:00+00:00,Financially strong FMCG stock to buy now for an upside of up to 35%; Do you own it?,Trade Brains,0.2074861479923129
+2025-04-22 07:00:00+00:00,"Stocks in news: HCL Tech, Waaree Energies, HUL, Tata Power, Mahindra Logistics",The Economic Times,0.015370171517133713
+2025-12-05 08:00:00+00:00,Why HUL Share Price is Falling,Equitymaster,-0.24681628495454788
+2025-07-07 07:00:00+00:00,HUL shares gain 2% today. Should you buy the FMCG stock?,India Today,0.08779117651283741
+2025-12-05 08:00:00+00:00,Hindustan Unilever falls up to 7% as stock adjusts for Kwality Wall's ice-cream business spin-off,Moneycontrol,-0.8783360160887241
+2025-12-05 08:00:00+00:00,HUL shares decline 7% on record date for ice cream business demerger,The Economic Times,-0.9558150861412287
+2025-12-04 08:00:00+00:00,HUL Demerger: Ice-Cream Business Spun off Into Kwality Wall’s; Record Date Set for 5 December,Groww,0.019020559266209602
+2025-12-05 08:00:00+00:00,HUL shares tumble 7% in trade; here's key trigger behind today's fall,Business Standard,-0.43750249966979027
+2025-07-13 07:00:00+00:00,Stock of the week: Here are 5 things to know about Hindustan Unilever,Upstox,0.0015400219708681107
+2025-08-13 07:00:00+00:00,"HUL Demerger 2025: Shareholders Approve 1:1 Split; Kwality Walls to List on BSE, NSE Soon; Stock in Red",Goodreturns,0.02323312684893608
+2025-12-05 08:00:00+00:00,Hindustan Unilever Share Price Sees 6% Drop As Stock Adjusts To Kwality Wall's Demerger,NDTV Profit,-0.9628172474913299
+2025-12-05 08:00:00+00:00,HUL-Kwality Walls demerger: Stock signals mild weakness; check value of ice-cream biz,Business Today,-0.6398102566599846
+2025-12-05 08:00:00+00:00,HUL Share Price Today: Adjusts After Kwality Wall’s Demerger,Samco,-0.4297028258442879
+2025-12-05 08:00:00+00:00,HUL Shares Edge Up Before Kwality Wall's 1:1 Demerger,HDFC Sky,0.8599013164639473
+2025-12-13 08:00:00+00:00,"HUL Demerger: Kwality Wall’s India Allots Shares, Ceases to Be Wholly-Owned Subsidiary",PSU Connect,-0.07634024880826473
+2025-07-11 07:00:00+00:00,Explained: Why HUL shares rose 4% today,India Today,0.9225146397948265
+2025-12-05 08:00:00+00:00,Hindustan Unilever demerger record date today. Stock to trade ex-Kwality Wall's business,Mint,0.0021635331213474274
+2025-07-07 07:00:00+00:00,Why HUL Share Price is Rising,Equitymaster,-0.16131122410297394
+2025-12-04 08:00:00+00:00,Hindustan Unilever shares plunge 7% on demerger of ice cream business,Upstox,-0.8404513373970985
+2025-12-01 08:00:00+00:00,"HUL shares rise 1% as Kwality Wall's to be listed on Nifty 50 for few days: Check price discovery date,...",Moneycontrol,0.2332699205726385
+2025-11-18 08:00:00+00:00,"HUL Demerger: FMCG giant announces record date for Kwality Wall's spin off — Check key details, shareholding ratio here",Mint,0.026068689301609993
+2025-08-01 07:00:00+00:00,"HUL shares rally 8% as brokerages raise target prices after Q1 results. Should you buy, sell or hold?",The Economic Times,0.020138006657361984
+2025-10-24 07:00:00+00:00,Why HUL Share Price is Falling,Equitymaster,-0.24681628495454788
+2025-11-19 08:00:00+00:00,HUL shares rise over 1% after firm sets December 5 as record date for ice-cream business demerger,The Economic Times,0.8298230562359095
+2025-09-09 07:00:00+00:00,India's Forgotten Stocks: Is Hindustan Unilever Losing its Shine?,Equitymaster,-0.9180987617000937
+2025-07-07 07:00:00+00:00,HUN Stock Analysis. Is Hindustan Unilever a buy or a sell?,TradingView,-0.010392226278781891
+2025-07-07 07:00:00+00:00,HUL share price gains 3% on demerger hopes and solid numbers,Value Research,0.9226012695580721
+2025-12-01 08:00:00+00:00,HUL Demerger: What happens to the stock ahead of the record date on Friday,CNBC TV18,-0.14406689070165157
+2025-09-09 07:00:00+00:00,"Buying HUL shares? What Jefferies, BofA targets indicate as Unilever cements India focus",Zee Business,0.03346822690218687
+2025-12-01 08:00:00+00:00,HUL Share Price Up As Kwality Wall’s Demerger Nears,Samco,0.8663763254880905
+2025-10-24 07:00:00+00:00,"HUL shares fall 3% today after Q2 results, brokerages see gradual recovery; should you buy or sell?",Moneycontrol,-0.9416917907074094
+2025-12-12 08:00:00+00:00,"Hindustan Unilever (HUL) Share Price Today: Why HINDUNILVR Stock Is Sliding on Dec 12, 2025 Amid Kwality Wall’s Demerger, Horlicks Push, and Analyst Targets",TechStock²,-0.9581350050866604
+2025-10-24 07:00:00+00:00,"HUL shares decline 5% as brokerages turn cautious post Q2 show. Should you buy, sell or hold?",The Economic Times,-0.79398637637496
+2025-10-23 07:00:00+00:00,Hindustan Unilever shares drop 5%: Here’s what management said after Q2 earnings,Upstox,-0.8281442560255527
+2025-12-02 08:00:00+00:00,"24:1 Bonus Issue, 1:5 Stock Split, Demerger: 3 Stocks to turn ex-date on Dec 5",Zee Business,-0.029164066538214684
+2025-11-19 08:00:00+00:00,HUL's ice cream biz demerger: What's in it for investors? Nuvama decodes,Business Standard,-0.0016219988465309143
+2025-12-01 08:00:00+00:00,HUL-Kwality Wall's demerger record date fixed for December 5: What it means for shareholders,Moneycontrol,0.04888153821229935
+2025-12-04 08:00:00+00:00,"HUL Demerger: Last Day To Apply | Check Share Split Ratio, Price Discovery, Listing Date And Other Key Details",NDTV Profit,-0.023478718474507332
+2025-12-10 08:00:00+00:00,Hindustan Unilever Share Price Today (10 December 2025): HUL Stock Turns Oversold After Kwality Wall’s Demerger,TechStock²,-0.9467543084174395
+2025-08-01 07:00:00+00:00,"HUL share price jumps 8% as brokerages turn bullish, hike target prices post solid Q1 show",Mint,0.8872977904975414
+2025-07-11 07:00:00+00:00,HUL shares rally 4% as Priya Nair gets CEO role: Why D-St is betting big on India's new consumer queen,The Economic Times,0.37090389244258404
+2025-11-25 08:00:00+00:00,India looking beyond Horlicks and Lux? A story of struggling HUL even as Sensex doubled in 5 years,The Economic Times,0.23329011909663677
+2025-08-01 07:00:00+00:00,"HUL shares jump 12% in 2 days as brokerages hike target prices after Q1 results: Should you buy, sell or...",Moneycontrol,0.3379240110516548
+2025-12-05 08:00:00+00:00,HUL demerger record date today: What it means for shareholders & key details to know,The Economic Times,-0.008681686595082283
+2025-09-28 07:00:00+00:00,"HUL shares fall over 2.7% as Q2 FY26 update dents sentiment; Marico, Britannia, and Nestlé India also follow suit; check details",Upstox,-0.9590685535222292
+2025-09-09 07:00:00+00:00,"HUL Share Price Gets A Boost: BofA Hikes Target Price — Should You Buy, Sell Or Hold?",NDTV Profit,0.20882461592555046
+2025-10-23 07:00:00+00:00,HUL shares rise 3% as Q2 net profit beats Street estimates; firm declares a dividend,The Economic Times,0.8726577162742615
+2025-12-04 08:00:00+00:00,HUL Shares In Focus On Kwality Wall’s Demerger Ex-Date: What Happens Today,NDTV Profit,-0.030601441860198975
+2025-11-19 08:00:00+00:00,"1:1 Split Of Mega FMCG Soon: HUL Sets Demerger Record Date: Entitlement Ratio, Eligibility & Recommendation",Goodreturns,0.013404667377471924
+2025-12-05 08:00:00+00:00,HUL shares see sharp 7% intraday slide on demerger record date: 5 things every investor needs to know,The Financial Express,-0.6088160146027803
+2025-08-16 07:00:00+00:00,Which Stock Will Win the Race to Rs 10 Trillion Market Cap: ITC or HUL?,Equitymaster,0.08723600208759308
+2025-10-31 07:00:00+00:00,HUL Demerger: Ice Cream Business Moves To New KWIL Entity,Samco,0.0748404748737812
+2025-07-11 07:00:00+00:00,HUL shares rise 4% as D-Street cheers appointment of Priya Nair as MD & CEO,Business Standard,0.63858987018466
+2025-10-24 07:00:00+00:00,"HUL, Colgate or Nestle? 2 of these 3 FMCG stocks can gain up to 15%: charts",Business Standard,0.8981165988370776
+2025-12-04 08:00:00+00:00,HUL shares in focus ahead of demerger record date; Here's why today is important,CNBC TV18,0.05714474804699421
+2025-10-23 07:00:00+00:00,HUL shares rise nearly 3% after Q2 results and dividend announcement,India Today,0.9140827339142561
+2025-10-23 07:00:00+00:00,HUL share price gains 3% after Q2 results. Should you buy the FMCG stock?,Mint,0.09718184731900692
+2025-12-13 08:00:00+00:00,"Hindustan Unilever (HUL) Stock Update: Share Price, Kwality Wall’s Demerger, Analyst Targets and 2026 Outlook (Dec 13, 2025)",TechStock²,0.011123470962047577
+2025-12-01 08:00:00+00:00,"HUL demerger record date on December 5: Check allotment ratio, Kwality Wall's listing window and other details",Mint,-0.019603563472628593
+2025-12-19 08:00:00+00:00,"HUL, ONGC, Trent among 7 BSE 100 stocks technically oversold on charts",Business Standard,-0.9565779995173216
+2025-12-05 08:00:00+00:00,"Hindustan Unilever shares adjust at ₹2,422 after adjusting for ice cream biz demerger",CNBC TV18,-0.0314447283744812
+2025-12-02 08:00:00+00:00,"HUL-Kwality Walls demerger: All details on key dates, allotment ratio, listing & targets",Business Today,-0.012331362813711166
+2025-07-31 07:00:00+00:00,HUL shares rise 4% in weak market; here's what's driving demand,Business Standard,-0.21979111433029175
+2025-12-05 08:00:00+00:00,HUL Demerger Record Date Today: Price discovery to revalue stock; Kwality Wall’s listing update,Zee Business,-0.005545660853385925
+2025-11-19 08:00:00+00:00,"HUL Demerger: Record date, share ratio and 7 ‘must know’ details every investor need to know",The Financial Express,-0.0007010549306869507
+2025-11-19 08:00:00+00:00,HUL Sets Dec 5 Record Date for 1:1 Share Issue Post-Demerger,HDFC Sky,0.009827226400375366
+2025-07-11 07:00:00+00:00,HUL shares surge 5% on Priya Nair's elevation to the top; Nuvama calls move a positive catalyst,CNBC TV18,0.9278554748743773
+2025-11-19 08:00:00+00:00,HUL Sets December 5 Record Date for Kwality Wall’s Demerger and Share Allocation,India Infoline,0.08375082537531853
+2025-10-24 07:00:00+00:00,"Nestle India vs HUL: From Volume growth to management commentary, here is how two FMCG giants fared in Q2FY26",Upstox,0.02350499853491783
+2025-11-04 08:00:00+00:00,Dabur India vs HUL: Which FMCG Stock To Buy For Dividend Ahead of Record Date Falling On 7th November?,Goodreturns,-0.016597876325249672
+2025-09-29 07:00:00+00:00,HUL shares fall 3% on muted Q2 business update as GST 2.0 delays spending,The Economic Times,-0.9623487228527665
+2025-07-31 07:00:00+00:00,Why HUL Share Price is Rising?,Equitymaster,-0.19363003969192505
+2025-11-12 08:00:00+00:00,NCLT Approves HUL Ice Cream Demerger into Kwality Wall’s; Shares Trade Flat,Equitypandit,0.8308061845600605
+2025-08-20 07:00:00+00:00,HUL shares rise 7% in 3 days on consumption boost hopes; good time to buy?,Business Standard,0.8083293344825506
+2025-11-19 08:00:00+00:00,"HUL demerger: What investors should track — record date, share ratio and Kwality Walls' upcoming listing",Business Today,0.0026791300624608994
+2025-09-29 07:00:00+00:00,Why HUL Share Price is Falling,Equitymaster,-0.24681628495454788
+2025-07-07 07:00:00+00:00,"FMCG shares in focus; HUL, Dabur, Bajaj Consumer rally up to 8%; here's why",Business Standard,0.9157197885215282
+2025-12-05 08:00:00+00:00,Hindustan Unilever to trade without ice cream business today,BusinessLine,-0.053569233044981956
+2025-11-24 08:00:00+00:00,"Stocks to Watch today, Nov 24: HUL, TCS, RVNL, HG Infra, Marico",Business Standard,0.03767974674701691
+2025-11-28 08:00:00+00:00,HUL Demerger Explained: Why Kwality Wall's India Will Remain In Nifty 50 For Few Days,NDTV Profit,0.06811944022774696
+2025-08-12 07:00:00+00:00,"Stocks to buy for short term: Eternal, HUL, Policybazaar among 5 shares experts suggest for the next 2-3 weeks",Mint,0.05992782674729824
+2025-08-26 07:00:00+00:00,"HUL, Britannia, Nestle gain up to 3%. Is this good time to buy FMCG stocks?",Business Standard,0.26053494960069656
+2025-11-23 08:00:00+00:00,Kwality Walls (India) Limited Unveils New Board of Directors Ahead of HUL Demerger,scanx.trade,-0.003597114235162735
+2025-11-19 08:00:00+00:00,"Stocks to watch: Hindustan Unilever, Infosys, Tata Consultancy Services among 10 shares in focus today",Mint,0.029945168644189835
+2025-12-02 08:00:00+00:00,HUL-Kwality Wall's Demerger Record Date Fixed: Dec 5,HDFC Sky,-0.015578752383589745
+2025-11-30 08:00:00+00:00,"Upcoming dividends, stock splits, bonuses this week: CAMS, Engineers India, Hindustan Unilever among others in focus",Upstox,-0.023606721311807632
+2025-10-24 07:00:00+00:00,HUL Share Price: 75% of analysts tracking remain bullish on the FMCG giant,CNBC TV18,0.17776915431022644
+2025-11-18 08:00:00+00:00,"HUL Sets December 1, 2025, as Effective Date for Kwality Walls Demerger Scheme",scanx.trade,0.003686068579554558
+2025-10-24 07:00:00+00:00,HUL share price: FMCG stock falls 5% post Q2; JM Financial sees 11% upside potential,Business Today,-0.9620091505348682
+2025-08-01 07:00:00+00:00,"HUL's sunny outlook: Q1 results hint worst is over, but can growth sustain? | Stock Market News",Mint,-0.012898467481136322
+2025-11-21 08:00:00+00:00,HUL Ice Cream Demerger: Cost Apportionment Guidance Issued to Shareholders,scanx.trade,0.03080233372747898
+2025-08-01 07:00:00+00:00,HUL shares end 1% higher after 8% intraday surge; what's ahead?,Business Today,0.27975598722696304
+2025-08-22 07:00:00+00:00,"HUL, Vedanta, Kalpataru, Sellwin 10 stocks in focus on Aug 22, know why?",BusinessLine,0.008207976818084717
+2025-08-20 07:00:00+00:00,HUL Gains 2.43% on GST Reform Buzz; Up 7.32% in 5 Days,HDFC Sky,0.9236473795026541
+2025-08-01 07:00:00+00:00,HUL gains 11% in two days of posting Q1 results; most brokerages hike TP,Business Standard,0.8379740603268147
+2025-07-11 07:00:00+00:00,"Stocks to Watch on Friday, July 11: TCS, Tata Elxsi, HUL, PC Jeweller, Krystal Integrated Services, LIC, Oil India and more",The Indian Express,0.017699871212244034
+2025-12-05 08:00:00+00:00,"HUL–Kwality Wall’s Split Explained: Listing Timeline, Valuation, and What It Means for Investors",outlookbusiness.com,0.007634088397026062
+2025-09-29 07:00:00+00:00,Hindustan Unilever shares end lower after subdued Q2 update,CNBC TV18,-0.9548064069822431
+2025-12-10 08:00:00+00:00,"Hindustan Unilever Sees ₹75.15 Crore NSE Block Trade at ₹2,308.50 Per Share",scanx.trade,0.006998788565397263
+2025-07-10 07:00:00+00:00,Leadership Milestone: HUL Shares Surge 5% as Priya Nair Named First Woman CEO,Deccan Herald,0.8822214175015688
+2025-08-04 07:00:00+00:00,Unilever India’s New CEO Has to Invigorate a Sluggish Consumer Giant,Bloomberg.com,-0.21444785594940186
+2025-11-12 08:00:00+00:00,"Stocks in Focus: Paras Defence, Hindustan Unilever, and Others",Equitypandit,-0.003182247281074524
