@@ -1,0 +1,590 @@
+date,headline,source,sentiment
+2020-03-31 07:00:00+00:00,Bharti Airtel share price up 4% as Motilal Oswal sees 44% upside on strong ARPU,Moneycontrol,0.9205992855131626
+2020-05-26 07:00:00+00:00,"Bharti to sell 2.75% stake in Airtel for $1bn, reduce debt",The Times of India,0.0961174638941884
+2020-06-04 07:00:00+00:00,"Bharti Airtel Shares May Double in Three Years, Jefferies Says",Bloomberg.com,0.9235823098570108
+2020-05-26 07:00:00+00:00,Bharti Telecom’s decision to retire debt is good for Airtel investors,Mint,0.9247750900685787
+2020-05-26 07:00:00+00:00,Bharti Airtel slips 5% after promoters sell 2.75% stake via block deals,Business Standard,-0.9468326596543193
+2020-02-14 08:00:00+00:00,Bharti Airtel Second Most Valuable Mobile Operator In Emerging Asia,Communications Today,0.8564060805365443
+2020-06-05 07:00:00+00:00,"With Amazon deal, Bharti Airtel is looking to mount a comeback against Reliance Jio",The Indian Express,0.9077577432617545
+2020-01-09 08:00:00+00:00,"Investors put in jumbo orders for Airtel’s $3bn QIP, CB combo",GlobalCapital,0.8488422278314829
+2020-02-28 08:00:00+00:00,Warburg Pincus: I’ll be there for you,Fortune India,0.08178206905722618
+2020-05-25 07:00:00+00:00,Bharti Airtel promoter to sell shares worth $1 billion | Business News,Hindustan Times,0.07891937717795372
+2020-02-06 08:00:00+00:00,Bharti Airtel crosses ₹3 trillion m-cap first time,Mint,0.7393289692699909
+2020-05-26 07:00:00+00:00,"Bharti Telecom sells 2.75% stake in Airtel for Rs 8,433 crore to institutional investors",The Times of India,0.03761221747845411
+2020-01-10 08:00:00+00:00,"Traders’ Diary: Long buildup in Sun TV, Bharti Airtel, DLF, Torrent Power",The Economic Times,-0.5212526470422745
+2020-06-04 07:00:00+00:00,Amazon Eyes $2 Billion Stake in Bharti Airtel: Report,Bloomberg.com,0.04256889969110489
+2020-06-04 07:00:00+00:00,Amazon in talks to buy 5% stake worth $2 billion in Bharti Airtel: Report,Business Standard,0.057796910405159
+2020-05-29 07:00:00+00:00,Google searching for 5% in Vodafone Idea; analysts say why not Airtel?,ET Telecom,0.11225875280797482
+2020-01-22 08:00:00+00:00,"Bharti Airtel, Western Union team up for real-time payments service",Mint,0.1928501008078456
+2020-02-20 08:00:00+00:00,"Airtel will pay dues before March 17, says Sunil Bharti Mittal",The Times of India,0.02501760423183441
+2020-05-11 07:00:00+00:00,Vodafone Idea stock price rises over 9% in early session,The Times of India,0.7852145209908485
+2020-04-15 07:00:00+00:00,"Bharti Airtel becomes fifth most valued firm by m-cap, surpasses HDFC",India TV News,0.9125517457723618
+2020-01-21 08:00:00+00:00,Merger talks between Dish TV and Airtel Digital TV stalled over deal structure,Exchange4Media,-0.8885212577879429
+2020-02-21 08:00:00+00:00,Relief for Vodafone Idea as Infratel-Indus deal gets government nod,Mint,0.9260438038036227
+2020-01-22 08:00:00+00:00,"Merger talks between Dish TV, Airtel Digital come to a halt",The Statesman,-0.7880072388797998
+2020-04-08 07:00:00+00:00,Airtel Xstream offers free access to premium kids content,Mint,0.1531461994163692
+2020-03-13 07:00:00+00:00,"Markets stage sharp recovery; Sensex ends 1,325 points up, Nifty reclaims 10k",Mint,0.8611917085945606
+2020-01-20 08:00:00+00:00,Airtel launches new ₹179 prepaid plan with ₹2 lakh life insurance cover,Mint,0.6392078241333365
+2020-04-17 07:00:00+00:00,Investors get richer by ₹2.83 lakh crore as RBI booster shot lifts market,Mint,0.8888031430542469
+2020-02-21 08:00:00+00:00,Government may hire auditors to settle AGR dues row,Mint,-0.056338150054216385
+2020-03-02 08:00:00+00:00,"Sensex, Nifty close lower as India confirms new coronavirus cases",Mint,-0.880620189011097
+2020-03-27 07:00:00+00:00,"Sensex ends down after choppy trade; Coal India, Axis Bank lead gains",Mint,-0.8772743009030819
+2020-01-22 08:00:00+00:00,"Share Market Update: Sensex ends 208 points lower, Nifty below 12,111; Coal India, NTPC, ONGC top losers",Business Today,-0.9464453952386975
+2020-04-18 07:00:00+00:00,Reliance Jio extends validity of prepaid plans,Mint,-0.0064032673835754395
+2020-01-23 08:00:00+00:00,Telcos to take a call on paying AGR dues today,Mint,0.019369494169950485
+2020-05-04 07:00:00+00:00,"Sensex closes 2,000 points lower, Nifty below 9,300; Banks, auto stocks bleed",Mint,-0.9400290790945292
+2020-02-28 08:00:00+00:00,Coronavirus stings D-Street; Sensex crashes 1448 points,Mint,-0.631262369453907
+2020-01-06 08:00:00+00:00,"Airtel DTH, Dish TV, Tata Sky to soon offer more channels in ₹130 recharge plan",Mint,0.21283995173871517
+2020-06-22 07:00:00+00:00,Chinese funds make their way into India as ICBC's assets rise,Mint,0.049858005717396736
+2020-03-17 07:00:00+00:00,India's super rich stranded as private jet operators say no to travel,Mint,-0.8140773214399815
+2020-06-07 07:00:00+00:00,"In Baring PE's move to delist Hexaware, there is a history of failed exits",Mint,-0.11832501366734505
+2020-01-24 08:00:00+00:00,The uneasy birth of India's Constitution,Mint,-0.07463380694389343
+2020-01-17 08:00:00+00:00,Mobile Operator Airtel Plans To Raise $37.5M Through Malawi IPO,Moguldom,0.38045697193592787
+2020-06-04 07:00:00+00:00,"Amazon May Invest $2 Billion For 5% Stake In Bharti Airtel, Claims Report",Indiatimes,0.1155778649263084
+2020-06-05 07:00:00+00:00,Bharti Airtel clarifies that there is no proposal from Amazon to buy stake,OnlyTech,0.023630550131201744
+2020-01-02 08:00:00+00:00,Airtel share sale on Malawi Stock Exchange under intense scrutiny,Malawi Nyasa Times,-0.03864434361457825
+2020-09-18 07:00:00+00:00,Why are Bharti Airtel shares underperforming?,Capitalmind,-0.8962365388870239
+2020-10-31 07:00:00+00:00,Bharti Airtel Stock Analysis| Q2FY21 Results Analysis,Invest Yadnya,-0.013544492423534393
+2020-12-02 08:00:00+00:00,"Airtel ups stake in Bharti Infratel by 4.94% via block deals, pays average Rs 2,882.32 crore",ET Telecom,0.329422808252275
+2020-10-25 07:00:00+00:00,"Bharti Airtel a formidable No 2 in all pricing scenarios, say analysts",Business Standard,0.35590896755456924
+2020-07-27 07:00:00+00:00,Airtel vs Jio | 6 Point Analysis,Invest Yadnya,0.6346506923437119
+2020-07-14 07:00:00+00:00,Bharti Airtel to announce partnership with Verizon,Mint,0.6276084082201123
+2020-12-08 08:00:00+00:00,Airtel vs Jio vs Vodafone Idea,Invest Yadnya,0.1862326990813017
+2020-12-03 08:00:00+00:00,"Airtel buys 4.9% stake in Bharti Infratel for ₹2,882 cr",Mint,0.03542346507310867
+2020-07-14 07:00:00+00:00,"NCLAT directs Bharti Airtel, Bharti Hexacom to pay ₹112 crore to Aircel",Mint,0.1321800509467721
+2020-08-24 07:00:00+00:00,'$2 for 16 GB data not sustainable': Sunil Mittal hints at mobile services rate hike,Mint,-0.28943514823913574
+2020-11-19 08:00:00+00:00,"Bharti Infratel, Indus Towers merger complete; Vodafone Idea sells Indus stake for ₹3,760 cr",Mint,0.10069802310317755
+2020-11-23 08:00:00+00:00,Airtel partners with Vedantu to provide classes via DTH channels at ₹4 per day,Mint,0.26077122148126364
+2020-12-08 08:00:00+00:00,"Private sector must end differences to create 5G ecosystem, says Airtel CEO",Mint,0.2049498651176691
+2020-10-26 07:00:00+00:00,Airtel rolls out cloud-based communications platform for biz; tunes into $1 billion market,The Times of India,0.6320179738104343
+2020-07-19 07:00:00+00:00,"Jio for rationalization of international roaming charges unlike Airtel, Vodafone Idea",Mint,0.11989148519933224
+2020-12-24 08:00:00+00:00,"Biggest Bangladeshi IPO in a decade, Robi Axiata surges 50% on debut in Dhaka",The Indian Express,0.9148091897368431
+2020-09-06 07:00:00+00:00,Airtel Xstream Fiber new broadband plans to counter Reliance Jio Fiber: Details here,Mint,0.13812916539609432
+2020-09-30 07:00:00+00:00,Trai asks telcos to keep international roaming services inactive by default,Mint,-0.12344180792570114
+2020-07-07 07:00:00+00:00,Airtel launches new ₹289 prepaid plan with Zee5 content for free: Details here,Mint,0.04786456935107708
+2020-08-23 07:00:00+00:00,"Airtel, Reliance Jio prepaid plans that offer free one-year of Disney+ Hotstar subscription",Mint,0.2354552373290062
+2020-11-23 08:00:00+00:00,Frequent stock trading may mean your gains are treated as business income,Mint,-0.08630507811903954
+2020-08-24 07:00:00+00:00,India’s inflation targeting raises tough questions,Mint,-0.21278547495603561
+2020-12-14 08:00:00+00:00,"Boycott Jio: Reliance alleges Airtel, Vi luring customers to opt out of Jio over farmers' protest, rivals junk charge",India Today,-0.8963086130097508
+2020-12-15 08:00:00+00:00,India Post Payments Bank launches its digital payments' services 'DakPay',Mint,0.39802753925323486
+2020-10-06 07:00:00+00:00,"Railways restores second reservation chart system, to be issued 30 minutes before departure",Mint,0.04953523725271225
+2020-10-12 07:00:00+00:00,Razorpay is latest fintech unicorn,Mint,0.048696436919271946
+2020-10-27 07:00:00+00:00,Reasons behind Airtel exit from Ghana for good,MyJoyOnline,0.04968874901533127
+2020-10-27 07:00:00+00:00,Bharti Airtel to exit Ghana telecom market,The Business & Financial Times,-0.2656060215085745
+2021-02-18 08:00:00+00:00,What Is Bharti Airtel Upto?,Capitalmind,0.0026372000575065613
+2021-02-15 08:00:00+00:00,Hot Stocks | Here's why Muthoot Finance and Bharti Airtel are two short-term trading ideas,Moneycontrol,-0.005585767328739166
+2021-04-15 07:00:00+00:00,Airtel shifts digital assets to Bharti Airtel,The Times of India,-0.0006489157676696777
+2021-05-18 07:00:00+00:00,Bharti Airtel Q4: Back to Quarterly Profit on Subscriber Additions & Data Usage,Equitymaster,0.09729114174842834
+2021-04-15 07:00:00+00:00,Bharti Airtel Share Price – How will the new corporate structure impact company stock? Zee Business has this EXCLUSIVE report,Zee Business,-0.0028262343257665634
+2021-02-04 08:00:00+00:00,"Airtel takes on growth leadership mantle, as Reliance Jio slows down",Mint,0.2627560868859291
+2021-05-31 07:00:00+00:00,"Indus Tower, Bharti Airtel, Vodafone Idea Merger to Create A Mega Tower Company",Libertatem Magazine,0.30611435137689114
+2021-02-20 08:00:00+00:00,Airtel DTH exit a blip in Warburg Pincus' blockbuster India story,Business Standard,-0.7554899137467146
+2021-03-15 07:00:00+00:00,Airtel Becomes India's First Telecom Operator To Offer 1 GBPS Speed As Part Of Xstream Fiber Package,Swarajyamag,0.7199459886178374
+2021-03-22 07:00:00+00:00,Airtel dilutes 0.664% stake to Warburg Pincus' Lion Meadow,ET Telecom,-0.004762390628457069
+2021-04-14 07:00:00+00:00,Bharti Airtel forms new telecom entity for big digital push,Mint,0.10454621445387602
+2021-02-12 08:00:00+00:00,"Nifty at a high, but only 11 stocks are at record levels: A warning or an opportunity?",Moneycontrol,-0.018292412161827087
+2021-05-17 07:00:00+00:00,"Bharti Airtel posts Rs 759 crore profit in Q4, revenue surges 12%",The Times of India,0.8997757732868195
+2021-02-18 08:00:00+00:00,Airtel to acquire 20% stake in Bharti Telemedia from Warburg Pincus,Mint,0.06754579581320286
+2021-04-15 07:00:00+00:00,Airtel introduces new corporate structure to focus on digital assets,ET Telecom,0.18289929814636707
+2021-01-10 08:00:00+00:00,Airtel appoints Pradipt Kapoor as chief information officer,Mint,0.007847346365451813
+2021-02-26 08:00:00+00:00,Airtel Digital to buy 10% in Tata Group's Ferbine for bigger finance play,ET Telecom,0.20691700838506222
+2021-06-22 07:00:00+00:00,Airtel ropes in Tatas for 5G tech to counter Jio’s march,The Times of India,0.9252324318513274
+2021-01-15 08:00:00+00:00,Airtel Xstream Fiber launches the Gigabit Wi-Fi Experience,Mint,0.17351437732577324
+2021-01-15 08:00:00+00:00,Telecom giant Bharti Airtel divests stake in Seynse Technologies,Business Standard,-0.07528499700129032
+2021-01-11 08:00:00+00:00,"Markets open at fresh highs, sensex crosses 49,000-mark for first time ever; Nifty above 14,400",The Times of India,0.8905822820961475
+2021-05-21 07:00:00+00:00,Market cap of BSE firms hits a record $3 trillion as stocks rally,Mint,0.32194802165031433
+2021-03-09 08:00:00+00:00,"Stock Market Highlights: Sensex gains 581 pts to end above 51k, Nifty at 15,098; bank, IT stocks lead rally",Business Today,0.855799276381731
+2021-01-18 08:00:00+00:00,"Post fundraising, Reliance stock has lost some lustre",Mint,-0.823436938226223
+2021-03-30 07:00:00+00:00,"If US has FAANG, India has HRITHIK and SALMAN stocks",Mint,0.0912829115986824
+2021-04-19 07:00:00+00:00,Airtel Payments Bank hikes day-end balance by up to ₹2 lakh. 5 things to know for opening an account,Mint,-0.09462243318557739
+2021-01-16 08:00:00+00:00,How to use flexi and sweep-in fixed deposit facility effectively,Mint,0.03289105091243982
+2021-06-03 07:00:00+00:00,State Bank of India torn between BlackRock and funding coal,Mint,-0.8619608990848064
+2021-02-04 08:00:00+00:00,"BSE m-cap at Rs 200 trillion as Sensex ends 358 pts up at 50,614; PSBs jump",Business Standard,0.21217208355665207
+2021-01-15 08:00:00+00:00,"Airtel, Jio, BSNL remind users to prefix 0 for landline to mobile calls from tomorrow",Mint,0.044421978294849396
+2021-04-12 07:00:00+00:00,Deloitte to hire more professionals in India. 'This is India’s century': CEO,Mint,0.5132770389318466
+2021-04-07 07:00:00+00:00,Payments bank deposit limit doubled by RBI,Mint,0.5077831782400608
+2021-04-15 07:00:00+00:00,"Govt, Airtel yet to agree on share sale",thecitizen.co.tz,0.04967700131237507
+2021-04-08 07:00:00+00:00,Government shares in Airtel Tanzania rise to 49pc,thecitizen.co.tz,0.8128854101523757
+2021-08-26 07:00:00+00:00,Airtel stock down 1.5% in early trade; board to meet Aug 29 on fund raise,ET Telecom,-0.953873478807509
+2021-10-02 07:00:00+00:00,Why investors should subscribe to Bharti Airtel rights issue,BusinessLine,0.029028046876192093
+2021-12-02 08:00:00+00:00,The big telco looking to buy out Dish TV | Company Business News,Mint,0.04134667105972767
+2021-07-03 07:00:00+00:00,Bharti Airtel Became Largest Telco in Revenue Terms in 4QFY21: Report,Goodreturns,0.41264613438397646
+2021-10-11 07:00:00+00:00,Everything you need to know about Rights Issue of shares,Capitalmind,0.0027900803834199905
+2021-08-05 07:00:00+00:00,Indian shares end higher; markets await RBI policy decision,Reuters,0.5109879821538925
+2021-10-08 07:00:00+00:00,"Bharti Airtel names Soumen Ray as new CFO for India, S. Asia",The Economic Times,0.06539978459477425
+2021-10-29 07:00:00+00:00,5 Penny Stocks that Went on to Become Largecaps,Equitymaster,0.04873503930866718
+2021-08-29 07:00:00+00:00,"Airtel board approves up to Rs 21,000 crore rights issue: filing",Business Standard,0.042017340660095215
+2021-11-03 07:00:00+00:00,Ghana completes acquisition of AirtelTigo,Mobile World Live,0.4465102981775999
+2021-09-04 07:00:00+00:00,"Bharti Airtel's capital raise will keep leverage stable, says Moody's",Mint,0.9189956495538354
+2021-08-28 07:00:00+00:00,"After Jio, Google now in talks to make large investments in Airtel",The Times of India,0.4031894523650408
+2021-11-22 08:00:00+00:00,Bharti Airtel Announces Revised Mobile Tariffs; Shares Hit 52-Week High,Goodreturns,0.6375027596950531
+2021-08-29 07:00:00+00:00,"Bharti Airtel board approves raising up to ₹21,000 cr via rights issue",Mint,0.7477809684351087
+2021-10-28 07:00:00+00:00,"Bharti Airtel raises Rs 5246.85 crore in first tranche of Rs 21,000-cr rights issue",ET Telecom,0.47499512787908316
+2021-10-04 07:00:00+00:00,Bharti Airtel: Airtel appoints Rajiv Sharma as Head of Investor Relations,ET Telecom,0.011329714208841324
+2021-11-22 08:00:00+00:00,"Bharti Airtel revises prepaid mobile tariffs, shares surge",Mint,-0.03495003283023834
+2021-09-16 07:00:00+00:00,Airtel hikes prices of plans offering Disney+Hotstar subscription,The Times of India,-0.716201901435852
+2021-09-08 07:00:00+00:00,Five stocks that turned Rs1 lakh into Rs1 crore,Mint,0.21884196065366268
+2021-10-01 07:00:00+00:00,Bharti Airtel plans big push into data,Mint,0.6488103969022632
+2021-07-21 07:00:00+00:00,Bharti Airtel-Intel network deal to speed up 5G service roll-out,Business Standard,0.9195502605289221
+2021-07-31 07:00:00+00:00,All 26 Airtel telecom circles show identical subscriber fall of 1.3% in May,Business Standard,-0.9664992867037654
+2021-11-03 07:00:00+00:00,Government Of Ghana Completes Takeover Of AirtelTigo,Outlook India,0.0890313321724534
+2021-08-05 07:00:00+00:00,Vodafone Idea shares slump 24% as Kumar Mangalam Birla exits,The Times of India,-0.686795100569725
+2021-08-30 07:00:00+00:00,"Market Highlights: Sensex surges 765 points, Nifty settles above 16,900-mark",The Indian Express,0.6955910511314869
+2021-11-02 07:00:00+00:00,"Sensex closes 109 points down, Nifty below 17,900; metal, pharma top drags",Mint,-0.9444266417995095
+2021-09-15 07:00:00+00:00,Govt relief package for telecom sector explained in 10 points,Mint,0.10683724284172058
+2021-11-23 08:00:00+00:00,Airtel increases tariff plan again,The Indian Awaaz,0.7752280831336975
+2021-11-24 08:00:00+00:00,"Sensex sheds over 300 points, Nifty ends below 17,500; auto, IT stocks drag",Mint,-0.8011003658175468
+2021-11-22 08:00:00+00:00,"Sensex bleeds 1,200 points, Nifty ends below 17,500 in broad-based selling",Mint,-0.382694099098444
+2021-12-29 08:00:00+00:00,"Sensex ends 90 pts down, Nifty above 17,200; Pharma, Auto gain",Mint,-0.945596537552774
+2021-09-07 07:00:00+00:00,"Sensex closes at 58,279, Nifty at 17,362; IT, realty, metals, pharma top drags",Mint,-0.2788196802139282
+2021-11-25 08:00:00+00:00,"Sensex soars 450 points, Nifty ends above 17,500; IT, Pharma stocks surge",Mint,0.24395079351961613
+2021-07-22 07:00:00+00:00,Airtel scraps ₹749 family postpaid plan. What's new for retail users,Mint,-0.1143229678273201
+2021-11-03 07:00:00+00:00,"Sensex, Nifty close in the red, paring early gains; banking, auto top drags",Mint,0.34108711779117584
+2021-12-17 08:00:00+00:00,"Sensex ends 800 points lower, Nifty below 17K as banks, realty hit; IT soars",Mint,-0.9392741918563843
+2021-09-27 07:00:00+00:00,"Sensex closes 29 pts lower, Nifty at 17,855; IT, pharma top drags; auto gains",Mint,-0.916574738919735
+2021-11-23 08:00:00+00:00,"Sensex jumps 198 pts, Nifty reclaims 17,503; power, realty, pharma stocks shine",Mint,0.48867801018059254
+2021-07-15 07:00:00+00:00,"Sensex, Nifty close at record highs; IT, realty top gainers; pharma stocks drag",Mint,0.3292233981192112
+2021-08-31 07:00:00+00:00,"Sensex closes at 57,552, Nifty at 17,132 on metal surge; all eyes on GDP data",Mint,-0.2630380913615227
+2021-08-10 07:00:00+00:00,"Sensex closes 152 pts lower, Nifty at 16,280; IT top gainer; metals, realty drag",Mint,-0.8902580365538597
+2021-11-10 08:00:00+00:00,Nykaa's founder becomes India's wealthiest self-made female billionaire as shares make strong debut,Mint,0.8971105488017201
+2021-12-20 08:00:00+00:00,"Sensex tanks 1,100 points, Nifty ends below 17.7k as broader indices hit",Mint,-0.8157779015600681
+2021-11-29 08:00:00+00:00,Jio vs Airtel vs Vodafone Idea prepaid plans compared. Know the difference,Mint,0.43721567932516336
+2021-11-23 08:00:00+00:00,Lakshmi Vilas Bank shares were delisted. Will it be considered capital loss?,Mint,-0.47774653881788254
+2021-10-02 07:00:00+00:00,Meet the magic mould called koji,Mint,0.10764673352241516
+2021-11-08 08:00:00+00:00,"In a first, an Indian cheese wins big at the World Cheese Awards",Mint,0.8662320813164115
+2021-09-24 07:00:00+00:00,"Amazon Prime Video adds channels, turns content aggregator",Mint,0.04138069041073322
+2022-06-13 07:00:00+00:00,Why Bharti Airtel Share Price is Falling,Equitymaster,-0.18231837823987007
+2022-01-28 08:00:00+00:00,Google to invest up to $1 billion in India's Bharti Airtel,Reuters,0.2951098461635411
+2022-02-07 08:00:00+00:00,Airtel to spend Rs 1.2 lakh crore on biz with own companies over 5 years,The Times of India,0.6076810751110315
+2022-01-05 08:00:00+00:00,Bharti Airtel forms a JV with Hughes to provide satellite broadband services in India; Stock gains,India Infoline,0.09482113271951675
+2022-01-28 08:00:00+00:00,Google is investing another $1 billion in India’s smartphone market,CNN,0.28557997196912766
+2022-05-19 07:00:00+00:00,Bharti Airtel Trades Weak Despite Strong Q4,Equitypandit,-0.9407813940197229
+2022-04-12 07:00:00+00:00,Adani Green Energy topples Bharti Airtel as India’s 10th most valued company,Fortune India,0.8236171118915081
+2022-06-24 07:00:00+00:00,Bharti Airtel and Vodafone Idea Stocks Performed Well on Friday,TelecomTalk,0.9239604193717241
+2022-01-05 08:00:00+00:00,"Bharti Airtel, BPCL, Future Retail, Bajaj Finance and more: Top stocks to watch out for on Jan 5",CNBC TV18,0.08408505748957396
+2022-02-25 08:00:00+00:00,Bharti Airtel to buy 4.7% stake in Indus Towers from Vodafone Plc,Moneycontrol,0.06760343909263611
+2022-03-28 07:00:00+00:00,"Global View: Bharti Airtel, PVR, SBI Cards and Embassy REIT could give 10-70% return",Zee Business,0.4811786450445652
+2022-03-25 07:00:00+00:00,"Airtel to acquire Vodafone's 4.7% stake in Indus Towers for Rs 2,388 crore",The Times of India,0.05084846168756485
+2022-02-21 08:00:00+00:00,Bharti Airtel enters SEA-ME-WE-6 undersea cable consortium,India Infoline,0.121918891556561
+2022-02-25 08:00:00+00:00,Airtel to acquire Vodafone's 4.7% stake in Indus Towers if funds are used for VIL,The Times of India,0.0674655120819807
+2022-01-20 08:00:00+00:00,NSE Indices launched Nifty India Digital Index,Mint,0.030936524271965027
+2022-06-08 07:00:00+00:00,Airtel claims its payments bank arm is unicorn,The Times of India,-0.001954704523086548
+2022-01-06 08:00:00+00:00,Shares of Airtel Africa hit all-time high,ET Telecom,0.8946117740124464
+2022-01-05 08:00:00+00:00,Airtel Payments Bank gets scheduled bank status from RBI,The Times of India,0.09858752973377705
+2022-02-23 08:00:00+00:00,Vodafone to pare stake in Indus Towers; More deals in the works as Vi revival key,Moneycontrol,0.01932528056204319
+2022-03-08 08:00:00+00:00,Trade setup for today: Top 15 things to know before the opening bell,Moneycontrol,-0.010384202003479004
+2022-06-22 07:00:00+00:00,"Carlyle completes acquisition of 24% stake in Airtel’s Nxtra for Rs 1,788 crore",The Economic Times,0.11293140333145857
+2022-01-04 08:00:00+00:00,Airtel Payments Bank gets scheduled bank status from RBI,Mint,0.09858752973377705
+2022-02-10 08:00:00+00:00,Airtel launches Xstream Premium with 15 OTT services. Details here,Mint,0.05764158256351948
+2022-03-25 07:00:00+00:00,These 5 multibagger stocks give up to 3450% return in 2 years,Mint,0.7834014622494578
+2022-03-21 07:00:00+00:00,"Following SEBI's orders, digital gold investors to opt for redemption",Mint,0.3246925659477711
+2022-08-10 07:00:00+00:00,Bharti Airtel shares rise after steady Q1 show. Should you buy?,Mint,0.33682742714881897
+2022-07-14 07:00:00+00:00,"Bharti Airtel allots 1.2% equity shares to Google for Rs 5,224 crore",The Times of India,0.024504450149834156
+2022-08-18 07:00:00+00:00,Airtel share hits 3-month high on spectrum payment,Fortune India,0.8799229823052883
+2022-07-21 07:00:00+00:00,Why did Google Invest in Bharti Airtel,Equitymaster,0.019297447055578232
+2022-07-14 07:00:00+00:00,Bharti Airtel approves preferential allotment of 7.11 crore shares to Google,Moneycontrol,0.5601850682869554
+2022-07-11 07:00:00+00:00,"Gautam Adani enters telecom: Is the impact on Bharti Airtel, Vodafone Idea stocks temporary?",The Economic Times,-0.5087818708270788
+2022-10-31 07:00:00+00:00,Bharti Airtel Posts Profit Miss as 5G Rollout Gets Underway,Bloomberg.com,-0.13598820567131042
+2022-08-01 07:00:00+00:00,Ambani and Adani: Asia's richest men battle to dominate 5G in India,BBC,0.18806553073227406
+2022-09-15 07:00:00+00:00,Top Stocks Under Rs 1000 to add to your watchlist – Detailed Analysis,Trade Brains,0.03545870818197727
+2022-07-15 07:00:00+00:00,"Airtel closes Google deal, allots 1.2% stake",Mint,0.05108731798827648
+2022-08-26 07:00:00+00:00,Singtel to sell 3.33% in Bharti Airtel to Bharti Telecom,ET Telecom,0.022991926409304142
+2022-09-21 07:00:00+00:00,The Great Indian Revival. 5 Stocks to Play this Multi-Decade Build Out of India,Equitymaster,0.09096629917621613
+2022-09-22 07:00:00+00:00,"SingTel's arm Pastel sells 1.59% stake in Bharti Airtel for ₹7,261 crore",Mint,0.017724396660923958
+2022-07-12 07:00:00+00:00,"India’s data center market big enough for all players to co-exist: Rajesh Tapadia, CEO, Nxtra by Airtel",Indiatimes,0.11424164567142725
+2022-10-10 07:00:00+00:00,Airtel will start paying out dividends from FY24: report,Mint,0.0308669600635767
+2022-08-26 07:00:00+00:00,"Bharti co to buy Rs 13,000 crore Airtel stake from Singtel",The Times of India,0.1753679532557726
+2022-12-06 08:00:00+00:00,Airtel introduces ‘World Pass’: Everything you need to know,Mint,0.04439268447458744
+2022-10-06 07:00:00+00:00,Airtel customers in 8 cities can go 5G on existing data plans without changing 4G SIM,The Economic Times,0.07766939699649811
+2022-12-23 08:00:00+00:00,Airtel 5G Plus now available in Pune,Mint,0.08473851159214973
+2022-11-01 07:00:00+00:00,"Maruti Suzuki, L&T, ITC, Bharti Airtel, IndusInd Bank: Which large-cap stock is a better pick post Q2 result?",Business Today,0.0752289742231369
+2022-08-25 07:00:00+00:00,"Mittal family increases stake in Airtel, group arm to buy 3.3% from Singtel",Business Standard,0.48092589527368546
+2022-09-08 07:00:00+00:00,Airtel 5G services coming by September end: Gopal Vittal,Mint,0.04608154110610485
+2022-09-30 07:00:00+00:00,Airtel plans to roll out 5G on October 1st; Check its latest target,Trade Brains,0.07417491264641285
+2022-09-29 07:00:00+00:00,₹1 lakh rises more than 100 times to ₹1.12 crore in 21 years as PSU stock gave bonus shares on 4 occasion,Mint,0.8785844277590513
+2022-11-21 08:00:00+00:00,Airtel launches 5G services in Guwahati,The Financial Express,0.2837065989151597
+2022-07-04 07:00:00+00:00,Multibagger Porinju Veliyath stock turns ₹1 lakh to ₹13 lakh in 2 years,Mint,0.46434101462364197
+2022-12-07 08:00:00+00:00,"Airtel World Pass international roaming plans launched in India: Price, benefits, and more",The Financial Express,0.09127155039459467
+2022-08-16 07:00:00+00:00,Rakesh Jhunjhunwala: India's Warren Buffett's image was not soiled with scams,Mint,-0.02430395781993866
+2022-09-28 07:00:00+00:00,Airtel Payments Bank launches Micro ATMs to facilitate easy cash withdrawal,The Financial Express,0.6501970672979951
+2022-09-17 07:00:00+00:00,Dual SIM usage is in free fall as tariffs rise,Mint,-0.5997086092829704
+2022-10-14 07:00:00+00:00,Airtel vs Jio vs Excitel vs BSNL vs ACT: Best broadband plans under Rs 500,The Financial Express,0.914719395339489
+2022-12-20 08:00:00+00:00,"Sudarshan Sukhani: BUY Bharti Airtel, ICICI Prudential; SELL Delta Corp and Lupin",topnews.in,0.07184589188545942
+2023-01-12 08:00:00+00:00,Why Bharti Airtel Share Price is Falling,Equitymaster,-0.18231837823987007
+2023-03-27 07:00:00+00:00,India’s Airtel Nxtra to double capacity by 2025 to increase market share,Light Reading,0.9343278929591179
+2023-05-17 07:00:00+00:00,Bharti Airtel Shares Up 1% After March Quarter Results,Equitypandit,0.9268131069839001
+2023-04-17 07:00:00+00:00,"Bharti Airtel shares a long-term 'Buy', analysts bullish ahead of Q4",Mint,0.895060308277607
+2023-04-18 07:00:00+00:00,"Airtel, Eicher Motors, Bharti Airtel, Escorts Kubota, other stocks to buy or sell on April 18, 2023",Business Today,0.005369354039430618
+2023-05-03 07:00:00+00:00,Airtel Lanka to merge with Dialog Axiata in Sri Lanka,ET Telecom,0.00636729970574379
+2023-06-30 07:00:00+00:00,"Warburg Pincus sells shares of telecom major Bharti Airtel for Rs 1,649 cr",Business Standard,0.010546103119850159
+2023-02-24 08:00:00+00:00,Telecom Tycoon Mittal Is Seeking a Stake in Indian Fintech Paytm,Bloomberg,0.07033493462949991
+2023-05-19 07:00:00+00:00,"Share market analysts' recommended stocks on May 19, 2023: Bharti Airtel, IOC, Kajaria Ceramics, Zomato",Business Today,0.008592948317527771
+2023-05-09 07:00:00+00:00,Airtel hits 2 million user mark on 5G network in Mumbai,The Times of India,0.8564940867945552
+2023-03-15 07:00:00+00:00,"Indian Stock Market News, Equity Market and Sensex Today in India",Equitymaster,-0.013756493106484413
+2023-06-26 07:00:00+00:00,Airtel Business rejigs leadership as CEO Ajay Chitkara quits,The Economic Times,-0.5192155241966248
+2023-01-25 08:00:00+00:00,Bharti Airtel: Airtel hikes minimum recharge rates in 7 more states,ET Telecom,0.8665163032710552
+2023-05-25 07:00:00+00:00,"Indian Stock Market News, Equity Market and Sensex Today in India",Equitymaster,-0.013756493106484413
+2023-01-24 08:00:00+00:00,Indus suffers Rs 708 crore net loss in Q3FY23,ET Telecom,-0.9558848775923252
+2023-02-25 08:00:00+00:00,Mittal to merge Airtel Payments with Paytm?,The Times of India,0.04859604127705097
+2023-01-03 08:00:00+00:00,Airtel 5G services now available in Indore: All details,Mint,0.014229821041226387
+2023-06-29 07:00:00+00:00,Deloitte appoints former Bharti Airtel CEO Manoj Kohli as senior advisor,Mint,-0.01319512352347374
+2023-05-17 07:00:00+00:00,"Stocks To Watch: Airtel, Paytm, Aurobindo, BPCL, JK Tyre, Whirlpool, Jubilant Foodworks, Thermax, GSK, Zydus",NDTV Profit,0.031205974519252777
+2023-01-09 08:00:00+00:00,Motilal Oswal recommends 10 stocks for double-digit returns,Mint,0.045433882623910904
+2023-04-16 07:00:00+00:00,Best 5G Stocks in India 2023 – Industry Overview And Top Stocks!,Trade Brains,0.07535822503268719
+2023-03-14 07:00:00+00:00,"Airtel raises minimum tariffs in Gujarat, Kolkata, MP and Chhattisgarh circles",Mint,0.7793304659426212
+2023-05-02 07:00:00+00:00,"Dialog Axiata, Bharti Airtel to merge Sri Lankan operations to form largest telecom operator",Mint,0.30045257043093443
+2023-03-20 07:00:00+00:00,Airtel launches family postpaid plans to counter Reliance Jio,Mint,0.7281724493950605
+2023-03-28 07:00:00+00:00,Akhil Gupta on how Bharti Airtel survived a tough telecom industry & plans for next 10 years,The Economic Times,0.2057212432846427
+2023-06-26 07:00:00+00:00,Airtel Business announces changes to leadership team; CEO Chitkara quits,Business Standard,-0.7595998104661703
+2023-03-06 08:00:00+00:00,Airtel expands 5G services to 125 more cities,Mint,0.9005727637559175
+2023-02-06 08:00:00+00:00,Airtel Now Owns 47.95% Direct Stake in Indus Towers,TelecomTalk,0.029572278261184692
+2023-01-25 08:00:00+00:00,"Airtel Prepaid Plans hike: Bharti Airtel hikes minimum pre-paid recharge plan in 7 more circles, check details",CNBC TV18,0.39252014458179474
+2023-03-21 07:00:00+00:00,Airtel introduces a new ‘family plan’ to counter Jio's latest postpaid offering,Mint,0.7024849746376276
+2023-06-14 07:00:00+00:00,Stock screener: 10 companies with highest EBITDA margin in FY23. Tempting buys?,The Economic Times,0.17909493483603
+2023-04-18 07:00:00+00:00,"Airtel, Jio to offer 1.1 million CUG connections to Indian Railways employees",Mint,0.6081390739418566
+2023-06-21 07:00:00+00:00,Airtel Payments Bank ties up with Care Health Insurance to offer customers health Insurance up to ₹5 lakh,Mint,0.6022545308806002
+2023-03-29 07:00:00+00:00,"Most 5G BTS towers by Jio, Airtel are concentrated in just six states",Business Standard,-0.005726194009184837
+2023-05-02 07:00:00+00:00,Sri Lanka’s top telco Dialog merges with India’s Airtel on operations,EconomyNext,0.02452743612229824
+2023-03-21 07:00:00+00:00,Google starts rolling out 5G support for Pixel 6a and Pixel 7 phones in India,Mint,0.36247282940894365
+2023-02-21 08:00:00+00:00,"How to block irritating marketing spam calls, activate Do Not Disturb (DND) on Jio, Airtel, Vi",The Economic Times,0.004859708249568939
+2023-09-18 07:00:00+00:00,Why Bharti Airtel Share Price is Rising,Equitymaster,-0.06409860402345657
+2023-11-15 08:00:00+00:00,Bharti Airtel Share Price Today Live Updates: Bharti Airtel Closes at Rs 935.0 with a 0.32% Decrease in P,The Economic Times,-0.8842079415917397
+2023-12-02 08:00:00+00:00,"Bharti Telecom boosts stake in Bharti Airtel with Rs 8,301 crore investment; expands holdings to 39.7%",Moneycontrol,0.9001146638765931
+2023-12-19 08:00:00+00:00,Rs 27 lakh crore! That's how much wealth these 5 stocks created in 5 years,India Today,0.039558738470077515
+2023-11-22 08:00:00+00:00,"Bharti Airtel kicks off process for Bharti Hexacom IPO, eyes Rs 20,000 crore valuation: Report",Business Today,0.017400439828634262
+2023-11-01 07:00:00+00:00,"Stocks To Watch On 1 November: L&T, Bharti Airtel, Adani Total Gas, Others In News",outlookbusiness.com,0.004247413948178291
+2023-11-24 08:00:00+00:00,What Reliance Jio's IPO may mean for Airtel,The Times of India,-0.0031611397862434387
+2024-01-01 08:00:00+00:00,Bharti Airtel Services set to acquire 97.1% stake in Beetel Teletech,Business Standard,0.06788715999573469
+2023-11-01 07:00:00+00:00,Bharti Airtel shares in focus after reporting 37% fall in Q2 profit. Should you buy or sell?,The Economic Times,-0.8575752153992653
+2023-12-20 08:00:00+00:00,Breakouts Updates: Bharti Airtel's Stock Price Plummets Below Second Support Level,The Economic Times,-0.9594817254692316
+2023-08-03 07:00:00+00:00,"Bharti Airtel Q1 Results: Net profit flat at ₹1,612 crore, revenue up 14%; ARPU improves to ₹200",Mint,0.9075420051813126
+2023-08-31 07:00:00+00:00,Airtel's perilous safari: How Sunil Bharti Mittal conquered Africa,The Economic Times,0.026798512786626816
+2023-07-12 07:00:00+00:00,"Bharti Airtel buys 20.6% stake in Lavelle Networks, total stake will reach 45.6%",Mint,0.08097652532160282
+2023-07-04 07:00:00+00:00,"RIL, Airtel, Vodafone shares fall up to 2% after Jio Bharat phone launch",The Economic Times,-0.9504182245582342
+2023-12-15 08:00:00+00:00,"Bharti Airtel Stocks Live Updates: Bharti Airtel Sees 1.66% Decrease in Price Today, EMA7 at Rs 998.05",The Economic Times,-0.9528656667098403
+2023-11-15 08:00:00+00:00,Bharti Airtel Share Price Today Live Updates: Bharti Airtel Dividend Updates,The Economic Times,-0.029409172013401985
+2023-12-22 08:00:00+00:00,"Bharti Airtel Stocks Live Updates: Bharti Airtel Sees Slight Increase in Price, Showing Positive Returns",The Economic Times,0.9243302196264267
+2023-12-26 08:00:00+00:00,"Bharti Airtel Stocks Live Updates: Bharti Airtel Sees 1.07% Increase in Stock Price Today, Beta at 1.1466",The Economic Times,0.9274014569818974
+2023-10-27 07:00:00+00:00,OneWeb satellite service ready to connect all parts of the country from next month: Sunil Mittal,The Times of India,0.1412705834954977
+2023-11-09 08:00:00+00:00,Bharti Airtel expands 5G coverage in all 23 districts of West Bengal,Business Standard,0.8999220468103886
+2023-08-04 07:00:00+00:00,"Stocks to Watch on Aug 4: SBI, Zomato, Paytm, Airtel, M&M, Vedanta, GAIL",Business Standard,0.012788001447916031
+2023-12-06 08:00:00+00:00,Bharti Airtel Stocks Live Updates: Bharti Airtel Dividend Updates,The Economic Times,-0.038793399930000305
+2023-11-01 07:00:00+00:00,"Tariffs need to go up, industry should become viable: Airtel CEO Vittal",Business Standard,0.4483121056109667
+2023-10-01 07:00:00+00:00,"After a volatile Indian stock market in September, what lies ahead? Know from expert",Mint,0.010406848043203354
+2023-11-05 07:00:00+00:00,"​Diwali Picks: Airtel, Ashoka Buildcon among 5 firework stock ideas from StoxBox",The Economic Times,0.12738328613340855
+2023-08-12 07:00:00+00:00,Airtel CEO Gopal Vittal earns ₹16.8 cr in FY23; higher than Sunil Mittal,Fortune India,0.9164750073105097
+2023-08-28 07:00:00+00:00,RailTel Corporation surges 12% on heavy volumes; stock nears record high,Business Standard,0.8530125357210636
+2023-08-07 07:00:00+00:00,Airtel launches India's first 5G wireless Wi-Fi 'Airtel Xstream AirFiber',Business Standard,0.6708021992817521
+2023-09-19 07:00:00+00:00,"Jio AirFiber now available in eight cities, cheaper than Bharti Airtel",Business Standard,0.8841556506231427
+2023-07-17 07:00:00+00:00,Top 10 Companies in India by Market Capitalization,Trade Brains,0.07655796129256487
+2023-08-07 07:00:00+00:00,Airtel launches India’s first wireless home Wi-Fi service powered by 5G Plus,The Economic Times,0.40019604191184044
+2023-08-14 07:00:00+00:00,This is how much Airtel MD Gopal Vittal earned in FY2023,The Times of India,0.005697455257177353
+2023-11-09 08:00:00+00:00,"Diwali Muhurat Picks: HDFC Bank, Airtel, TVS Motor among top long term ideas by Axis Securities",Moneycontrol,0.1456095054745674
+2023-09-13 07:00:00+00:00,"Stocks that share market analysts recommended on September 13, 2023: Bharti Airtel, SBI Life Insurance Company and Vedanta",Business Today,0.010365324094891548
+2023-08-07 07:00:00+00:00,Airtel launches Xstream AirFiber fixed wireless access device: Details here,Business Standard,0.02512665744870901
+2023-10-31 07:00:00+00:00,"Hot stocks on October 31, 2023: Suzlon Energy, Pidilite, Repco Home, Gokaldas Exports, Vesuvius India and more",Business Today,0.028907890431582928
+2023-11-10 08:00:00+00:00,Airtel stock subdued in debut week,Uganda Business News,-0.9085855148732662
+2023-12-15 08:00:00+00:00,Bharti Overseas Pvt increases voting rights in Airtel Africa to 15.1%,Nairametrics,0.8964481623843312
+2024-04-07 02:06:00+00:00,"Bharti Airtel's Stock Hits All-Time High, Reflecting Strong Performance in Telecom Sector",Markets Mojo,0.9296897351741791
+2024-05-28 07:00:00+00:00,From Anant Raj To Airtel: Stocks That Can Benefit From Data Centre Boom In India,NDTV Profit,0.7053153747692704
+2024-04-12 07:00:00+00:00,Bharti Hexacom Zooms 32% on Debut; Strong Start for Airtel's Subsidiary,India Infoline,0.9303886871784925
+2024-06-10 07:00:00+00:00,Bharti Airtel enters $100 billion m-cap club; see the elite list,Upstox,0.19612277578562498
+2024-05-15 07:00:00+00:00,Airtel trades higher amidst high data user addition in Q4,ET Telecom,0.9158767573535442
+2024-06-13 07:00:00+00:00,Bharti Airtel enters India's elite M-Cap Club after hitting the $100 billion mark,varindia.com,0.6885915901511908
+2024-06-10 07:00:00+00:00,Bharti Airtel enters India’s $100 billion market cap club,CNBC TV18,0.7539039235562086
+2024-04-10 07:00:00+00:00,"Bharti Airtel: Antique Broking initiates coverage on stock, sees 25% upside; here is why",Zee Business,0.5015738718211651
+2024-03-07 08:00:00+00:00,SingTel sells 0.8% stake in India's Bharti Airtel to GQG Partners for $711 mln,Reuters,0.03526426199823618
+2024-02-06 08:00:00+00:00,Bharti Airtel share price gains over 3% on strong Q3 results,Mint,0.9225287232547998
+2024-03-05 08:00:00+00:00,Telecom Stock Buzzing: Bharti Airtel Soars 3% On Big Announcement; Find Out!,Goodreturns,0.4971694014966488
+2024-03-21 07:00:00+00:00,Volumes jump at Bharti Airtel Ltd counter,Trade Brains Portal,-0.8000613525509834
+2024-01-05 08:00:00+00:00,Bharti Airtel Stocks Live Updates: Bharti Airtel Sees Minor Decline in Price and Returns,The Economic Times,-0.944113040342927
+2024-03-09 08:00:00+00:00,"Singtel divests 0.8% in Bharti Airtel for Rs.5,849 cr.",The Hindu,-0.08547035418450832
+2024-03-18 07:00:00+00:00,"Bharti Airtel, State Bank of India, Zomato on Jefferies hotlist for 5 years",Business Standard,0.11569132562726736
+2024-03-07 08:00:00+00:00,"Rajiv Jain’s GQG Partners ups the ante in India with bets on Bharti Airtel, Lodha",Moneycontrol,0.7507819086313248
+2024-01-11 08:00:00+00:00,HUL Vs Bharti Airtel: Jefferies Breaks Down India Consumption Picks,NDTV Profit,-0.3787182494997978
+2024-06-10 07:00:00+00:00,"Telecom Giant Bharti Airtel Enters The $100 Billion Market Cap Club In India; Joins RIL, TCS & HDFC Bank",Goodreturns,0.43863567896187305
+2024-05-30 07:00:00+00:00,"Telecom department has fined Airtel, here’s why",The Times of India,-0.7135959379374981
+2024-06-19 07:00:00+00:00,UK's Vodafone sells $1.8 bln stake in India's Indus Towers; Airtel boosts stake,Reuters,0.7026762925088406
+2024-02-05 08:00:00+00:00,"Bharti Airtel Q3 profit surges 54% to ₹2,442 cr",Fortune India,0.9085215590894222
+2024-04-15 07:00:00+00:00,Bharti Airtel Stocks Live Updates: Bharti Airtel News,The Economic Times,-0.02358309179544449
+2024-05-16 07:00:00+00:00,Bharti Airtel share price targets upped as market bets on tariff hikes post elections 2024,Business Today,0.8815124966204166
+2024-01-01 08:00:00+00:00,Bharti Airtel Services set to acquire 97.1% stake in Beetel Teletech,Business Standard,0.06788715999573469
+2024-02-28 08:00:00+00:00,"Bharti Airtel Stocks Live Updates: Bharti Airtel Sees Slight Increase in Current Price, SMA3 at Rs 1122.4",The Economic Times,0.9149812720716
+2024-06-13 07:00:00+00:00,"Indian companies shine among global brand elite: TCS, HDFC Bank, Airtel, and Infosys lead pack",Mint,0.8271247399970889
+2024-04-18 07:00:00+00:00,Bharti Airtel signs deal to merge Sri Lankan unit with Dialog Axiata,Business Standard,0.592441288754344
+2024-02-05 08:00:00+00:00,"Bharti Airtel Q3 results today. What analysts say on Africa biz, ARPU & margin",Business Today,0.00529385544359684
+2024-01-10 08:00:00+00:00,"Telecom tariff hike of 20% likely in 2024, post elections, says BofA Securities; Airtel shares zoom",Mint,0.7275784909725189
+2024-06-20 07:00:00+00:00,"Indus Towers rings in gains after Bharti Airtel, SBI Mutual fund buy over 1% stake each",The Financial Express,0.7911335602402687
+2024-03-23 07:00:00+00:00,"Bharti Airtel subsidiary, Bharti Hexacom, to launch IPO",Business Standard,0.10001246444880962
+2024-05-27 07:00:00+00:00,Why Airtel Payments Bank is happy to play second fiddle | Company Business News,Mint,0.08193775918334723
+2024-04-19 07:00:00+00:00,"Bharti Airtel Share Price Today Live Updates: Bharti Airtel Sees Minor Decline in Stock Price, Trading Vo",The Economic Times,-0.9239133112132549
+2024-02-07 08:00:00+00:00,Bharti Airtel Q3 FY24 Results Live : profit rise by 53.77% YOY,Mint,0.9244285691529512
+2024-06-20 07:00:00+00:00,"Vodafone Idea-Indus Tower stake sale: Telecom major sells shares worth $2 billion, Airtel acquires 1%",Mint,0.06975334137678146
+2024-06-26 07:00:00+00:00,"Bharti Airtel acquires 97 MHz spectrum for ₹6,857 crore at auction",Mint,0.15694860368967056
+2024-02-21 08:00:00+00:00,Airtel achieves 4.7 Gbps 5G speeds on mmWave spectrum using Ericsson gear,Business Standard,0.6618565795943141
+2024-02-28 08:00:00+00:00,Airtel founder Sunil Mittal becomes first Indian to be knighted by Britain's King Charles III,The New Indian Express,0.1233280636370182
+2024-03-09 08:00:00+00:00,Sunil Bharti Mittal: The man who transformed India's telecom sector is the Business Icon of the Year; here's why,Business Today,0.16830105893313885
+2024-02-26 08:00:00+00:00,Airtel Introduces Seamless Connectivity for India's First Underwater Metro in Kolkata,Goodreturns,0.5048774722963572
+2024-05-06 07:00:00+00:00,"Telecom subscriber base rises by 5.6 mn in March 2024, led by Jio, Airtel",Business Standard,0.923971101641655
+2024-02-09 08:00:00+00:00,Airtel Payments Bank sees surge in number of customer applications: CEO,Business Standard,0.9229866471141577
+2024-02-27 08:00:00+00:00,"Sensex Today | Market Close Highlights : Sensex ends up 300pts, Nifty at 22,200; Realty, IT gain, O&G, PSU Bank fall",Mint,0.2916702926158905
+2024-05-30 07:00:00+00:00,India's $100-billion mcap club grows to eight with three new entries,Business Standard,0.5247928481549025
+2024-06-28 07:00:00+00:00,"After Jio, Airtel raises mobile tariffs from 3 July. Details here",Mint,0.071156345307827
+2024-05-22 07:00:00+00:00,Airtel Payments Bank's annual net profit rises 60% to Rs 35 crore,The Economic Times,0.921882152557373
+2024-02-23 08:00:00+00:00,Mavenir deploying O-RAN technology for Vodafone Idea on millimeter wave,Business Standard,0.5213139904662967
+2024-04-18 07:00:00+00:00,"Stock Market Highlights, April 18: Sensex declines for 4th day, drops 455 pts; Nifty below 22k",Business Standard,-0.9556264756247401
+2024-06-28 07:00:00+00:00,"Stock Market Highlights, June 28: Benchmarks settle lower; Sensex above 79k, Nifty holds 24,000",Business Standard,-0.9356691110879183
+2024-06-26 07:00:00+00:00,"Govt nets ₹11,340 crore from spectrum auctions, third lowest since 2010",Mint,-0.959956107661128
+2024-04-30 07:00:00+00:00,"Airtel's ₹1,499 plan offers free Netflix and unlimited 5G data for 84 days: Check full details",Mint,0.059963738545775414
+2024-06-27 07:00:00+00:00,"Spectrum Auctions 2024: How much did Reliance, Airtel and Vi spend?",Trade Brains,0.018001869320869446
+2024-03-20 07:00:00+00:00,"Airtel partners with Noise, Mastercard to launch its first smartwatch in India: Check price, full specs",The Financial Express,0.21264387387782335
+2024-03-19 07:00:00+00:00,Tap-and-Pay: Noise launches watch in partnership with Airtel Payments Bank,Business Standard,0.13428681902587414
+2024-12-13 08:00:00+00:00,Bharti Airtel stock hits 7-week high; shares surge 4% on heavy volumes,Business Standard,0.8834218196570873
+2025-01-01 08:00:00+00:00,"Bharti Airtel shares: After 57% rally in 2024, can the telco stock continue winning run this year?",Business Today,0.9189037084579468
+2024-12-04 08:00:00+00:00,"Stocks to buy: HDFC Bank, Bharti Airtel, Lupin, among 16 stock picks for December by Axis Securities",Mint,0.029908688738942146
+2024-12-19 08:00:00+00:00,"Stocks to watch: IT shares, Asian Paints, Bharti Airtel, Parle and more on Dec 20",CNBC TV18,0.011277448385953903
+2024-08-03 07:00:00+00:00,"BHEL, Bharti Airtel among 92 stocks with dividend, bonus, split next week. Do you own any?",The Economic Times,0.035819848999381065
+2024-11-30 08:00:00+00:00,"Bajaj Holdings Boosts Stakes in TCS, Mphasis, and Bharti Airtel",India Infoline,0.867197715677321
+2024-11-07 08:00:00+00:00,"Bharti Telecom buys Airtel stocks worth ₹11,700 crore from Bharti family investment firm",The Hindu,0.11617863830178976
+2024-12-13 08:00:00+00:00,Bharti Airtel Share Price Hits Seven-Week High Following Block Deal,NDTV Profit,0.7900986969470978
+2024-12-13 08:00:00+00:00,"Sensex back in green: Airtel, HUL, and IT stocks lead market rebound",India Today,0.1642491277307272
+2024-09-12 07:00:00+00:00,Bharti Airtel stock hits 52-week high after expanding Wi-Fi services to J&K,Business Standard,0.929430466145277
+2024-09-19 07:00:00+00:00,"Bharti Airtel market cap nears ₹10 lakh crore, stock gains 62% in 2024, adds ₹3.7 lakh crore",Mint,0.9160436782985926
+2024-12-04 08:00:00+00:00,"Bharti Airtel, Vodafone Idea: What CLSA says on market share post tariff hikes",Business Today,0.13862826488912106
+2024-11-19 08:00:00+00:00,Bharti Airtel shares in focus as Bharti Global acquires 24.5% stake in BT Group,The Economic Times,0.24858780950307846
+2024-11-29 08:00:00+00:00,"Bharti Airtel stock soars 6%, logs sharpest intra-day rally in 18 months",Business Standard,0.8119237050414085
+2024-12-30 08:00:00+00:00,"Stocks to buy for long term: Bharti Airtel, Ambuja Cements, Cipla among Axis Securities’ New Year stock picks for 2025",Mint,0.05514146201312542
+2024-09-19 07:00:00+00:00,Bharti Airtel becomes 4th listed company to cross Rs 10 trillion market cap,Business Standard,0.8212778987362981
+2024-08-02 07:00:00+00:00,"Stocks to buy: ICICI Bank, SBI, HDFC Bank, Bharti Airtel among Axis Securities’ nine top largecap stock picks for August",Mint,0.10376209672540426
+2024-12-04 08:00:00+00:00,"Bharti Airtel signs multi-billion deal with Ericsson for 4G, 5G expansion",Business Standard,0.8336596395820379
+2024-10-09 07:00:00+00:00,"ITC, HUL, Airtel among 5 Nifty stocks to avoid as market bounces back",Business Standard,-0.30598513782024384
+2024-10-15 07:00:00+00:00,"Satcom spectrum allocation: Airtel says no change in stand, shares this letter sent to telecom ministry i",The Times of India,0.03451324254274368
+2024-12-15 08:00:00+00:00,"Bharti Airtel, TCS, HDFC Bank stocks steal the show this week | Business News",Hindustan Times,0.04289551265537739
+2024-11-29 08:00:00+00:00,"Stock market today: Nifty 50, Sensex surge over 1% on gains in RIL, Airtel & pharma stocks",Mint,0.9183099716901779
+2024-11-07 08:00:00+00:00,Bharti Telecom buys 1.2% stake in Airtel from family’s investment firm,BusinessLine,0.07106845080852509
+2024-11-26 08:00:00+00:00,Explained: Why Vodafone Idea shares jumped 18% today,India Today,0.903311075642705
+2024-12-05 08:00:00+00:00,"Indus Tower shares up 5% on stake sale by UK's Vodafone Plc; Vi, Airtel shares rise up to 4%",Fortune India,0.9292508382350206
+2024-12-08 08:00:00+00:00,"Market Cap of top 6 listed companies jumps ₹2 lakh crore; TCS, HDFC Bank lead the rally",Mint,0.8548040762543678
+2024-12-13 08:00:00+00:00,"Jefferies sees a 10% growth in Nifty 50 by December 2025; ICICI Bank, Axis Bank, SBI, Bharti Airtel among top picks",Mint,0.8393368776887655
+2024-12-07 08:00:00+00:00,5 Stocks that are expected to drive India’s 5G growth in 2025,Trade Brains,0.2273873295634985
+2024-12-03 08:00:00+00:00,5 Stocks Positioned to Drive Crucial 5G Growth in India in 2025,Equitymaster,0.8043561475351453
+2024-10-28 07:00:00+00:00,"Bharti Airtel Q2 Results: Net profit soars 168% YoY to Rs 3,593 crore, ARPU rises to Rs 233",The Economic Times,0.9050485007464886
+2024-12-15 08:00:00+00:00,"Five most-valued firms add Rs 1.13 lakh crore in overall valuation, Airtel steals the show",Business Today,0.7831965927034616
+2024-09-18 07:00:00+00:00,"Bharti Airtel to invest $1 billion in 4G gear from Ericsson, Nokia, Samsung",Business Standard,0.6457805316895247
+2024-12-22 08:00:00+00:00,Dixon Tech and 4 other stocks with half-yearly profits higher than yearly profits,Trade Brains,0.8973522782325745
+2024-09-19 07:00:00+00:00,"Vodafone Idea shares tank 20%, Indus Towers 14% after SC rejects AGR plea",Business Standard,0.33339035511016846
+2024-08-14 07:00:00+00:00,SingTel's profit rises on exceptional gain from stake reduction in India's Airtel,Reuters,0.9120868667960167
+2024-11-03 07:00:00+00:00,"Gopal Vittal at Airtel: A stint of multiple challenges, in charts | Company Business News",Mint,0.02717847377061844
+2024-10-30 07:00:00+00:00,"Bharti Airtel widens lead over Jio on Arpu, but lags in revenue mkt share | Stock Market News",Mint,-0.9494776921346784
+2024-12-05 08:00:00+00:00,"Markets Today: Sensex, GIFT Nifty, FIIs, RBI Policy; IPO, Voda Idea, Airtel",Business Standard,0.034111641347408295
+2024-11-25 08:00:00+00:00,"Starlink may not be an immediate threat to Jio, Airtel if it enters Indian market",The Economic Times,-0.09521566703915596
+2024-08-27 07:00:00+00:00,"Bharti Airtel collaborates with Apple: Airtel Xstream premium users to get Apple TV+, Apple Music subscription",Mint,0.2840971816331148
+2024-11-20 08:00:00+00:00,"Relief for Airtel, Vodafone, Tata Tele as Supreme Court grants tax credit on infra items",Mint,0.7472874149680138
+2024-12-26 08:00:00+00:00,"Airtel down: Airtel mobile and broadband users unable to place calls, use internet",India Today,-0.8264744505286217
+2024-12-04 08:00:00+00:00,"Google, Meta investing billions in India’s submarine optic fibre infra; data rivalry with Jio, Airtel in",The Times of India,0.31796675734221935
+2024-11-06 08:00:00+00:00,"Nxtra to invest Rs 5,000 cr to double its capacity to 400 MW in three years",Business Standard,0.8521302104927599
+2024-12-03 08:00:00+00:00,Voda Idea's revenue market share falls to all-time low in Q2FY25,Mint,-0.9662767397239804
+2024-12-26 08:00:00+00:00,"Airtel Outage: Thousands Of Users Report Issues; Check Which Cities, And What Is Not Working?",Goodreturns,-0.6418007891625166
+2024-09-25 07:00:00+00:00,"Airtel launches AI-powered spam-detection tool, to be available from Thursday",Mint,0.1936441184952855
+2024-12-04 08:00:00+00:00,"Google, Meta set to challenge Jio, Airtel with new subsea cable projects",Business Standard,0.8546305177733302
+2024-08-21 07:00:00+00:00,"This Swedish firm has dialled Jio, Vi and Airtel to get Indians hooked to richer SMS alternative | Company Business News",Mint,0.33850790932774544
+2025-05-16 07:00:00+00:00,Explained: Why Bharti Airtel shares fell 3% in early trade today,India Today,-0.9655809351243079
+2025-05-16 07:00:00+00:00,"Bharti Airtel share price drops 3% on Friday, May 16; check reasons here",Business Standard,-0.9349441472440958
+2025-02-07 08:00:00+00:00,Bharti Airtel shares rise 3% after multifold jump in Q3 profit. Should you stay invested?,The Economic Times,0.5809671655297279
+2025-04-17 07:00:00+00:00,"Bharti Airtel share price hits record high; should you buy, sell or hold the stock ahead of Q4 result?",Mint,0.07340369187295437
+2025-06-26 07:00:00+00:00,"Bharti Airtel Shatters Records, Crosses ₹2,000 Mark: An In-Depth Analysis of its Ascent",Groww,0.27527827955782413
+2025-05-15 07:00:00+00:00,"Stocks to Watch, May 16: Bharti Airtel, Page Industries, SCI, Texmaco Rail, Emami, IndusInd Bank, LIC Housing Finance",Upstox,0.03307106252759695
+2025-05-14 07:00:00+00:00,Bharti Airtel shares a good buy near all-time high levels? Here's what analysts advise post Q4,CNBC TV18,0.22080160584300756
+2025-03-12 07:00:00+00:00,Bharti Airtel shares jump 3% on partnership with Starlink; JPMorgan says stock can rally 66%,Moneycontrol,0.9216222204267979
+2025-03-12 07:00:00+00:00,Bharti Airtel shares rise 3% on partnership with SpaceX,Business Today,0.918472140096128
+2025-06-23 07:00:00+00:00,"Bharti Airtel share price: Four reasons why investors should own the stock, according to Jefferies",CNBC TV18,0.05575058422982693
+2025-02-19 08:00:00+00:00,Bharti Airtel share price extends fall after block deal. Telecom stock down nearly 4% in three sessions,Mint,-0.9638139987364411
+2025-05-06 07:00:00+00:00,Bharti Airtel stock hits new high in subdued market; surges 13% in 1 month,Business Standard,0.9156038835644722
+2025-03-11 07:00:00+00:00,Bharti Airtel share price down after deal with Elon Musk's SpaceX to provide Starlink services in India,Upstox,-0.944067882373929
+2025-05-15 07:00:00+00:00,"Stocks to Watch Today, 16th May 2025: Bharti Airtel ,JSW Energy And other more",Groww,0.03451183997094631
+2025-03-11 07:00:00+00:00,Airtel share price to be in focus on Wednesday after deal with Elon Musk's SpaceX. Here's what to expect,Mint,0.0051087550818920135
+2025-02-18 08:00:00+00:00,"Bharti Airtel block deal: 5.1 crore shares worth ₹8,475 crore change hands; shares flat, check details",Upstox,-0.3816004004329443
+2025-06-20 07:00:00+00:00,"Bharti Airtel hits new high, up 40% in 1 year; brokerages see more upside",Business Standard,0.9303867928683758
+2025-03-13 07:00:00+00:00,Reliance vs Bharti Airtel: Which telecom stock to buy after Elon Musk's SpaceX tie-up buzz?,Mint,0.04083774611353874
+2025-05-08 07:00:00+00:00,"Telecom stocks in focus: Vodafone India shares gain, Bharti Airtel slips post Trai March data",Upstox,-0.7595549151301384
+2025-02-17 08:00:00+00:00,"Vedanta, Persistent Systems, Bharti Airtel, Gillette India: Check top buzzing stocks of the day",Upstox,0.11661913245916367
+2025-05-15 07:00:00+00:00,"Bharti Airtel, Tata Motors & more: Top stocks on brokers' radar for May 15",The Times of India,0.03582340478897095
+2025-06-26 07:00:00+00:00,"Bharti Airtel share price hits new record high, crosses ₹2000 mark for first time",Mint,0.8811407834291458
+2025-06-16 07:00:00+00:00,Bharti Airtel Share Price Rises After Dividend Record Date Announcement,Samco,-0.199010968208313
+2025-04-17 07:00:00+00:00,"Bharti Airtel hits record high, stock rallies 3%; market cap tops ₹ 11 trn",Business Standard,0.9140229243785143
+2025-03-12 07:00:00+00:00,Bharti Airtel shares fall after gaining over 3%; JP Morgan maintains 'overweight' for 19% potential gains,Zee Business,-0.963855299167335
+2025-05-16 07:00:00+00:00,"Bharti Airtel share price slumps nearly 3% amid reports of stake sale by Singtel worth ₹8,500 crore via block deal",Mint,-0.9632052751258016
+2025-01-01 08:00:00+00:00,"Bharti Airtel shares: After 57% rally in 2024, can the telco stock continue winning run this year?",Business Today,0.9189037084579468
+2025-06-04 07:00:00+00:00,"Macquarie hikes target price on Bharti Airtel stock to Rs 2,050; bull case target at Rs 2,350",Moneycontrol,-0.09923845529556274
+2025-06-26 07:00:00+00:00,"Buy MCX & Bharti Airtel shares on dips; cautious on Cochin Shipyard stock, says YES Securities",Business Today,0.573532946407795
+2025-05-19 07:00:00+00:00,"Top stocks to buy: Stock recommendations for the week starting May 19, 2025",The Times of India,-0.032244693487882614
+2025-03-12 07:00:00+00:00,Bharti Airtel shares in focus; telecom operator to bring Elon Musk's Starlink in India,Business Today,0.34948383644223213
+2025-06-26 07:00:00+00:00,Bharti Airtel market cap tops ₹12 trillion; rallies 27% thus far in CY2025,Business Standard,0.915604779496789
+2025-05-18 07:00:00+00:00,"Stocks to Watch: Bharti Airtel, Vodafone Idea, KEC International, Hyundai Motor, Delhivery, Divi's Labs, BHEL",CNBC TV18,0.020673293620347977
+2025-05-14 07:00:00+00:00,Bharti Airtel shares surge nearly 3% on strong Q4,The Financial Express,0.9093096386641264
+2025-02-18 08:00:00+00:00,Block Deals: Indian Continent Investment sells 5.11 crore shares of Bharti Airtel,Moneycontrol,0.04495196044445038
+2025-02-04 08:00:00+00:00,"Stocks to buy for short term: Bharti Airtel, Bajaj Auto, IndusInd Bank among 6 technical picks recommended by analysts",Mint,0.10235159657895565
+2025-05-16 07:00:00+00:00,"Stocks to Watch Today, May 16: PB Fintech, IndusInd, Airtel, Biocon, RVNL",Business Standard,0.04612112324684858
+2025-03-12 07:00:00+00:00,Bharti Airtel shares jump 3% on signing deal with Elon Musk's SpaceX for satcom service in India,The Economic Times,0.9178590625524521
+2025-03-20 07:00:00+00:00,Bharti Airtel shares soar 4% on becoming top telecom operator in Kerala,Business Standard,0.9287963854148984
+2025-03-21 07:00:00+00:00,"Stocks To Buy Today: Bharti Airtel, Coal India, GAIL, Among Others",NDTV Profit,0.043964460492134094
+2025-02-06 08:00:00+00:00,"Bharti Airtel Q3 Results: Profit up 483% to ₹14,760 cr on Indus consolidation",Mint,0.9279103316366673
+2025-03-12 07:00:00+00:00,Bharti Airtel shares give up gains after analysts see no immediate Starlink benefit,CNBC TV18,-0.7120834216475487
+2025-05-15 07:00:00+00:00,"SingTel to sell $1 billion stake in Bharti Airtel via block deals, Business Standard reports",Reuters,0.08851605001837015
+2025-06-04 07:00:00+00:00,"Bharti Airtel shares may rise to ₹2,350: Macquarie ascribes a 40% probability to this scenario",CNBC TV18,0.902455123141408
+2025-06-27 07:00:00+00:00,"Bharti Airtel Hits All-Time High, Surpasses ₹2,000 Milestone for the First Time",India Infoline,0.9121333481743932
+2025-02-07 08:00:00+00:00,Bharti Airtel surges 5% as Q3 results beat expectations; brokerages bullish,Business Standard,0.9054227285087109
+2025-02-07 08:00:00+00:00,Bharti Airtel share price gains 4% post Q3 results. Do you own it?,Mint,0.37630785070359707
+2025-05-31 07:00:00+00:00,Is Bharti Airtel's dream run already behind us,Value Research,-0.003942832350730896
+2025-03-27 07:00:00+00:00,"Top stocks to buy today: Stock recommendations for March 27, 2025",The Times of India,0.002712693065404892
+2025-03-07 08:00:00+00:00,"ICICI Bank, L&T to Bharti Airtel: BofA lists 12 stocks to buy for up to 40% gains",Mint,0.28093694150447845
+2025-05-23 07:00:00+00:00,Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History,The Economic Times,-0.010053170844912529
+2025-05-14 07:00:00+00:00,Bharti Airtel shares gain 3% after posting Q4 results; Check out detail,Business Standard,0.736556051298976
+2025-02-18 08:00:00+00:00,Indian Billionaire Sunil Mittal Sells Bharti Airtel Shares Worth $976 Million,Forbes,0.042601969093084335
+2025-04-07 07:00:00+00:00,"Stock market crash: ICICI Bank, Bharti Airtel to IHC — experts recommend these 10 stocks to buy on Black Monday",Mint,0.014255991205573082
+2025-05-16 07:00:00+00:00,"Stocks to watch: Bharti Airtel, Hyundai Motor, BHEL, NCC among shares in focus today",Mint,0.03779919259250164
+2025-06-16 07:00:00+00:00,Bharti Airtel declares record date for ₹20 per share dividend payment. Share price edges higher,Mint,0.8946867845952511
+2025-02-18 08:00:00+00:00,"Bharti Airtel block deals: Promoter Indian Continent Investment sells stake worth Rs 8,475 cr",Moneycontrol,0.04387549217790365
+2025-05-16 07:00:00+00:00,"Page Industries, Bharti Airtel & more: Top stocks on brokers' radar for May 16, 2025",The Times of India,0.018263906240463257
+2025-03-12 07:00:00+00:00,"Stocks to buy for long term: Bharti Airtel to M&M— Prashanth Tapse recommends 5 stocks to buy today, sees 32-59% upside",Mint,0.417229363694787
+2025-02-14 08:00:00+00:00,4 reasons Jefferies has Buy on Bharti Airtel,The Financial Express,0.033224042505025864
+2025-05-16 07:00:00+00:00,Singtel sells 1.2% stake in India's Bharti Airtel for $1.54 billion,Reuters,0.021588293835520744
+2025-03-12 07:00:00+00:00,"SpaceX to offer Starlink's broadband internet services in India: Reliance Industries, Bharti Airtel gain",India TV News,0.11726625682786107
+2025-06-23 07:00:00+00:00,Bharti Airtel Shares At Record High; Jefferies Rolls Out Bullish Outlook,outlookbusiness.com,0.8740866146981716
+2025-03-12 07:00:00+00:00,"Stocks to watch: Bharti Airtel, Infosys, PB Fintech, RVNL, TCS among shares to remain in focus today",Mint,0.04885665886104107
+2025-02-19 08:00:00+00:00,"Bharti Airtel shares dip 1%: 4 key details about Rs 8,485 crore block deal",The Financial Express,-0.2750618513673544
+2025-05-16 07:00:00+00:00,Who bought $1.5 billion worth Bharti Airtel shares today? Singtel answers,Business Today,0.04196178633719683
+2025-02-27 08:00:00+00:00,Airtel shares in focus as company confirms talks with Tata Group to merge Tata Play with Bharti Telemedia,The Economic Times,0.28196848928928375
+2025-05-15 07:00:00+00:00,"Bharti Airtel block deal: Singtel to offload Rs 8,500 cr worth shares, floor price at Rs 1,800",Business Today,0.06468440592288971
+2025-06-09 07:00:00+00:00,"NIFTY, SENSEX edge up; MCX, Hyundai Motor India, Bajaj Finance, and Bharti Airtel among buzzing stocks",Upstox,0.7166361287236214
+2025-05-14 07:00:00+00:00,"Stock Recommendations Today: Tata Motors, Bharti Airtel, Cipla SRF On Brokerages' Radar",NDTV Profit,0.006882553920149803
+2025-06-20 07:00:00+00:00,"Stocks to buy: Rajesh Palviya of Axis Sec suggests Swiggy, Wipro, Bharti Airtel shares today - 20 June",Mint,0.038565777242183685
+2025-03-10 07:00:00+00:00,"Top stocks to buy: Stock recommendations for the week starting March 10, 2025",The Times of India,-0.032863594591617584
+2025-02-18 08:00:00+00:00,"Stocks to Watch, Feb 18, 2025: Airtel, NTPC, Power Grid, Vedanta, Paytm",Business Standard,0.028768465854227543
+2025-04-15 07:00:00+00:00,Bharti Airtel share price rises over 3% to fresh 52-week high on partnership with Blinkit for 10-min SIM delivery,Mint,0.9179799556732178
+2025-06-26 07:00:00+00:00,"Bharti Airtel becomes 4th Indian company to cross Rs 12 trillion market cap, shares rise nearly 2%",Zee Business,0.91648262552917
+2025-02-04 08:00:00+00:00,"Shares to buy or sell: Sachin Gupta of 5paisa recommends Bharti Airtel, Cholamandalam Investment today - 4 February",Mint,0.012267475947737694
+2025-02-25 08:00:00+00:00,CLSA’s top telecom pick Bharti Airtel up 44% in 1 year- 4 big triggers for the stock now,The Financial Express,0.9240672159940004
+2025-02-07 08:00:00+00:00,"Stocks to buy: Bharti Airtel, Axis Bank, Dr Reddy's Labs, among analysts' top picks",Zee Business,0.11200480163097382
+2025-05-14 07:00:00+00:00,"Bharti Airtel shares jump 2% after Q4 adjusted profit jumps 77% YoY to Rs 5,223 crore",The Economic Times,0.8700205348432064
+2025-05-16 07:00:00+00:00,"Bharti Airtel Shares Tumble After Block Deal; Singtel Offloads Rs.13,221 Cr Stake; Everything You Need to Know",Goodreturns,-0.6573331542313099
+2025-02-25 08:00:00+00:00,"Market Wrap, February 25: Indices end mixed; SENSEX up 147 pts, NIFTY50 flat; Bharti Airtel shares gain 2%",Upstox,0.8488172069191933
+2025-03-14 07:00:00+00:00,Struggling to choose between RIL and Airtel? Hemang Jani explains how to approach both,The Economic Times,0.03275678865611553
+2025-05-16 07:00:00+00:00,"Stocks to watch today: From Bharti Airtel, JSW Steel to Godrej Industries – Here’s a list of 8 stocks in focus today",The Financial Express,-0.0060443878173828125
+2025-05-14 07:00:00+00:00,Bharti Airtel shares rally in morning trade: Here is why,theweek.in,0.03945912420749664
+2025-05-16 07:00:00+00:00,Singtel offloads 1.2% stake in Bharti Airtel in $1.54 billion deal,India Today,0.003406701609492302
+2025-05-16 07:00:00+00:00,"Singtel to trim Airtel stake, sell 0.8% in $1 billion block deal",The Times of India,0.038466062396764755
+2025-05-16 07:00:00+00:00,"Bharti Airtel’s shares slide 3% on reports of block deal worth Rs 8,500 crore",The Financial Express,-0.954263960942626
+2025-05-13 07:00:00+00:00,"Stocks to watch today, May 13: Tata Motors, Airtel, GAIL, Cipla, Tata Steel",Business Standard,0.015126755461096764
+2025-05-08 07:00:00+00:00,"Should you buy Bharti Airtel, APL Apollo, Tata Motors or Coal India shares for long term now?",Zee Business,0.03387799300253391
+2025-02-13 08:00:00+00:00,"Buy & sell calls for today: Stock recommendations for February 13, 2025",The Times of India,-0.007945889607071877
+2025-03-12 07:00:00+00:00,"Elon Musk's Starlink comes to India: Here's how Reliance, Airtel, Vodafone shares reacted",Fortune India,0.05231317039579153
+2025-05-11 07:00:00+00:00,"Q4 results 2025: Bharti Airtel, Tata Motors, HAL, Cipla among firms to declare earnings next week; check full list here",Mint,0.01549510657787323
+2025-06-09 07:00:00+00:00,Bharti Airtel Signs Landmark Multi-Year Deal with Ericsson to Power 5G Services; Airtel Stock Declines,Goodreturns,-0.33168984949588776
+2025-02-06 08:00:00+00:00,Bharti Airtel Q3 results today: Analysts expect Arpu growth to drive profit,Business Standard,0.9245921615511179
+2025-02-19 08:00:00+00:00,Top Stocks: Create Long Term Portfolio Bets At Attractive Prices: Bharti Airtel,Business Today,0.08299688622355461
+2025-02-17 08:00:00+00:00,"Bharti Airtel Block Deal | Promoter entity sells 5.11 crore shares worth ₹8,485 crore",CNBC TV18,0.025956235826015472
+2025-02-17 08:00:00+00:00,"Bharti Airtel set for block deal tomorrow, promoter Indian Continent Investment to offload 0.8%",CNBC TV18,0.010377641767263412
+2025-05-15 07:00:00+00:00,Singtel arm to sell shares worth ₹856 crore in Bharti Airtel,Mint,0.12140984367579222
+2025-04-23 07:00:00+00:00,"Stocks to watch: Bharti Airtel, HCL Tech, Waaree Energies, Bharat Forge, PFC among shares in focus today",Mint,0.05260138586163521
+2025-03-12 07:00:00+00:00,"Stocks to Watch Today, March 12: Airtel, Kaynes Tech, Swiggy, RVNL, Voda",Business Standard,0.020896855741739273
+2025-11-26 08:00:00+00:00,Explained: Why Bharti Airtel shares are down 3% today,India Today,-0.9622831414453685
+2025-11-04 08:00:00+00:00,"Bharti Airtel shares jump 2.7% today after Q2 profit beats Street; brokerages bullish on ARPU gain,...",Moneycontrol,0.8386936485767365
+2025-11-06 08:00:00+00:00,Bharti Airtel shares decline over 4% after large block deal; all you need to know,Upstox,-0.9411064358428121
+2025-11-07 08:00:00+00:00,Bharti Airtel drops 4% after 51.3 million shares trade in block deals,Business Standard,-0.9598395749926567
+2025-09-19 07:00:00+00:00,Bharti Airtel share price surges 30% from 52-week lows. Is it still a stock to buy?,Mint,0.03608030080795288
+2025-10-01 07:00:00+00:00,Bharti Airtel shares in focus on partnership with Swift Navigation to launch spatial precision solution,The Economic Times,0.7230018256232142
+2025-11-26 08:00:00+00:00,Bharti Airtel block deal: Stock tanks 3% amid high turnover; seller's detail & more,Business Today,-0.05361664295196533
+2025-11-18 08:00:00+00:00,Bharti Airtel shares hit fresh all-time high on S&P rating upgrade; rise 7% in a month,Fortune India,0.9245522134006023
+2025-11-07 08:00:00+00:00,Bharti Airtel shares tumble 4% in early trade. What's behind the fall?,India Today,-0.9308294812217355
+2025-08-08 07:00:00+00:00,"Bharti Airtel shares fall over 2 percent on large trade of equity worth over Rs 12,500 crore",Moneycontrol,-0.9636392327956855
+2025-08-05 07:00:00+00:00,Bharti Airtel shares rally 2% on strong June quarter earnings; check all Q1 numbers,Upstox,0.9131664764136076
+2025-10-03 07:00:00+00:00,Bharti Airtel to BEL- Prashanth Tapse of Mehta Equities suggests stocks to buy in the short term,Mint,0.25030309706926346
+2025-10-27 07:00:00+00:00,Bharti Airtel share price hits new high; what's driving the telecom stock?,Business Standard,0.1546110287308693
+2025-11-18 08:00:00+00:00,Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History,The Economic Times,-0.010053170844912529
+2025-11-26 08:00:00+00:00,"Bharti Airtel shares slip over 2% as 3.5 crore shares change hands in Rs 7,400-crore block trade",Moneycontrol,-0.9610877567902207
+2025-11-18 08:00:00+00:00,"Bharti Airtel shares hit all-time high, up 35% in 2025: Here’s what S&P Global Ratings said about the telecom",Upstox,0.8077644621953368
+2025-08-15 07:00:00+00:00,Stocks to buy for long term: From Bharti Airtel to BEL— Motilal Oswal's expert suggests 10 shares for up to 35% returns,Mint,0.18140988424420357
+2025-11-04 08:00:00+00:00,Airtel shares rise 3% after Q2 results. Should you buy or sell?,India Today,0.059422966092824936
+2025-12-16 08:00:00+00:00,"Bharti Airtel shares rise 2% as Morgan Stanley increases target price, expects tariff hike in Q1FY27",Moneycontrol,0.9170947037637234
+2025-11-07 08:00:00+00:00,"Bharti Airtel stake sale: 5.1 crore shares sold in block deal, Singtel likely cuts holding; stock falls 4%",Moneycontrol,-0.949962455779314
+2025-08-08 07:00:00+00:00,Bharti Airtel shares dip 3% after huge trade; promoter entity likely seller,Business Standard,-0.8746620453894138
+2025-08-07 07:00:00+00:00,Airtel shares slip post Q1 despite target hikes; buying opportunity ahead?,Business Standard,-0.8788475915789604
+2025-12-22 08:00:00+00:00,Why Bharti Airtel Share Price is Rising,Equitymaster,-0.06409860402345657
+2025-11-06 08:00:00+00:00,Singtel sells about $1.2 billion stake in Indian telco Bharti Airtel,Reuters,0.016568470746278763
+2025-11-04 08:00:00+00:00,"Bharti Airtel stock hits 52-week high as Q2 profit surges 89% to ₹6,792 cr",Fortune India,0.9153745081275702
+2025-11-08 08:00:00+00:00,Bad news for Indian billionaire Sunil Mittal as Bharti Airtel's shares fall over 4% due to...; market cap declines to Rs...,DNA India,-0.9633044730871916
+2025-11-26 08:00:00+00:00,"Bharti Airtel share price falls 2% amid ₹7,400 crore block deal reports. Do you own?",Mint,-0.8693393860012293
+2025-11-26 08:00:00+00:00,Bharti Airtel shares plunge 3% on block deal buzz: Check what’s next for investors,The Financial Express,-0.5870741866528988
+2025-12-19 08:00:00+00:00,Bharti Airtel approves final call on partly-paid up shares at ₹401.25,India Infoline,0.647506782785058
+2025-11-25 08:00:00+00:00,"Bharti Airtel shares fall over 2% as promoter entity ICIL likely to sell 0.56% stake for ₹7,189 crore",Upstox,-0.9490447826683521
+2025-11-07 08:00:00+00:00,"Stocks to Watch today, Nov 7: Bharti Airtel, LIC, Lupin, Bajaj Housing",Business Standard,0.018744219094514847
+2025-12-15 08:00:00+00:00,Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History,The Economic Times,-0.010053170844912529
+2025-08-19 07:00:00+00:00,Bharti Airtel shares rise nearly 2% as company withdraws 1GB/day plan; check details,Upstox,-0.21099922060966492
+2025-08-08 07:00:00+00:00,"Airtel shares drop 3% on reports of Rs 12,500 crore promoter stake sale",The Economic Times,-0.9615596304647624
+2025-11-18 08:00:00+00:00,"Bharti Airtel trades higher for 7th straight day, hits new high; here's why",Business Standard,0.8992331326007843
+2025-11-04 08:00:00+00:00,"Bharti Airtel share price hits record high after Q2 results, stake acquisition approval in Indus Towers",Mint,0.911575062200427
+2025-08-05 07:00:00+00:00,"Stocks to watch: Bharti Airtel, Adani Ports, Tata Motors, Paytm among shares in focus today",Mint,0.03334243595600128
+2025-11-04 08:00:00+00:00,"Stocks to watch: SBI, Adani Enterprises, Bharti Airtel, Cipla among 10 shares in focus today",Mint,0.023965910077095032
+2025-11-07 08:00:00+00:00,"Stocks to Watch Today: Bharti Airtel, Lupin, TVS Motor, RVNL, Apollo Hospitals, Studds Accessories, GMM...",Moneycontrol,0.030877348966896534
+2025-08-08 07:00:00+00:00,Bharti Airtel shares drop 3% amid reports of promoter stake sale,Fortune India,-0.9627497112378478
+2025-10-30 07:00:00+00:00,"Stocks to Watch today: Coal India, L&T, Wipro, Bharti Airtel, Ola Electric",Business Standard,0.015894854441285133
+2025-12-16 08:00:00+00:00,Bharti Airtel shares: Why Morgan Stanley raised target price by 20%?,Business Today,0.4442416187375784
+2025-09-12 07:00:00+00:00,Stocks to buy for short term: From HAL to Bharti Airtel— Ajit Mishra of Religare Broking recommends THESE 3 shares,Mint,0.043962690979242325
+2025-08-08 03:41:00+00:00,"Bharti Airtel block deal today; Rs 9,300 crore shares to change hands; key details",MSN,-0.032832467928528786
+2025-11-07 08:00:00+00:00,"Bharti Airtel share price slumps over 3% amid reports of ₹10,300 cr block deal; Singtel likely seller",Mint,-0.958442454226315
+2025-08-04 07:00:00+00:00,Bharti Airtel shares trade higher ahead of Q1 results; five recent developments you need to know,Upstox,0.7081364877521992
+2025-08-07 07:00:00+00:00,"Stocks to Watch, August 8: Bharti Airtel, AU Small Fin Bank, LIC, Titan, Kalyan Jewellers, SBI, Tata Motors, HPCL",Upstox,0.027604589238762856
+2025-08-05 07:00:00+00:00,Bharti Airtel Q1 results: Revenue and profit likely to see double-digit growth; check earnings preview and key technical levels,Upstox,0.7675896286964417
+2025-10-28 07:00:00+00:00,"Buy for Long Term: How analysts view IOC, SBI, Bharti Airtel stocks as fundamental picks",Zee Business,0.06203985959291458
+2025-09-18 07:00:00+00:00,Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History,The Economic Times,-0.010053170844912529
+2025-11-04 08:00:00+00:00,"Stocks to Watch Today: Bharti Airtel, Titan, SJS Enterprises, Godfrey Phillips, Hitachi Energy, Hero Moto,...",Moneycontrol,0.04709066729992628
+2025-11-04 08:00:00+00:00,Bharti Airtel shares rise over 2% after Q2 PAT surges 89% YoY,The Economic Times,0.920324670150876
+2025-08-20 07:00:00+00:00,Bharti Airtel shares jump 2% as co withdraws entry-level 1 GB/day plan,The Economic Times,-0.7289193421602249
+2025-10-29 07:00:00+00:00,Bharti Airtel - Govt of Singapore’s India portfolio: 12 stocks rally up to 60% in 2025 so far. Do you hold any?,The Economic Times,0.8422553259879351
+2025-08-11 07:00:00+00:00,"Top stocks to buy: Stock recommendations for the week starting August 11, 2025 - check list",The Times of India,-0.018544131889939308
+2025-10-23 07:00:00+00:00,"Shares to buy in short term: Mehta Equities’ Riyank suggests Bharti Airtel, Motilal Oswal, Paytm stock to buy",Mint,0.06941601540893316
+2025-11-26 08:00:00+00:00,Why are Airtel shares tumbling in the stock market today?,theweek.in,-0.8425186946988106
+2025-11-12 08:00:00+00:00,"TT&A, Mayer Brown advise on USD1.2bn Bharti Airtel stake sale",Law.asia,0.07041096966713667
+2025-08-08 07:00:00+00:00,"Bharti Airtel block deal today; Rs 9,300 crore shares to change hands; key details",Business Today,-0.032832467928528786
+2025-10-19 07:00:00+00:00,"Stock market recap: M-cap of 7 of most valuable firms jumps by Rs 2.16 lakh cr; Reliance, Airtel lead the",The Times of India,0.9019829966127872
+2025-09-16 07:00:00+00:00,"RIL, Bharti Airtel set to dominate India's $8bn data centre boom: Jefferies",Business Standard,0.2100399686023593
+2025-11-07 08:00:00+00:00,Bharti Airtel Shares Drop Following Singtel-Related Block Sale,Zee News,-0.9583945353515446
+2025-11-26 08:00:00+00:00,"Bharti Airtel block deal: Rs 7,193 cr worth shares may change hands; here's offer price",Business Today,-0.02053476870059967
+2025-11-25 08:00:00+00:00,"Bharti Airtel Block Deal | Indian Continent Investment likely to sell ₹7,100 crore stake",CNBC TV18,0.18419643491506577
+2025-08-08 07:00:00+00:00,"Indian Continent Investment Ltd Divests Nearly 1% Stake in Bharti Airtel for Rs 11,227 Crore",Goodreturns,-0.077061602845788
+2025-11-25 08:00:00+00:00,"Stocks to Watch: Bharti Airtel, NCC, Indian Overseas Bank, HCLTech and more",CNBC TV18,0.009918507188558578
+2025-11-26 08:00:00+00:00,Sunil Mittal family sells Bharti Airtel shares worth 3.4 crore shares in block deal,The Economic Times,-0.001531468704342842
+2025-11-03 08:00:00+00:00,"Stocks to watch: Bharti Airtel, BPCL, Vedanta among 10 shares in focus today",Mint,0.05522194132208824
+2025-11-18 08:00:00+00:00,Why did Bharti Airtel stock soar to 52-week high on Nov 18?,theweek.in,0.11766187474131584
+2025-11-07 08:00:00+00:00,Singtel arm to sell 0.8% in Airtel for 10.5k crore,The Times of India,0.049214416183531284
+2025-11-26 08:00:00+00:00,"Bharti Airtel shares drop over 3% after Sunil Mittal entity sells stake worth ₹7,200 cr via block deal",Fortune India,-0.9597362410277128
+2025-08-05 07:00:00+00:00,India's Bharti Airtel posts quarterly profit jump on tariff gains,Yahoo Finance Singapore,0.6773149520158768
+2025-10-18 07:00:00+00:00,"Stocks to buy: From Bharti Airtel, L&T to MSTC— HDFC Securities recommends 10 shares as Diwali picks for Samvat 2082",Mint,0.05022260174155235
+2025-11-04 08:00:00+00:00,"Stocks to Watch today, Nov 4: Bharti Airtel, Titan, Hero MotoCorp, Cipla",Business Standard,0.04804007150232792
+2025-11-07 08:00:00+00:00,Bharti Airtel shares tumble 4% after 5.1 crore shares change hands in block deal,The Economic Times,-0.9569689836353064
+2025-11-23 08:00:00+00:00,"Market capitalisation of 7 of top-10 most valued firms jumps by ₹1.28 lakh crore; RIL, Bharti Airtel biggest gainers",Mint,0.8991086035966873
+2025-12-23 08:00:00+00:00,"Stocks to buy for short term: From Bharti Airtel, NMDC to BSE— Experts suggest these 6 technical picks for 1-2 weeks",Mint,0.08250012714415789
+2025-08-09 07:00:00+00:00,Mittal-led promoter entity offloads Airtel shares worth $1.28 billion,Mint,-0.8042186079546809
+2025-09-12 07:00:00+00:00,Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History,The Economic Times,-0.010053170844912529
+2025-12-19 08:00:00+00:00,Stock Radar: Bharti Airtel stock takes support above 50-DMA after hitting highs in November 2025; what sho,The Economic Times,0.6423897799104452
+2025-11-13 08:00:00+00:00,"Vodafone Idea can rise up to 50% from here, Airtel may gain 9%: Tech charts",Business Standard,0.8082793126814067
+2025-10-06 11:03:00+00:00,"Bharti Airtel shares end higher as Airtel Business wins multi-year contract, more details",MSN,0.889544959180057
+2025-08-08 07:00:00+00:00,"Bulk deals: Promoter entity Indian Continent Investment sells shares worth Rs 11,227 crore in Bharti...",Moneycontrol,0.026600902900099754
+2025-11-26 08:00:00+00:00,Bharti Airtel shares slip 3% amid large trades; check all details here,Business Standard,-0.947132914327085
+2025-08-08 07:00:00+00:00,"Stocks to Watch Today: Titan, Bharti Airtel, Biocon, Cummins, BSE, LIC, KRBL, Metropolis, Kalpataru...",Moneycontrol,0.029808755964040756
+2025-11-06 08:00:00+00:00,"NIFTY50 at 25,463, SENSEX down 201 pts in noon deals; Bharti Airtel, BHEL, ABB India among buzzing stocks",Upstox,-0.9549589371308684
+2025-08-07 07:00:00+00:00,"Airtel promoters to sell shares worth over Rs 9,000 crore in block deal",The Economic Times,0.04189903847873211
+2025-12-20 08:00:00+00:00,"Bharti Airtel Stock Update (20 December 2025): Rights-Issue Call, Leadership Shuffle, Tariff-Hike Bets and Fresh Analyst Targets",TechStock²,0.25640171580016613
+2025-11-26 08:00:00+00:00,"Stocks to watch: Bharti Airtel, HCL Tech, NCC among 10 shares in focus today",Mint,0.04494919441640377
+2025-11-04 08:00:00+00:00,"Bharti Airtel up 3% post Q2 results, hits new high. Should you buy or hold?",Business Standard,0.7507667765021324
+2025-11-27 08:00:00+00:00,Indian Continent Investment Plans Bharti Airtel Stake Sale,HDFC Sky,0.0352624598890543
+2025-11-03 08:00:00+00:00,"Stocks to Watch, November 4: Indus Towers, Paytm, Bharti Airtel, Titan, ACME Solar, SBI, Mahindra & Mahindra, IndiGo, Indian Hotels",Upstox,0.03931055124849081
+2025-10-06 07:00:00+00:00,"Stocks to Watch: LTIMindtree, Brigade Enterprises, Bharti Airtel, Vodafone Idea and more",CNBC TV18,0.012236859649419785
+2025-11-27 08:00:00+00:00,"Bharti Airtel, shares down, after promoter entity trims stake",Communications Today,-0.9520560503005981
+2025-10-08 07:00:00+00:00,Bharti Airtel Wins Major Cybersecurity Contract | Solex Energy Gets Approval for Mainboard Migration | Top Buzzing Stocks Today,Equitymaster,0.9145475821569562
+2025-11-24 08:00:00+00:00,"Stocks to buy for short-term: Bharti Airtel, GMR Airports, M&M Financial among technical stock picks for this week",Mint,0.05079924687743187
+2025-08-20 07:00:00+00:00,"Stocks to buy for long term: From BEL, Bharti Airtel, SBI, to ITC— Experts suggest THESE 20 high-earnings value picks",Mint,0.09492482244968414
+2025-10-07 07:00:00+00:00,"Stocks to watch today, October 7: Reliance Jio, Airtel, Vodafone Idea, Zomato, Oil India and more",ET Now,0.015133539214730263
+2025-08-26 07:00:00+00:00,"Emkay on telecom: Sell Vodafone Idea, Reduce Bharti Airtel, Buy Indus Tower",Business Standard,0.034063080325722694
+2025-12-26 08:00:00+00:00,"Stocks to buy today: Airtel, Coal India and HCLTech on analyst's radar",Business Standard,0.05073196068406105
